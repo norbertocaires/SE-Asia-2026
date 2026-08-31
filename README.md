@@ -339,6 +339,6 @@ Quick version:
 - **13-day Vietnam is tight but un-rushed** — every block has its own arrival/reset day; only the Nov 16 El Nido→HCMC and Nov 26 Nha Trang→HCMC→PQC days are pure transit.
 - **Oslob/Cebu gone** — the CEB→SGN Mon/Wed/Fri anchor and its fragile logistics are removed from the plan.
 - **Da Lat canyoning** is rain-gated but November is its safe season; book refundable (Viet Challenge / Phat Tire).
-- **Yellow Fever cert** is the most likely thing to get you turned away at immigration — get it early.
+- **Yellow Fever cert** is the most likely thing to get you turned away at immigration — get it early
 
 — End of file —
