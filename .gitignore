@@ -1,3 +1,7 @@
+### Vercel / build output
+.vercel
+public/
+
 ### Windows
 # Windows thumbnail cache files
 Thumbs.db
