@@ -36,6 +36,10 @@
 | 10 | Vietnam exit | **PQC→KTI direct flight (Air Cambodia)** replaces the HCMC→PP bus/land border |
 | 11 | Da Lat new attraction | **Greenline Luge (Cao Nguyên Hoa)** — gravity kart, Tà Nung Pass |
 | 12 | Long-haul | **GRU⇄DPS round trip — BOUGHT** (dep GRU Oct 31 01:30 · arr DPS Nov 2 10:30 · ret DPS Dec 2 00:15 → GRU 17:35). ~15h Jakarta (CGK) stopover on Nov 1 → **Jakarta entry (content TBD)** |
+| 13 | Ubud lodging | **Diara's Cottage (No 1 Jalan Subak Sok Wayah, 80571) — RESERVED** (Nov 2–6, 5 nights) · private cottage 9.1/22 · 800 m from center, near Campuhan Ridge; Monkey Forest = 1.8 km (scooter/Grab) |
+| 14 | Banyuwangi lodging | **HHHH Hostel (Jl. Trunojoyo 51, 68417) — RESERVED** (Nov 7–9, 3 nights) · ~500 m from center, standard Ijen open-trip pickup zone · Hostelz 9.54 |
+| 15 | Kuta pre-Cebu night | **Adhi Jaya Hotel (Jl. Kartika Plaza, Kuta 80361) — RESERVED** (Nov 10, 1 night) · ~2 km / ~4 min from DPS (early Nov 11 flight) · 8.6/10 (Agoda 4k) · takeaway breakfast for early departure · ⚠️ Grab, not the hotel's 200k IDR transfer |
+| 16 | Puerto Princesa lodging | **Lokal Hut Bed & Breakfast (Trinidad Rd off Rizal Avenue, 5400) — RESERVED** (Nov 11–12, 2 nights) · homestay ~9.0/400+ · central, tour pickups walkable, airport ~5 min · ask for hot-shower + good-AC room |
 
 ---
 
@@ -60,7 +64,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ### Day 4 · Mon Nov 2 · Arrive Bali → Ubud
 - **CGK→DPS 07:05 → arrive DPS 10:30** (morning, not evening — v3 assumed evening). Bali Levy QR + **arrival card** ready (entry #1).
 - Transfer to **Ubud** (~1.5h) → arrive midday. 🛏️ Ubud.
-- Hotel: **The Nest Ubud** (~$39/private ÷3) or **Puri Garden Hotel & Hostel** (9.1/1,130).
+- 🥇 **Diara's Cottage** (No 1 Jalan Subak Sok Wayah, 80571) — **RESERVED** · private cottage, 9.1/22 · ~800 m from center (15-min walk to Palace/Art Market), near Campuhan Ridge Walk; ⚠️ Monkey Forest is 1.8 km (~25-min walk — scooter/Grab).
 
 ---
 
@@ -86,8 +90,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ Ubud.
 
 ### Day 9 · Sat Nov 7 · Bali → Banyuwangi (Ijen)
-- **Road + ferry** (Denpasar → Gilimanuk ferry → Ketapang): ~5–9h, ~$13–15 pp all-in. Or **Citilink flight DPS→BWX** (~40min, ~$100–130, thin schedule).
-- Arrive **Banyuwangi** evening. 🛏️ **Zzz Ijen Hostel** (~$5–15) or **Good Feeling Homestay** — stay in town so the Ijen pickup is free.
+- **Road + ferry** (Denpasar → Gilimanuk ferry → Ketapang): ~5–9h, ~$13–15 pp all-in. **Best pick: Lintas Nusa door-to-door shuttle** — Rp 210k (~$13) all-in incl. ferry + meal, daily 11:00 & 21:00 WITA, **WA 0812-3452-0200** (lintasnusa.id). ⚠️ Bali is 1h ahead of Banyuwangi (WITA vs WIB). Or **Citilink flight DPS→BWX** (~40min, ~$100–130, thin schedule).
+- Arrive **Banyuwangi** evening. 🛏️ **HHHH Hostel** (Jl. Trunojoyo 51) — **RESERVED** · ~500 m from center (6-min walk), right in the standard Ijen open-trip pickup zone · Hostelz 9.54.
 
 ### Day 10 · Sun Nov 8 · Banyuwangi prep day
 - Rest + confirm the Ijen "open trip" via WhatsApp (shared ~$16–27 pp; midnight pickup; includes transport+guide; masks/headlamps extra; health cert arranged by operator).
@@ -99,8 +103,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - Rest all afternoon. 🛏️ Banyuwangi.
 
 ### Day 12 · Tue Nov 10 · Banyuwangi → Bali
-- Return via road+ferry (~5–9h) or **BWX→DPS flight** (~40min).
-- 🛏️ Near DPS (Kuta/Seminyak pod — pick TBD, ~$15–25) for tomorrow's early flight.
+- Return via road+ferry (~5–9h) — **Lintas Nusa** reverse route Banyuwangi→Bali, **WA 0812-3452-0200** (Rp 210k all-in, daily 11:00/21:00; 11:00 → Denpasar ~18–20 WITA) or **BWX→DPS flight** (~40min).
+- 🛏️ **Adhi Jaya Hotel** (Jl. Kartika Plaza, Kuta 80361) — **RESERVED** · ~2 km / ~4 min from DPS, opposite Discovery Mall · 8.6 (Agoda 4k) · pool; ⚠️ staff push a 200k IDR airport transfer — use Grab (fraction of the price). Ask for a **packed takeaway breakfast** for the early Nov 11 flight.
 
 ### 📷 Photos — Indonesia
 - **Monkey Forest macaques** — [photo](https://live.staticflickr.com/3833/9692063092_6d0fceb484_b.jpg)
@@ -116,7 +120,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ### Day 13 · Wed Nov 11 · DPS → Manila → Puerto Princesa
 - **Cebu Pacific 5J280** DPS→MNL ~08:35 (4h20, ~$82–150 — ⚠️ verify day of week for Nov 11). Arrive ~13:00.
 - ⚠️ **REQUIRED: same-day MNL→PPS connect (~15:00–17:00, ~$35–90).** Book both legs on one PNR. Arrive PPS evening.
-- 🛏️ **MVPods** (~$7–12, city center) or **Duck & Drift** (9.2/141).
+- 🛏️ **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Avenue, 5400 PP) — **RESERVED** · homestay, ~9.0/400+ · central (walking distance to shops/restaurants, tour pickups), airport ~5 min · $$; ask for a hot-shower + working-AC room.
 - *Worst case (no same-day connect):* overnight in Manila → you lose **El Nido Tour B**.
 
 ### Day 14 · Thu Nov 12 · Underground River ✅ (rain-proof cave)
@@ -247,7 +251,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | BSB→GRU | Feeder | LATAM / GOL (Oct 30) | ~$40–90 | Night before the 01:30 long-haul |
 | **GRU→CGK (Jakarta)** | Long haul | **BOUGHT** — GRU 01:30 Oct 31 → CGK 15:40 Nov 1 | **paid** | RT with the return; ~15h CGK layover (Nov 1) |
 | **CGK→DPS** | Long haul leg | **BOUGHT** — CGK 07:05 Nov 2 → DPS 10:30 Nov 2 | **paid** | Immigration = Indonesia entry #1 at CGK |
-| DPS↔BWX | Road+ferry (or flight) | **Road+ferry** ~$13 | $13–130 | Nov 7 out / Nov 10 back; flight (Citilink ~$100) is thin |
+| DPS↔BWX | Road+ferry (or flight) | **Lintas Nusa shuttle Rp 210k (~$13)** | $13–130 | Nov 7 out / Nov 10 back; WA 0812-3452-0200 · 11:00/21:00 daily, door-to-door, ferry+meal incl.; flight (Citilink ~$100) is thin |
 | DPS→MNL | Flight | Cebu Pacific 5J280 (Nov 11) | $82–150 | ⚠️ verify day of week; LCC — bag fees on top |
 | MNL→PPS | Flight | Cebu Pacific / PAL (Nov 11) | $35–90 | ⚠️ **REQUIRED same-day connect** — one PNR |
 | El Nido (Lio)→MNL | Flight | **AirSWIFT** (Nov 16, verify) | $60–120 | Fallback: van to PPS + PPS→MNL (~$26–80) |
@@ -289,10 +293,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 |---|---|---|---|---|---|---|
 | Transit (BSB→GRU→CGK) | Oct 30–31 | 1 | — (~$15 day-room) | — | $15 | ~$30 |
 | Jakarta stopover (CGK pod) | Nov 1 | 1 | $15 (pod/day-room near CGK) | $10–25 (explore — TBD) | $20 | $45–60 |
-| Ubud core + Nusa Penida + buffer | Nov 2–6 | 5 | $13 (The Nest / Puri Garden, room ÷3) | $25–45 | $20 | $58–78 |
-| Banyuwangi / Ijen (open trip) | Nov 7–9 | 3 | $8 (Zzz / Good Feeling) | $15–20 | $15 | $38–43 |
-| Bali exit (pod near DPS — pick TBD) | Nov 10 | 1 | $18 | $14 (road+ferry) | $20 | $52 |
-| Puerto Princesa (transit + Underground River) | Nov 11–12 | 2 | $10 (MVPods) | $18–21 | $20 | $48–51 |
+| Ubud core + Nusa Penida + buffer | Nov 2–6 | 5 | Diara's Cottage (2 rooms/÷3, reserved) | $25–45 | $20 | $58–78 |
+| Banyuwangi / Ijen (open trip) | Nov 7–9 | 3 | HHHH Hostel (reserved) | $15–20 | $15 | $38–43 |
+| Bali exit (Adhi Jaya Hotel, Kuta) | Nov 10 | 1 | ~$15–20 (room ÷3, reserved) | $14 (road+ferry) | $20 | $49–54 |
+| Puerto Princesa (transit + Underground River) | Nov 11–12 | 2 | Lokal Hut B&B (reserved, rate TBD) | $18–21 | $20 | $38–41 + lodging |
 | El Nido (Tours A + B) | Nov 13–15 | 3 | $20 (The Beach House) | $21–29 | $20 | $61–69 |
 | Ho Chi Minh City (Cu Chi, war sites, spa) | Nov 16–19 | 4 | $20 (Capsule Riverside) | $15–25 (+$24–45 optional spa, Day 21) | $20 | $55–65 |
 | Da Lat (canyoning + luge) | Nov 20–21 | 2 | $10–15 (pick = research gap) | $30–50 | $15 | $55–80 |
@@ -304,7 +308,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 **Roll-up vs the Budget table:** accommodation ≈ $400–550 ✓ (range $330–1,330) · day spend (tours + local transport + food) ≈ $1,950–2,600 ✓ · flights ≈ $3,000–3,900 (incl. BOUGHT long-haul est.) → realistic all-in ≈ **$5,100–7,600**.
 
-> **Research gaps:** (1) Day 12 + Day 32/33 Kuta/Seminyak pod near DPS (~$15–25), (2) Da Lat accommodation (2 nights, ~$10–15 pp), (3) Nha Trang accommodation (4 nights, ~$10–20 pp), (4) Phú Quốc accommodation (2 nights, ~$15–25 pp near Duong Dong or United Center). Quick Booking searches for "capsule hostel" + city will close them.
+> **Research gaps:** (1) Dec 1 Kuta/Seminyak pod near DPS (~$15–25; the Nov 10 night is now booked at Adhi Jaya Hotel), (2) Da Lat accommodation (2 nights, ~$10–15 pp), (3) Nha Trang accommodation (4 nights, ~$10–20 pp), (4) Phú Quốc accommodation (2 nights, ~$15–25 pp near Duong Dong or United Center). Quick Booking searches for "capsule hostel" + city will close them.
 
 ---
 
