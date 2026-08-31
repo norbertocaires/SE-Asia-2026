@@ -312,6 +312,92 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ---
 
+# Accommodation per Day
+
+> Night stays per calendar day (non-stay transit/flight days marked with —). "Research gap" = planned pick TBD (see Research gaps below).
+
+| Day | Accommodation | City |
+|---|---|---|
+| Day 1 · Oct 30 | — (pre-flight evening / airport) | BSB → GRU |
+| Day 2 · Oct 31 | — (long-haul flight) | In transit |
+| Day 3 · Nov 1 | Pod / day-room near CGK (~$10–20) | Jakarta (CGK) |
+| Day 4 · Nov 2 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
+| Day 5 · Nov 3 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
+| Day 6 · Nov 4 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
+| Day 7 · Nov 5 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
+| Day 8 · Nov 6 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
+| Day 9 · Nov 7 | **HHHH Hostel** (Jl. Trunojoyo 51) — RESERVED | Banyuwangi |
+| Day 10 · Nov 8 | **HHHH Hostel** (Jl. Trunojoyo 51) — RESERVED | Banyuwangi |
+| Day 11 · Nov 9 | **HHHH Hostel** (Jl. Trunojoyo 51) — RESERVED | Banyuwangi |
+| Day 12 · Nov 10 | **Adhi Jaya Hotel** (Jl. Kartika Plaza, Kuta) — RESERVED | Kuta |
+| Day 13 · Nov 11 | **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Ave) — RESERVED | Puerto Princesa |
+| Day 14 · Nov 12 | **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Ave) — RESERVED | Puerto Princesa |
+| Day 15 · Nov 13 | The Beach House (~$15–25) **or** The Cavern Pod (~$30–40) | El Nido |
+| Day 16 · Nov 14 | The Beach House (~$15–25) **or** The Cavern Pod (~$30–40) | El Nido |
+| Day 17 · Nov 15 | The Beach House (~$15–25) **or** The Cavern Pod (~$30–40) | El Nido |
+| Day 18 · Nov 16 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
+| Day 19 · Nov 17 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
+| Day 20 · Nov 18 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
+| Day 21 · Nov 19 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
+| Day 22 · Nov 20 | Da Lat pod/dorm (~$10–15, research gap) | Da Lat |
+| Day 23 · Nov 21 | Da Lat pod/dorm (~$10–15, research gap) | Da Lat |
+| Day 24 · Nov 22 | Nha Trang (~$10–20, research gap) | Nha Trang |
+| Day 25 · Nov 23 | Nha Trang (~$10–20, research gap) | Nha Trang |
+| Day 26 · Nov 24 | Nha Trang (~$10–20, research gap) | Nha Trang |
+| Day 27 · Nov 25 | Nha Trang (~$10–20, research gap) | Nha Trang |
+| Day 28 · Nov 26 | Phú Quốc (~$15–25, research gap) | Phú Quốc (Duong Dong) |
+| Day 29 · Nov 27 | Phú Quốc (~$15–25, research gap) | Phú Quốc (Duong Dong) |
+| Day 30 · Nov 28 | Onederz Phnom Penh (~$10–15) | Phnom Penh |
+| Day 31 · Nov 29 | Onederz Phnom Penh (~$10–15) | Phnom Penh |
+| Day 32 · Nov 30 | SGN airport pod (~$15–25, optional) **or** DPS pod | Saigon / Bali |
+| Day 33 · Dec 1 | Pod near DPS (~$15–25, pick TBD) | Kuta/Seminyak |
+| Day 34 · Dec 2 | — (home) | Home |
+
+---
+
+# Things to Do per City
+
+> Main events/activities per calendar day (non-activity transit/flight days marked with —).
+
+| Day | Event | City |
+|---|---|---|
+| Day 1 · Oct 30 | — (depart BSB → GRU) | BSB → São Paulo |
+| Day 2 · Oct 31 | — (long-haul GRU → CGK) | In transit |
+| Day 3 · Nov 1 | Jakarta stopover — content TBD ⚠️ (immigration at CGK) | Jakarta |
+| Day 4 · Nov 2 | Arrive Bali → transfer to Ubud (Bali Levy + arrival card) | Bali → Ubud |
+| Day 5 · Nov 3 | Monkey Forest · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
+| Day 6 · Nov 4 | Tegalalang Rice Terrace · Tirta Empul water temple · coffee plantation · Tegenungan waterfall | Ubud |
+| Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong ⚠️ | Nusa Penida |
+| Day 8 · Nov 6 | Buffer — Balinese cooking class · spa · Blanco Museum (or Penida rebook) ✅ | Ubud |
+| Day 9 · Nov 7 | Lintas Nusa road + ferry Bali → Banyuwangi (~5–9h) | Bali → Banyuwangi |
+| Day 10 · Nov 8 | Rest + confirm Ijen "open trip" · optional hot springs · early sleep | Banyuwangi |
+| Day 11 · Nov 9 | Ijen blue fire trek + sunrise over crater lake ⚠️ | Ijen (Banyuwangi) |
+| Day 12 · Nov 10 | Lintas Nusa return Banyuwangi → Bali · prep for early flight | Banyuwangi → Bali |
+| Day 13 · Nov 11 | DPS→MNL→PPS same-day connect (travel day) | Manila → Puerto Princesa |
+| Day 14 · Nov 12 | Underground River (Puerto Princesa → Sabang) ✅ | Puerto Princesa |
+| Day 15 · Nov 13 | Van PPS → El Nido (travel day) | El Nido |
+| Day 16 · Nov 14 | El Nido Tour A — Big Lagoon · Secret Lagoon · Shimizu Beach ⚠️ | El Nido |
+| Day 17 · Nov 15 | El Nido Tour B — Snake Island · Cathedral Cave · Pinagbuyutan ⚠️ | El Nido |
+| Day 18 · Nov 16 | El Nido → MNL → SGN flights (travel day) | El Nido → Ho Chi Minh City |
+| Day 19 · Nov 17 | Cu Chi Tunnels half-day (+AK-47 firing range) · Ben Thanh Market · Bui Vien street ✅ | Ho Chi Minh City |
+| Day 20 · Nov 18 | War Remnants Museum · Reunification Palace · food crawl (banh mi, com tam, egg coffee, rooftop) ✅ | Ho Chi Minh City |
+| Day 21 · Nov 19 | Bitexco Skydeck · Fine Arts Museum · spa (Sense Spa) · AO Show / rooftop ✅ | Ho Chi Minh City |
+| Day 22 · Nov 20 | Flight HCMC→Da Lat · Xuan Huong Lake · coffee · Domaine de Marie · night market | Da Lat |
+| Day 23 · Nov 21 | Datanla canyoning (Viet Challenge / Phat Tire) ⚠️ | Da Lat |
+| Day 24 · Nov 22 | Greenline Luge (Cao Nguyên Hoa) + Datanla Alpine Coaster · limo to Nha Trang | Da Lat → Nha Trang |
+| Day 25 · Nov 23 | Po Nagar Cham Towers · Long Son Pagoda · Tran Phu beach · XQ Hand Embroidery · optional mud bath | Nha Trang |
+| Day 26 · Nov 24 | Hon Mun island snorkeling ⚠️ **or** VinWonders Nha Trang ✅ | Nha Trang |
+| Day 27 · Nov 25 | Beach · spa · Vincom mall (reset) ✅ | Nha Trang |
+| Day 28 · Nov 26 | Flights Nha Trang→HCMC→Phú Quốc · Grand World night show / Duong Dong night market | Phú Quốc |
+| Day 29 · Nov 27 | Vinpearl Safari · Grand World night show + K-town / Teddy Bear lights ✅ | Phú Quốc |
+| Day 30 · Nov 28 | Morning beach buffer · flight PQC→KTI · optional S21 / Tuol Sleng | Phnom Penh |
+| Day 31 · Nov 29 | Kampong Speu shooting range (rocket launcher) ⚠️ | Kampong Speu → Phnom Penh |
+| Day 32 · Nov 30 | KTI→SGN→DPS return hop (travel day) | Phnom Penh → Bali |
+| Day 33 · Dec 1 | Bali buffer day — beach/Seminyak/Canggu · last shopping · sunset · red-eye prep · Bali Levy #2 | Bali (Denpasar) |
+| Day 34 · Dec 2 | DPS→GRU→BSB long haul · home | In transit → Home |
+
+---
+
 # Pre-Trip Checklist (pointer)
 
 Full details + vaccines/forms in **[SE Asia 2026 - Scratchpad.md](./SE%20Asia%202026%20-%20Scratchpad.md)**.
@@ -339,6 +425,6 @@ Quick version:
 - **13-day Vietnam is tight but un-rushed** — every block has its own arrival/reset day; only the Nov 16 El Nido→HCMC and Nov 26 Nha Trang→HCMC→PQC days are pure transit.
 - **Oslob/Cebu gone** — the CEB→SGN Mon/Wed/Fri anchor and its fragile logistics are removed from the plan.
 - **Da Lat canyoning** is rain-gated but November is its safe season; book refundable (Viet Challenge / Phat Tire).
-- **Yellow Fever cert** is the most likely thing to get you turned away at immigration — get it early.
+- **Yellow Fever cert** is the most likely thing to get you turned away at immigration — get it early
 
 — End of file —
