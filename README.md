@@ -73,21 +73,42 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ### Day 5 · Tue Nov 3 · Ubud core
 - **Monkey Forest** ✅ (early, light-rain fine) · **Ubud Art Market** ✅ · **Campuhan Ridge Walk** ✅.
 - Evening: Legong/Kecak **dance at Ubud Palace** ✅ (~$10–20, covered stage).
+- 🌙 **Night options:**
+  - **Legong/Kecak dance at Ubud Palace** ✅ (~$6, nightly 7:30 PM, different dance each night — arrive 7 PM for seats)
+  - **CP Lounge** (Jl Monkey Forest) — live band nightly from 9 PM, DJ from midnight, pool, cocktails from ~$5, beer ~$2–3; Latin dance nights on Fridays; free entry
+  - **Laughing Buddha Bar** (Jl Monkey Forest) — live music every night (rock/blues/soul), cocktails ~$5–7, gets social late
+  - **The Lair** — hidden riverside cocktail bar under Campuhan Bridge, cave-like entrance, jungle views, creative cocktails ~$7; small venue, book ahead
+  - **Shadow puppet show (Wayang Kulit)** at Oka Kartini — Wed/Fri/Sun 8 PM, ~$6; ancient leather-puppet art form with gamelan orchestra
+  - **Gianyar Night Market** (~25 min drive) — dozens of street food stalls, babi guling, zero tourist vibe; full meal ~$2–4; open daily 5–10 PM
+  - **Sayan Night Market** — closer to center, almost entirely locals, hidden gem; full meal ~$4
+  - **Hikaria Night Walk** — immersive light trail through forest/rice terraces with Balinese mythology projections; ~$15–20 pp, starts 7 PM, ~30 min drive north
+  - **Firefly tour at Taro Village** — organic farm + Balinese cooking class + firefly walk through rice paddies; ~$15–21 pp incl. dinner; ~4–5h; book via GetYourGuide
 
 ### Day 6 · Wed Nov 4 · Ubud day tour (shared pickup — optional)
 - **Tegalalang Rice Terrace** ⚠️ (lush in wet season, muddy) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation · waterfall (Tegenungan) ⚠️.
 - Full-day shared tour ~$15–30 pp w/ hotel pickup; or private car ~$30–35/car (cheaper for 3).
+- 🌙 **Night options:**
+  - **Campuhan Ridge Walk at sunset** — golden-hour light over the ridge, completely free; start ~5 PM
+  - **Sayan Point Restaurant** — panoramic sunset views over Ayung River valley and jungle; min spend ~$9/person easily met with a main + drink; book via Instagram for a good table
+  - **Bukit Cinta ("Love Hill")** — viewpoint with Mt. Agung in the background, locals' favorite sunset, less crowded; free
+  - **Walk the rice fields at night** — start at sunset, watch sky change over the paddies, stay until stars come out; bring flashlight for the walk back; free
+  - **Karaoke night** — private rooms at MediaFun, modern machines, open until 2 AM; ~$4 pp for the room + ~$5 cocktails
 
 ### Day 7 · Thu Nov 5 · Nusa Penida day trip ⚠️ (TOP rain/sea risk in Bali)
 - Early fast boat **Sanur → Nusa Penida** (swell can cancel Nov–Mar — today is the fixed slot, tomorrow is the buffer).
 - **Kelingking Beach** viewpoint ⚠️ · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️.
-- ~$50–80 pp incl. boat + driver.
+- Optional ⚠️🔥 **bungee jump at Extreme Park Bali** (~10 min from Kelingking, 130 m cliff over the ocean) — jump-only ≈ **$150–300 pp** w/ video (~IDR 3.1M+), or add to the tour package; a few operators list it **temporarily closed for permit renewal** — verify availability when booking.
+- ~$50–80 pp incl. boat + driver (bungee extra).
+- 🌙 **Night:** Back in Ubud by evening — repeat any of the Day 5 night picks (CP Lounge, Laughing Buddha, night markets, etc.).
 - 🛏️ Ubud.
 
 ### Day 8 · Fri Nov 6 · Nusa Penida buffer / Ubud reset
 - If Penida ran: free day — **Balinese cooking class** ✅ (~$25–40) · **spa** ✅ · **Blanco Museum** ✅.
 - If Penida was cancelled: rebook it today. Never leave it to the last Bali day.
-- 🛏️ Ubud.
+- 🌙 **Night options:**
+  - **Cinema Paradiso (Paradiso Ubud)** — world's first vegan cinema, indie and Hollywood films with organic snacks; ~$3–5; good for a rainy evening
+  - **Rice field sunset walk** — if not done yesterday, grab a Bia Saigon from a mini-mart and watch the sky change over the paddies; free
+  - Last Ubud night — any of the Day 5/6 picks you haven't tried yet
 
 ### Day 9 · Sat Nov 7 · Bali → Banyuwangi (Ijen)
 - **Road + ferry** (Denpasar → Gilimanuk ferry → Ketapang): ~5–9h, ~$13–15 pp all-in. **Best pick: Lintas Nusa door-to-door shuttle** — Rp 210k (~$13) all-in incl. ferry + meal, daily 11:00 & 21:00 WITA, **WA 0812-3452-0200** (lintasnusa.id). ⚠️ Bali is 1h ahead of Banyuwangi (WITA vs WIB). Or **Citilink flight DPS→BWX** (~40min, ~$100–130, thin schedule).
@@ -182,7 +203,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 25 · Mon Nov 23 · Nha Trang core
 - **Po Nagar Cham Towers** ✅ · **Long Son Pagoda** ✅ · **Tran Phu beach** ✅ · **XQ Hand Embroidery** ✅.
-- Optional: **mud bath** (I-Resort / Thap Ba) ✅ (~$8–15).
+- Optional: **Yersin Market** (Chợ Xóm Mới, Yersin St) ✅ — authentic fresh seafood & local-produce market, free, best in the morning · **mud bath** (I-Resort / Thap Ba) ✅ (~$8–15).
 - Evening: seafood at the waterfront.
 
 ### Day 26 · Tue Nov 24 · Nha Trang islands ⚠️ (sea-gated)
@@ -367,7 +388,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 4 · Nov 2 | Arrive Bali → transfer to Ubud (Bali Levy + arrival card) | Bali → Ubud |
 | Day 5 · Nov 3 | Monkey Forest · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
 | Day 6 · Nov 4 | Tegalalang Rice Terrace · Tirta Empul water temple · coffee plantation · Tegenungan waterfall | Ubud |
-| Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong ⚠️ | Nusa Penida |
+| Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong · **optional bungee jump (Extreme Park Bali)** ⚠️ | Nusa Penida |
 | Day 8 · Nov 6 | Buffer — Balinese cooking class · spa · Blanco Museum (or Penida rebook) ✅ | Ubud |
 | Day 9 · Nov 7 | Lintas Nusa road + ferry Bali → Banyuwangi (~5–9h) | Bali → Banyuwangi |
 | Day 10 · Nov 8 | Rest + confirm Ijen "open trip" · optional hot springs · early sleep | Banyuwangi |
@@ -385,7 +406,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 22 · Nov 20 | Flight HCMC→Da Lat · Xuan Huong Lake · coffee · Domaine de Marie · night market | Da Lat |
 | Day 23 · Nov 21 | Datanla canyoning (Viet Challenge / Phat Tire) ⚠️ | Da Lat |
 | Day 24 · Nov 22 | Greenline Luge (Cao Nguyên Hoa) + Datanla Alpine Coaster · limo to Nha Trang | Da Lat → Nha Trang |
-| Day 25 · Nov 23 | Po Nagar Cham Towers · Long Son Pagoda · Tran Phu beach · XQ Hand Embroidery · optional mud bath | Nha Trang |
+| Day 25 · Nov 23 | Po Nagar Cham Towers · Long Son Pagoda · Tran Phu beach · XQ Hand Embroidery · optional Yersin Market + mud bath | Nha Trang |
 | Day 26 · Nov 24 | Hon Mun island snorkeling ⚠️ **or** VinWonders Nha Trang ✅ | Nha Trang |
 | Day 27 · Nov 25 | Beach · spa · Vincom mall (reset) ✅ | Nha Trang |
 | Day 28 · Nov 26 | Flights Nha Trang→HCMC→Phú Quốc · Grand World night show / Duong Dong night market | Phú Quốc |
@@ -395,6 +416,148 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 32 · Nov 30 | KTI→SGN→DPS return hop (travel day) | Phnom Penh → Bali |
 | Day 33 · Dec 1 | Bali buffer day — beach/Seminyak/Canggu · last shopping · sunset · red-eye prep · Bali Levy #2 | Bali (Denpasar) |
 | Day 34 · Dec 2 | DPS→GRU→BSB long haul · home | In transit → Home |
+
+---
+
+# Night Activities per City
+
+> Bars, sunsets, night markets, and unique evening experiences. Budget: ~$5–15 pp/night unless noted.
+
+## Ubud (Days 4–8)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Campuhan Ridge Walk** at golden hour | Free | Start ~5 PM, 2 km walk |
+| Sunset | **Bukit Cinta ("Love Hill")** — Mt. Agung backdrop, less crowded | Free | Slightly outside center |
+| Sunset | **Sayan Point Restaurant** — panoramic Ayung valley views | ~$9 (min spend) | Book via Instagram for sunset table |
+| Night market | **Gianyar Night Market** (Pasar Senggol) — babi guling, zero tourist vibe | $2–4 | Daily 5–10 PM, ~25 min drive |
+| Night market | **Sayan Night Market** — hidden gem, almost entirely locals | ~$4 | Daily 5–10 PM, closer to center |
+| Cultural | **Legong/Kecak dance at Ubud Palace** — nightly 7:30 PM | $5–6 | Different dance style each night |
+| Cultural | **Shadow puppet show (Wayang Kulit)** at Oka Kartini | ~$6 | Wed/Fri/Sun 8 PM |
+| Bar | **CP Lounge** (Jl Monkey Forest) — pool, live band 9 PM, DJ midnight | Beer ~$2–3, cocktails ~$5 | Latin dance nights Fri; only late-night spot in Ubud |
+| Bar | **Laughing Buddha Bar** — live music nightly (rock/blues/soul) | Cocktails ~$5–7 | Gets social later; Jl Monkey Forest |
+| Bar | **The Lair** — hidden riverside cocktail bar under Campuhan Bridge | Cocktails ~$7 | Book ahead, small venue |
+| Unique | **Firefly tour at Taro Village** — farm + cooking + firefly walk | $15–21 | ~4–5h incl. dinner; book via GetYourGuide |
+| Unique | **Hikaria Night Walk** — immersive light trail through forest | $15–20 | Starts 7 PM; pre-book time slot |
+| Unique | **Karaoke night** — private rooms, open until 2 AM | ~$4 | Central Ubud |
+
+## Banyuwangi (Days 9–11)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Pantai Boom Marina** — sunset over Bali Strait + Mt. Agung | ~$0.50 entry | Historic port; waterfront warungs |
+| Food | **Srengenge Wetan** — traditional Osing cuisine, nasi tempong | $1.50–3.50 | Jl. PB Sudirman 175; live music some evenings |
+| Food | **Kopi Lain Hati** (at Marina Boom) — coffee + yachts + sunset | ~$1 | Semi-outdoor |
+| Unique | **Ijen Blue Fire Trek** (already planned Day 11) | ~$6–25 | Midnight pickup; blue fire + sunrise |
+| Note | Alcohol is very scarce — Muslim city; rare exceptions at Marina Boom cafés | | |
+
+## Puerto Princesa (Days 13–14)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Baywalk** — seaside promenade, sunset behind mountains | Free | Sandoval St; arrive 5:15 PM |
+| Sunset | **Plaza Cuartel** — WWII ruins + gardens at golden hour | Free | Steps from Baywalk |
+| Night market | **Baywalk Night Market** — grilled skewers, banana cue | $1–3 | Runs on-and-off; food from ₱20–80 |
+| Food | **Rizal Avenue** — street grills, pork skewers, seafood | $1–3 | Open past midnight on weekends |
+| Unique | **Iwahig Firefly Watching** — boat through mangroves + dinner | $21–30 | Splurge; ~45 min boat; best moonless nights |
+| Note | Nightlife dies early (peak 7–10 PM, most close by midnight) | | |
+
+## El Nido (Days 15–17)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Corong-Corong Beach** — main sunset strip, plastic chairs on sand | Free | Arrive 5:30 PM; 25 min walk or ₱50 trike |
+| Sunset | **Republica Sunset Bar** — cliffside rooftop, best panoramic bay view | Cocktails ~$3.50–6 | Live acoustic 3–4x/week; arrive 45 min early in peak |
+| Bar | **Squidos** (Corong-Corong) — THE backpacker bar, fire shows ~7–8 PM | Beer ~$1.50 | San Miguel ₱80–100; fire shows in peak season |
+| Bar | **Outpost Beach Bar** — buckets of 5 San Miguels | ~$6–7/bucket | Bonfire nights; great value |
+| Bar | **Mad Monkey** (near Nacpan) — party hostel, nightly live music + BBQ | Beer ~$1.50 | BBQ nights Fri ₱300 |
+| Night market | **Calle Hama Night Market** — 100m strip, grilled seafood | $4–6 full meal | Daily ~6–10:30 PM; cash only |
+| Unique | **Firefly boat tour** — mangrove rivers at dusk | $21–27 | 2–3h; genuinely magical; book ahead |
+| Unique | **Sunset paraw sail** — traditional outrigger at sunset | $14–26 | Departs ~5 PM, returns after dark |
+| Note | Everything closes by midnight–1 AM; tricycles stop at midnight | | |
+
+## Ho Chi Minh City (Days 18–21)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Saigon Waterbus** — commuter boat at golden hour | $0.60 | Board 5:15 PM from Bach Dang pier |
+| Sunset | **Bach Dang Wharf** — riverside promenade | Free | Best 5:30–6:30 PM |
+| Sunset | **Thu Thiem Waterfront** — unobstructed skyline across river | Free | Grab ~$1–2 from D1 |
+| Rooftop | **Boosh Rooftop** (6 Bui Vien) — backpacker party, beer pong | Beer from $1.60, cocktails $4–8 | Cash preferred |
+| Rooftop | **The View Rooftop** (195 Bui Vien, 9th floor) — calmer, sunset views | Beer $3.20–6, cocktails $6–11 | Arrive 7 PM for sunset |
+| Rooftop | **Social Club** (Hotel des Arts, D3) — happy hour 5–8 PM buy 2 get 1 free | Cocktails $8–13 (happy hour great value) | Best sunset value in city |
+| Street | **Bui Vien Walking Street** (Fri–Sat 7 PM–2 AM) — fire dancers, DJs | Draft beer $0.60–1.00 | Peak energy 8 PM–1 AM |
+| Night market | **Ky Hoa Night Market** (D10) — 250+ stalls, most local | Food $0.50–1.50 | Open 5 PM–2 AM |
+| Night market | **Ho Thi Ky Flower Market** — largest in Saigon | Very cheap | Best midnight–3 AM |
+| Tour | **Saigon After Dark** — scooter tour, sunset + food + drinks | ~$29 | 3–4h; hotel pickup D1/3/4 |
+| Tour | **Kiss Saigon By Night** — motorbike tour, all-female riders | ~$39 | 3.5h; flower market + hidden alleys |
+| Show | **A O Show** (Saigon Opera House) — bamboo circus | ~$32 | World-class; book via Klook |
+
+## Da Lat (Days 22–23)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Hills behind Da Lat University** — panoramic city views, zero crowds | Free (+$0.80 beer) | Best 5–6:30 PM; bring jacket (16°C) |
+| Sunset | **Xuan Huong Lake** — iconic lake walk at sunset | Free | Central; combine with night market |
+| Sunset | **Ngo Quyen Hill** — stunning misty city panorama | Free | Best by motorbike; 3 km from center |
+| Night market | **Da Lat Night Market** (Nguyen Thi Minh Khai St) — 200+ stalls | Food crawl $4–8 | Daily 6–11 PM; weekends = buskers + closed streets |
+| Café | **DOHA Café** (giant artichoke building) — 360° night view | $0.80–3 | Open 6:30–23:00; iconic photo spot |
+| Café | **Café Acoustic Memory** — live Trịnh acoustic music | $0.80–4 | 24 Hung Vuong |
+| Café | **Cà phê bệt** (ground coffee) — pop-up on grass at Lam Viên Square | $0.60–1 | After dark; peak local Da Lat |
+| Bar | **B21 Beer Da Lat** — happy hour buy-1-get-1 until 20:30 | Beer/cocktails $1.60–3.20 | 5 min from market; football on TV |
+| Bar | **The Escape Bar** — live classic rock nightly 7:30 PM | Drinks $2–4 | Basement bar; 18 Phan Boi Chau |
+| Bar | **Quán nhậu** (local drinking spots) — plastic stools, bia tươi | $4–10 with food | Phan Đình Phùng St; pull up a stool |
+| Unique | **Scooter night food tour** — 5+ local food stops on back of scooter | ~$18 | Rated 5.0/5; book via GetYourGuide |
+| Unique | **Sunset + stargazing campfire tour** — pine forest, campfire | ~$34 | Splurge; 3:30 PM–10 PM; includes transport + photos |
+| Best combo | Sunset Đồi Robin → cà phê bệt → night market → quán nhậu beers | ~$10–15 | Full night out per person |
+
+## Nha Trang (Days 24–27)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Z Beach** (96 Tran Phu) — orange beanbags, DJ, no cover | Cocktails from $2.20 | Arrive 4:30 PM for front-row beanbag |
+| Sunset | **Altitude Rooftop** (Sheraton, 28th floor) — happy hour 3–6 PM 50% off | ~$10 for 2 cocktails | Flip-flops OK; stunning bay panorama |
+| Sunset | **Sky Lounge** (Queen Ann Hotel, 28th floor) — budget rooftop hack | Cocktails from $4 | Arrive 5:30 PM; smart casual |
+| Bar | **Why Not Bar** (54 Nguyen Thien Thuat) — backpacker HQ, dance floor | Beer from $2 | Cheapest bar in tourist area |
+| Bar | **Sailing Club** (72–74 Tran Phu) — iconic beach club, fire shows after 9 PM | $6–10 cover (incl. 1 drink) | Open since 2003; go for fire shows |
+| Bar | **Skylight** (Havana Hotel, 43rd floor) — highest bar in Nha Trang | $10 entry (incl. 1 drink) | 360° panoramic; DJ nightly |
+| Bar | **Louisiane Brewhouse** (29 Tran Phu) — microbrewery, 6+ craft beers | Beer flight ~$6 | Live music; open 7 AM–1 AM |
+| Food | **Nguyen Thi Minh Khai Snail Alley** — grilled snails, blood cockles | Full spread for 2: ~$6–11 | Charcoal-grilled at your table; cash only |
+| Food | **Tue Tinh Night Market** — 500m pedestrian street | Food $0.60–2/item | Arrive 6–6:30 PM; bargain hard |
+| Unique | **Night squid fishing** — boat at sunset, catch squid, BBQ dinner | $35–67 | Departs ~5 PM, back ~9 PM; best operators: Let's Fly Travel |
+| Unique | **Karaoke private rooms** | $3–5 | Split 3 ways; order local whiskey |
+
+## Phú Quốc (Days 28–29)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Long Beach / Dinh Cau Rock** — world-class west-facing sunsets | Free | Best 5:00–6:15 PM |
+| Sunset | **Sunset Sanato Beach Club** — "Ladder to Heaven" art installations | ~$4 (incl. 1 drink) | Arrive by 5 PM |
+| Sunset | **Chuon Chuon Bistro & Sky Bar** — hilltop, panoramic Bai Dai views | Cocktails ~$4 | North Phu Quoc |
+| Night market | **Dinh Cau Night Market** (Duong Dong) — grilled seafood, tropical fruit | Dinner $2–6 | Daily ~5:30 PM; next to Dinh Cau Temple |
+| Bar | **OCSEN Beach Bar** — sunset beanbags, fire show at 9 PM | Cocktails ~$4–6 | 124 Tran Hung Dao, Long Beach |
+| Bar | **Rory's Beach Bar** — casual Aussie-style, beers + pizza | Drinks ~$3–5 | Cay Sao Hamlet, Long Beach |
+| Unique | **Grand World** — Colors of Venice show (free 9:30 PM), themed streets | Free | Free Vinpearl shuttle from Duong Dong |
+| Unique | **Night squid fishing** — sunset cruise, squid, BBQ dinner | $8–15 | 4h; departs ~5 PM from Duong Dong |
+| Unique | **Viet Puppetry Show** (Sunset Town) — traditional water puppetry | Free | 6:00–6:30 & 8:15–8:45 PM; except Wed |
+| Best combo | Sunset Long Beach → OCSEN fire show → Dinh Cau night market | ~$10–15 | Full night out per person |
+
+## Phnom Penh (Days 30–31)
+
+| Type | Activity | Price pp | Notes |
+|---|---|---|---|
+| Sunset | **Riverside Promenade** — 3 km along Tonle Sap River | Free | Best 4:30–6:30 PM |
+| Sunset | **Riverside Longtail Boat Cruise** — 1 hr past Royal Palace | $5–10 | Walk to docks near St 178 around 5 PM |
+| Sunset | **Kanika Sunset Cruise** — catamaran, 80 min | $8 (bare entry) | Depart Sisowath Quay 5 PM |
+| Bar | **FCC Cambodia** — colonial heritage bar, river view balcony | Cocktails $5–7 | Go sunset (5:30–6:30 PM); gin & tonic rite of passage |
+| Bar | **Heart of Darkness** — legendary 20+ year club | Free entry; drinks $2–5 | St 51, BKK1; open from 9 PM |
+| Bar | **Sundown Social Club** — rooftop, happy hour | Cocktails from $3.50 | Cash only; arrive ~4 PM for sunset |
+| Bar | **Langka Bar** — live bands nightly (Khmer, reggae, rock) | $7 rum bucket | St 51, BKK1; dancing on tables |
+| Bar | **Riverside Beer Bars** — open-front bars along Sisowath Quay | Beer $1.50–2 | Walkabout, The Heart, and the strip |
+| Night market | **Phsar Reatrey** (Fri–Sun 5 PM–midnight) — food, live music, crafts | Food $1–3/dish | Along river between St 106–108 |
+| Food | **Phsar Kandal** — one block inland; grilled pork, Khmer noodles | $1–3/plate | Pull up a stool and point |
+| Unique | **Pontoon Club** — open-air riverside, pool, EDM/hip-hop | Free before 11:30 PM | $6–8 cover after 11:30 (incl. 1 drink) |
+| Unique | **Riverside Walking Tour + Ferry** — guided walk + local ferry + snacks | $7 | Mon/Wed/Fri only; 3h; by Mad Monkey |
 
 ---
 
