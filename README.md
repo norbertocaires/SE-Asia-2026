@@ -43,6 +43,8 @@
 | 17 | Nov 11 flights | **DPS→MNL→PPS BOUGHT** — Cebu Pacific 5J280 dep DPS **08:35** → same-day MNL connect (one PNR) → arr PPS **16:25** |
 | 18 | El Nido lodging | **Devayn's Inn (Calle Hama, 5313 El Nido) — RESERVED** (Nov 13–15, 3 nights) · town proper, Calle Hama (night-market street) · check out Nov 16 |
 | 19 | Nov 13 transport | **PPS→El Nido van BOUGHT (12Go)** — shared van dep 08:00 → arr **13:30** (~5.5h) |
+| 20 | Nov 16 flights | **El Nido → HCMC BOUGHT** — dep 10:45 → arr SGN **20:45**, same-day via MNL (Lio→MNL + MNL→SGN, self-connect) |
+| 21 | HCMC lodging | **SG Cozy2 Hotel — Pham Ngu Lao Street (241/12 Pham Ngu Lao, D1) — RESERVED** (Nov 16–19, 4 nights) · budget hotel (not a pod), right on the Pham Ngu Lao/Bui Vien backpacker strip — D1 tour pickups (Cu Chi · Saigon After Dark) at the door |
 
 ---
 
@@ -168,9 +170,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ El Nido.
 
 ### Day 18 · Mon Nov 16 · El Nido → Ho Chi Minh City
-- 🥇 **AirSWIFT Lio (El Nido) → MNL** morning (~1h20, ~$60–120 — ⚠️ small airline, verify Nov 16 schedule) → **MNL → SGN** afternoon (Cebu Pacific, ~3h20, ~$60–120, daily; book ≥4h after the Lio leg). Arrive HCMC ~evening.
-- ⚠️ **Fallback:** van El Nido→PPS (~5–6h) → PPS→MNL (~1h15) → MNL→SGN. Arrives late; keep this evening free (nothing planned).
-- 🛏️ HCMC **District 1** — **Capsule Riverside Saigon** (~$20, 8.4/1,761) or **Sleep & Go Capsule Bui Vien** (~$19, 9.3). Stay in D1 for tour pickups.
+- ✈️ **BOUGHT — El Nido → Ho Chi Minh City**, same-day via MNL (Lio→MNL → MNL→SGN): dep **10:45** → arr SGN **20:45**. Late-evening arrival = high cancellation-resilience: a big, comfortable MNL self-connect (no through-bags — collect + recheck), and Day 18's evening was already kept free. The last "small airline, verify schedule" risk is now locked.
+- ⚠️ Day-before: **verify the ticket's exact legs + the MNL gap (aim ≥4h)**; keep the 19:10/22:10 MNL→SGN flights in mind as the same-day backup.
+- ⚠️ **Fallback (reference only):** van El Nido→PPS (~5–6h) → PPS→MNL (~1h15) → MNL→SGN.
+- 🛏️ HCMC **District 1** — **SG Cozy2 Hotel — Pham Ngu Lao Street** (241/12 Pham Ngu Lao, D1) — **RESERVED** (Nov 16–19, 4 nights) · right on the backpacker strip — D1 tour pickups + Bui Vien nightlife at the door.
 
 ### 📷 Photos — Palawan
 - **Underground River** — [photo](https://live.staticflickr.com/7002/6632142115_7d52b21c59_b.jpg)
@@ -281,8 +284,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | DPS↔BWX | Road+ferry (or flight) | **Lintas Nusa shuttle Rp 210k (~$13)** | $13–130 | Nov 7 out / Nov 10 back; WA 0812-3452-0200 · 11:00/21:00 daily, door-to-door, ferry+meal incl.; flight (Citilink ~$100) is thin |
 | DPS→MNL | Flight | **BOUGHT** — Cebu Pacific 5J280 (Nov 11) dep 08:35 | **paid** | LCC — bag fees on top |
 | MNL→PPS | Flight | **BOUGHT** — same-PNR connect after 5J280 (Nov 11) | **paid** | same-day connect **LOCKED** — arr PPS 16:25 |
-| El Nido (Lio)→MNL | Flight | **AirSWIFT** (Nov 16, verify) | $60–120 | Fallback: van to PPS + PPS→MNL (~$26–80) |
-| MNL→SGN | Flight | Cebu Pacific (Nov 16) | $60–120 | ~3h20, daily; book ≥4h after Lio leg |
+| El Nido (Lio)→MNL | Flight | **BOUGHT — AirSWIFT** (Nov 16, dep 10:45) | **paid** | Part of the same-day El Nido→HCMC booking |
+| MNL→SGN | Flight | **BOUGHT** (Nov 16) | **paid** | ~3h20; **self-connect** — collect + recheck bags at MNL; arr SGN 20:45 |
 | SGN→DLI | Flight | VietJet / Vietnam Airlines (Nov 20) | $45–55 | ~50min; DLI airport 30km/45min from town |
 | Da Lat→Nha Trang | Limo | Day van/limo (Nov 22) | $8–14 | 3.5–4h, scenic mountain pass |
 | CXR→SGN | Flight or sleeper | **Flight** (Nov 26) | $24–58 | Sleeper bus ~$14–24 |
@@ -292,7 +295,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | SGN→DPS | Flight | VietJet 07:55/08:45 **or** VN641 10:10 (Nov 30/Dec 1) | $60–130 | ⚠️ **all departures are morning-only** |
 | **DPS→GRU** | Long haul | **BOUGHT** — DPS 00:15 Dec 2 → GRU 17:35 Dec 2 | **paid** | → BSB feeder; home late Dec 2 |
 
-**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→MNL (AirSWIFT Lio, Nov 16) must be **verified** (small airline, limited days) and MNL→SGN booked ≥4h later. (3) PQC→KTI Air Cambodia flies **Tue/Wed/Fri/Sat — Sat Nov 28 ✓**; book early (only direct option). (4) Return hop **KTI→SGN→DPS (Nov 30/Dec 1)**: all SGN→DPS are morning-only; decide dawn-raid vs SGN-sleep by flight availability. (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (Nov 30/Dec 1) — second visa-free entry is officer discretion → **insurance = pre-bought B1 e-VOA**; Bali Levy + arrival card ×2.
+**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→HCMC **BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, Lio→MNL + MNL→SGN **self-connect** — no through-bags, keep MNL gap ≥4h). (3) PQC→KTI Air Cambodia flies **Tue/Wed/Fri/Sat — Sat Nov 28 ✓**; book early (only direct option). (4) Return hop **KTI→SGN→DPS (Nov 30/Dec 1)**: all SGN→DPS are morning-only; decide dawn-raid vs SGN-sleep by flight availability. (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (Nov 30/Dec 1) — second visa-free entry is officer discretion → **insurance = pre-bought B1 e-VOA**; Bali Levy + arrival card ×2.
 
 ---
 
@@ -325,7 +328,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Bali exit (Adhi Jaya Hotel, Kuta) | Nov 10 | 1 | ~$15–20 (room ÷3, reserved) | $14 (road+ferry) | $20 | $49–54 |
 | Puerto Princesa (transit + Underground River) | Nov 11–12 | 2 | Lokal Hut B&B (reserved, rate TBD) | $18–21 | $20 | $38–41 + lodging |
 | El Nido (Tours A + B) | Nov 13–15 | 3 | Devayn's Inn (reserved, rate TBD) | $21–29 | $20 | $41–49 + lodging |
-| Ho Chi Minh City (Cu Chi, war sites, spa) | Nov 16–19 | 4 | $20 (Capsule Riverside) | $15–25 (+$24–45 optional spa, Day 21) | $20 | $55–65 |
+| Ho Chi Minh City (Cu Chi, war sites, spa) | Nov 16–19 | 4 | SG Cozy2 Hotel (reserved, rate TBD) | $15–25 (+$24–45 optional spa, Day 21) | $20 | $35–45 + lodging |
 | Da Lat (canyoning + luge) | Nov 20–21 | 2 | $10–15 (pick = research gap) | $30–50 | $15 | $55–80 |
 | Nha Trang (core + islands + reset) | Nov 22–25 | 4 | $10–20 (pick = research gap) | $20–35 | $18 | $48–73 |
 | Phú Quốc (Safari + Grand World) | Nov 26–27 | 2 | $15–25 (pick = research gap) | $35–45 | $20 | $70–90 |
@@ -362,10 +365,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 15 · Nov 13 | **Devayn's Inn** (Calle Hama, 5313) — RESERVED | El Nido |
 | Day 16 · Nov 14 | **Devayn's Inn** (Calle Hama, 5313) — RESERVED | El Nido |
 | Day 17 · Nov 15 | **Devayn's Inn** (Calle Hama, 5313) — RESERVED | El Nido |
-| Day 18 · Nov 16 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
-| Day 19 · Nov 17 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
-| Day 20 · Nov 18 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
-| Day 21 · Nov 19 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
+| Day 18 · Nov 16 | **SG Cozy2 Hotel — Pham Ngu Lao St** (241/12, D1) — RESERVED | Ho Chi Minh City (D1) |
+| Day 19 · Nov 17 | **SG Cozy2 Hotel — Pham Ngu Lao St** (241/12, D1) — RESERVED | Ho Chi Minh City (D1) |
+| Day 20 · Nov 18 | **SG Cozy2 Hotel — Pham Ngu Lao St** (241/12, D1) — RESERVED | Ho Chi Minh City (D1) |
+| Day 21 · Nov 19 | **SG Cozy2 Hotel — Pham Ngu Lao St** (241/12, D1) — RESERVED | Ho Chi Minh City (D1) |
 | Day 22 · Nov 20 | Da Lat pod/dorm (~$10–15, research gap) | Da Lat |
 | Day 23 · Nov 21 | Da Lat pod/dorm (~$10–15, research gap) | Da Lat |
 | Day 24 · Nov 22 | Nha Trang (~$10–20, research gap) | Nha Trang |
@@ -405,7 +408,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 15 · Nov 13 | Van PPS → El Nido (12Go, travel day) — **BOUGHT** | El Nido |
 | Day 16 · Nov 14 | El Nido Tour A — Big Lagoon · Secret Lagoon · Shimizu Beach ⚠️ | El Nido |
 | Day 17 · Nov 15 | El Nido Tour B — Snake Island · Cathedral Cave · Pinagbuyutan ⚠️ | El Nido |
-| Day 18 · Nov 16 | El Nido → MNL → SGN flights (travel day) | El Nido → Ho Chi Minh City |
+| Day 18 · Nov 16 | El Nido → HCMC flights (11/16) — **BOUGHT** | El Nido → Ho Chi Minh City |
 | Day 19 · Nov 17 | Cu Chi Tunnels half-day (+AK-47 firing range) · Ben Thanh Market · Bui Vien street ✅ | Ho Chi Minh City |
 | Day 20 · Nov 18 | War Remnants Museum · Reunification Palace · food crawl (banh mi, com tam, egg coffee, rooftop) ✅ | Ho Chi Minh City |
 | Day 21 · Nov 19 | Bitexco Skydeck · Fine Arts Museum · spa (Sense Spa) · AO Show / rooftop ✅ | Ho Chi Minh City |
@@ -577,8 +580,10 @@ Quick version:
 - 💉 **Now (Aug–Sep):** Yellow Fever (free at UBS/SUS — **required** for ID/PH/KH from Brazil), JE (2 doses 28d apart), rabies pre-exposure, Hep A/Typhoid/boosters. Malaria meds for Palawan.
 - ✈️ **DONE — long-haul:** GRU⇄DPS RT BOUGHT (Oct 31 → Nov 2 / Dec 2), Jakarta stopover included.
 - ✈️ **DONE — DPS→MNL→PPS BOUGHT** (Nov 11, 5J280 dep DPS 08:35 → MNL connect → arr PPS 16:25, one PNR).
+- ✈️ **DONE — EL NIDO→HCMC BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, same-day via MNL).
 - 🚐🏨 **DONE — PPS→El Nido van (12Go, Nov 13 dep 08:00 → arr 13:30) + Devayn's Inn RESERVED** (El Nido, Nov 13–15, Calle Hama 5313).
-- 📄 **Mid-Sep (flight constraint order, remaining):** BSB↔GRU feeders · El Nido→MNL + MNL→SGN (Nov 16) · SGN→DLI (Nov 20) · SGN→PQC (Nov 26) · **PQC→KTI (Nov 28)** · **KTI→SGN→DPS (Nov 30/Dec 1)**.
+- 🏨 **DONE — HCMC: SG Cozy2 Hotel — Pham Ngu Lao St** (241/12 Pham Ngu Lao, D1) RESERVED (Nov 16–19).
+- 📄 **Mid-Sep (flight constraint order, remaining):** BSB↔GRU feeders · SGN→DLI (Nov 20) · SGN→PQC (Nov 26) · **PQC→KTI (Nov 28)** · **KTI→SGN→DPS (Nov 30/Dec 1)**.
 - 📄 **Early Oct:** Vietnam e-Visa ($25, evisa.xuatnhapcanh.gov.vn), passport ≥6mo validity.
 - 📄 **Mid-Oct:** Cambodia e-Visa (evisa.gov.kh) or VOA $30; **Indonesia B1 e-VOA** for re-entry (~$32–35, evisa.imigrasi.go.id); book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, $35/₱2,200 — **not booked**: Option A = ₱750 dep via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (El Nido A/B, Da Lat canyoning, shooting range).
 - 📄 **Late Oct:** Asialink eSIMs, travel insurance, Grab/Klook.
@@ -590,7 +595,7 @@ Quick version:
 # Risks & Notes
 
 - **Nov = wet-season tail.** Buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
-- **Date math depends on flights:** the MNL→PPS same-day connect (Nov 11 — **BOUGHT**, dep DPS 08:35 · arr PPS 16:25), AirSWIFT El Nido→MNL + MNL→SGN (Nov 16), Air Cambodia PQC→KTI (Sat Nov 28 ✓), and the KTI→SGN→DPS return hop (Nov 30/Dec 1) all constrain the schedule — book in this order.
+- **Date math depends on flights:** the MNL→PPS same-day connect (Nov 11 — **BOUGHT**, dep DPS 08:35 · arr PPS 16:25), the El Nido→HCMC booking (Nov 16 — **BOUGHT**, dep 10:45 · arr SGN 20:45), Air Cambodia PQC→KTI (Sat Nov 28 ✓) and the KTI→SGN→DPS return hop (Nov 30/Dec 1) all constrain the schedule — book in this order.
 - **Air Cambodia PQC→KTI** is the only direct Cambodia link and flies **Tue/Wed/Fri/Sat** — the plan needs **Sat Nov 28**; if it's sold out or schedule-shifted, fallback is PQC→SGN→KTI (Vietnam Airlines via HCMC) on the same day.
 - **Indonesia double-entry:** visa-free #1 at CGK (Nov 1) is routine; the 2nd visa-free entry at DPS (Nov 30/Dec 1) is **officer discretion** — mitigate with a pre-bought **B1 e-VOA (IDR 500k ≈ $32–35)**. Bali Levy (IDR 150k) applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
 - **Bali arrival via domestic CGK→DPS (Nov 2):** immigration is at CGK; the DPS domestic arrival is fast — but Bali Levy collection still happens on Bali entry. Confirm the levy QR flow for domestic arrivals before flying.
