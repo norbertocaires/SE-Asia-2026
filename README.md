@@ -40,6 +40,9 @@
 | 14 | Banyuwangi lodging | **HHHH Hostel (Jl. Trunojoyo 51, 68417) — RESERVED** (Nov 7–9, 3 nights) · ~500 m from center, standard Ijen open-trip pickup zone · Hostelz 9.54 |
 | 15 | Kuta pre-Cebu night | **Adhi Jaya Hotel (Jl. Kartika Plaza, Kuta 80361) — RESERVED** (Nov 10, 1 night) · ~2 km / ~4 min from DPS (early Nov 11 flight) · 8.6/10 (Agoda 4k) · takeaway breakfast for early departure · ⚠️ Grab, not the hotel's 200k IDR transfer |
 | 16 | Puerto Princesa lodging | **Lokal Hut Bed & Breakfast (Trinidad Rd off Rizal Avenue, 5400) — RESERVED** (Nov 11–12, 2 nights) · homestay ~9.0/400+ · central, tour pickups walkable, airport ~5 min · ask for hot-shower + good-AC room |
+| 17 | Nov 11 flights | **DPS→MNL→PPS BOUGHT** — Cebu Pacific 5J280 dep DPS **08:35** → same-day MNL connect (one PNR) → arr PPS **16:25** |
+| 18 | El Nido lodging | **Devayn's Inn (Calle Hama, 5313 El Nido) — RESERVED** (Nov 13–15, 3 nights) · town proper, Calle Hama (night-market street) · check out Nov 16 |
+| 19 | Nov 13 transport | **PPS→El Nido van BOUGHT (12Go)** — shared van dep 08:00 → arr **13:30** (~5.5h) |
 
 ---
 
@@ -139,18 +142,21 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Philippines — Palawan (5 nights)
 
 ### Day 13 · Wed Nov 11 · DPS → Manila → Puerto Princesa
-- **Cebu Pacific 5J280** DPS→MNL ~08:35 (4h20, ~$82–150 — ⚠️ verify day of week for Nov 11). Arrive ~13:00.
-- ⚠️ **REQUIRED: same-day MNL→PPS connect (~15:00–17:00, ~$35–90).** Book both legs on one PNR. Arrive PPS evening.
+- ✈️ **BOUGHT — Cebu Pacific 5J280 DPS→MNL dep 08:35** → same-day **MNL→PPS connect (one PNR) → arr PPS 16:25**. ✅ Same-day connect is now **locked** (was the trip's top routing risk); LCC — bag fees on top.
 - 🛏️ **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Avenue, 5400 PP) — **RESERVED** · homestay, ~9.0/400+ · central (walking distance to shops/restaurants, tour pickups), airport ~5 min · $$; ask for a hot-shower + working-AC room.
-- *Worst case (no same-day connect):* overnight in Manila → you lose **El Nido Tour B**.
+- Early-evening arrival → free night: **Baywalk sunset (5:15 PM)** · Plaza Cuartel ruins · **Baywalk Night Market** (see Night Activities).
+- 📱 **On arrival: book Underground River for tomorrow with D'Palawan** (WhatsApp 0963 139 0000) or ask the Lokal Hut front desk — both are same-day/1-day friendly in Nov (see Day 14). Pick-up window 07:00–08:00, so only the booking, not a morning rush, matters.
 
 ### Day 14 · Thu Nov 12 · Underground River ✅ (rain-proof cave)
-- Full-day shared tour from PPS (~$36–42): 90-min drive to Sabang, paddleboat through the cave, lunch, return ~late afternoon. Runs in rain (only extreme weather closes it).
+- Full-day shared tour from PPS — **D'Palawan Travel & Tours** (~**$35** pp / ₱2,200): 90-min drive to Sabang, paddleboat through the cave, buffet lunch, return ~16:00–17:00. Runs in rain (only extreme weather closes it).
+- **Booking (not booked yet — two routes, pick when ready):** WhatsApp **0963 139 0000** (Viber/WeChat/SMS) · hotel pick-up 07:00–08:00 (city proper — Lokal Hut ✓) · confirm participation by WhatsApp the day before · ⚠️ contact them **first** to confirm slot + exact PHP amount before any payment.
+  - **Option A — Reserve from Brazil (pay deposit, ₱750/~$12 pp):** PayPal **in PHP only** (intl card fee ~4.4% + ₱15; posting is NOT instant — avoid for last-minute) **or** Wise/Remitly in PHP (cheaper, must be claimed/verified). Send proof-of-payment screenshot (name · amount PHP · date · ref) to WA / DPalawanTravelAndTours@gmail.com. Booking provisional until funds post; **₱1,950 (~$31) balance cash on tour day**.
+  - **Option B — Cash on tour day (off-peak friendly, fee-free):** WhatsApp now just to **hold the slot** (no money moves) → pay full **₱2,200 (~$35) pp in cash at pickup** Nov 12. Risk: sold-out slot in Nov = low.
 - 🛏️ Puerto Princesa.
 
 ### Day 15 · Fri Nov 13 · Puerto Princesa → El Nido
-- Van **PPS → El Nido** (~5–6h, ~$12–20). Arrive evening.
-- 🛏️ **The Beach House** (~$15–25, beachfront, 0.2 km from pier) or **The Cavern Pod** (~$30–40).
+- 🚐 **BOUGHT (12Go) — shared van PPS → El Nido**, dep **08:00** → arr **13:30** (~5.5h; comfort/lunch stop Roxas or Taytay). Midday arrival beats the old "arrive evening" — afternoon free to settle in + Corong-Corong sunset.
+- 🛏️ **Devayn's Inn** (Calle Hama, 5313 El Nido) — **RESERVED** (Nov 13–15, 3 nights) · town proper on Calle Hama (beach/night-market strip), ~0.3 km from the tour pier (Tours A/B pickups).
 
 ### Day 16 · Sat Nov 14 · El Nido Tour A ⚠️
 - **Big Lagoon · Secret Lagoon · Shimizu Beach** — shared boat 9:00–16:00 from town pier. ~₱1,200–1,500 + ₱200–400 eco + ₱200 lagoon ≈ **$32–43 pp**. **Cheaper booked in person (~₱700 less than GYG).**
@@ -273,8 +279,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | **GRU→CGK (Jakarta)** | Long haul | **BOUGHT** — GRU 01:30 Oct 31 → CGK 15:40 Nov 1 | **paid** | RT with the return; ~15h CGK layover (Nov 1) |
 | **CGK→DPS** | Long haul leg | **BOUGHT** — CGK 07:05 Nov 2 → DPS 10:30 Nov 2 | **paid** | Immigration = Indonesia entry #1 at CGK |
 | DPS↔BWX | Road+ferry (or flight) | **Lintas Nusa shuttle Rp 210k (~$13)** | $13–130 | Nov 7 out / Nov 10 back; WA 0812-3452-0200 · 11:00/21:00 daily, door-to-door, ferry+meal incl.; flight (Citilink ~$100) is thin |
-| DPS→MNL | Flight | Cebu Pacific 5J280 (Nov 11) | $82–150 | ⚠️ verify day of week; LCC — bag fees on top |
-| MNL→PPS | Flight | Cebu Pacific / PAL (Nov 11) | $35–90 | ⚠️ **REQUIRED same-day connect** — one PNR |
+| DPS→MNL | Flight | **BOUGHT** — Cebu Pacific 5J280 (Nov 11) dep 08:35 | **paid** | LCC — bag fees on top |
+| MNL→PPS | Flight | **BOUGHT** — same-PNR connect after 5J280 (Nov 11) | **paid** | same-day connect **LOCKED** — arr PPS 16:25 |
 | El Nido (Lio)→MNL | Flight | **AirSWIFT** (Nov 16, verify) | $60–120 | Fallback: van to PPS + PPS→MNL (~$26–80) |
 | MNL→SGN | Flight | Cebu Pacific (Nov 16) | $60–120 | ~3h20, daily; book ≥4h after Lio leg |
 | SGN→DLI | Flight | VietJet / Vietnam Airlines (Nov 20) | $45–55 | ~50min; DLI airport 30km/45min from town |
@@ -286,7 +292,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | SGN→DPS | Flight | VietJet 07:55/08:45 **or** VN641 10:10 (Nov 30/Dec 1) | $60–130 | ⚠️ **all departures are morning-only** |
 | **DPS→GRU** | Long haul | **BOUGHT** — DPS 00:15 Dec 2 → GRU 17:35 Dec 2 | **paid** | → BSB feeder; home late Dec 2 |
 
-**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 is **required** — book on one PNR. (2) El Nido→MNL (AirSWIFT Lio, Nov 16) must be **verified** (small airline, limited days) and MNL→SGN booked ≥4h later. (3) PQC→KTI Air Cambodia flies **Tue/Wed/Fri/Sat — Sat Nov 28 ✓**; book early (only direct option). (4) Return hop **KTI→SGN→DPS (Nov 30/Dec 1)**: all SGN→DPS are morning-only; decide dawn-raid vs SGN-sleep by flight availability. (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (Nov 30/Dec 1) — second visa-free entry is officer discretion → **insurance = pre-bought B1 e-VOA**; Bali Levy + arrival card ×2.
+**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→MNL (AirSWIFT Lio, Nov 16) must be **verified** (small airline, limited days) and MNL→SGN booked ≥4h later. (3) PQC→KTI Air Cambodia flies **Tue/Wed/Fri/Sat — Sat Nov 28 ✓**; book early (only direct option). (4) Return hop **KTI→SGN→DPS (Nov 30/Dec 1)**: all SGN→DPS are morning-only; decide dawn-raid vs SGN-sleep by flight availability. (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (Nov 30/Dec 1) — second visa-free entry is officer discretion → **insurance = pre-bought B1 e-VOA**; Bali Levy + arrival card ×2.
 
 ---
 
@@ -318,7 +324,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Banyuwangi / Ijen (open trip) | Nov 7–9 | 3 | HHHH Hostel (reserved) | $15–20 | $15 | $38–43 |
 | Bali exit (Adhi Jaya Hotel, Kuta) | Nov 10 | 1 | ~$15–20 (room ÷3, reserved) | $14 (road+ferry) | $20 | $49–54 |
 | Puerto Princesa (transit + Underground River) | Nov 11–12 | 2 | Lokal Hut B&B (reserved, rate TBD) | $18–21 | $20 | $38–41 + lodging |
-| El Nido (Tours A + B) | Nov 13–15 | 3 | $20 (The Beach House) | $21–29 | $20 | $61–69 |
+| El Nido (Tours A + B) | Nov 13–15 | 3 | Devayn's Inn (reserved, rate TBD) | $21–29 | $20 | $41–49 + lodging |
 | Ho Chi Minh City (Cu Chi, war sites, spa) | Nov 16–19 | 4 | $20 (Capsule Riverside) | $15–25 (+$24–45 optional spa, Day 21) | $20 | $55–65 |
 | Da Lat (canyoning + luge) | Nov 20–21 | 2 | $10–15 (pick = research gap) | $30–50 | $15 | $55–80 |
 | Nha Trang (core + islands + reset) | Nov 22–25 | 4 | $10–20 (pick = research gap) | $20–35 | $18 | $48–73 |
@@ -353,9 +359,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 12 · Nov 10 | **Adhi Jaya Hotel** (Jl. Kartika Plaza, Kuta) — RESERVED | Kuta |
 | Day 13 · Nov 11 | **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Ave) — RESERVED | Puerto Princesa |
 | Day 14 · Nov 12 | **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Ave) — RESERVED | Puerto Princesa |
-| Day 15 · Nov 13 | The Beach House (~$15–25) **or** The Cavern Pod (~$30–40) | El Nido |
-| Day 16 · Nov 14 | The Beach House (~$15–25) **or** The Cavern Pod (~$30–40) | El Nido |
-| Day 17 · Nov 15 | The Beach House (~$15–25) **or** The Cavern Pod (~$30–40) | El Nido |
+| Day 15 · Nov 13 | **Devayn's Inn** (Calle Hama, 5313) — RESERVED | El Nido |
+| Day 16 · Nov 14 | **Devayn's Inn** (Calle Hama, 5313) — RESERVED | El Nido |
+| Day 17 · Nov 15 | **Devayn's Inn** (Calle Hama, 5313) — RESERVED | El Nido |
 | Day 18 · Nov 16 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
 | Day 19 · Nov 17 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
 | Day 20 · Nov 18 | Capsule Riverside Saigon (~$20) **or** Sleep & Go Capsule Bui Vien (~$19) | Ho Chi Minh City (D1) |
@@ -394,9 +400,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 10 · Nov 8 | Rest + confirm Ijen "open trip" · optional hot springs · early sleep | Banyuwangi |
 | Day 11 · Nov 9 | Ijen blue fire trek + sunrise over crater lake ⚠️ | Ijen (Banyuwangi) |
 | Day 12 · Nov 10 | Lintas Nusa return Banyuwangi → Bali · prep for early flight | Banyuwangi → Bali |
-| Day 13 · Nov 11 | DPS→MNL→PPS same-day connect (travel day) | Manila → Puerto Princesa |
+| Day 13 · Nov 11 | DPS→MNL→PPS same-day connect (travel day) — **BOUGHT** | Manila → Puerto Princesa |
 | Day 14 · Nov 12 | Underground River (Puerto Princesa → Sabang) ✅ | Puerto Princesa |
-| Day 15 · Nov 13 | Van PPS → El Nido (travel day) | El Nido |
+| Day 15 · Nov 13 | Van PPS → El Nido (12Go, travel day) — **BOUGHT** | El Nido |
 | Day 16 · Nov 14 | El Nido Tour A — Big Lagoon · Secret Lagoon · Shimizu Beach ⚠️ | El Nido |
 | Day 17 · Nov 15 | El Nido Tour B — Snake Island · Cathedral Cave · Pinagbuyutan ⚠️ | El Nido |
 | Day 18 · Nov 16 | El Nido → MNL → SGN flights (travel day) | El Nido → Ho Chi Minh City |
@@ -463,6 +469,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Note | Nightlife dies early (peak 7–10 PM, most close by midnight) | | |
 
 ## El Nido (Days 15–17)
+
+🛏️ Staying at **Devayn's Inn (Calle Hama, 5313)** — the **Calle Hama Night Market** below is on the same street; tour pier ~0.3 km.
 
 | Type | Activity | Price pp | Notes |
 |---|---|---|---|
@@ -568,9 +576,11 @@ Full details + vaccines/forms in **[SE Asia 2026 - Scratchpad.md](./SE%20Asia%20
 Quick version:
 - 💉 **Now (Aug–Sep):** Yellow Fever (free at UBS/SUS — **required** for ID/PH/KH from Brazil), JE (2 doses 28d apart), rabies pre-exposure, Hep A/Typhoid/boosters. Malaria meds for Palawan.
 - ✈️ **DONE — long-haul:** GRU⇄DPS RT BOUGHT (Oct 31 → Nov 2 / Dec 2), Jakarta stopover included.
-- 📄 **Mid-Sep (flight constraint order):** BSB↔GRU feeders · DPS→MNL + MNL→PPS (one PNR) · El Nido→MNL + MNL→SGN (Nov 16) · SGN→DLI (Nov 20) · SGN→PQC (Nov 26) · **PQC→KTI (Nov 28)** · **KTI→SGN→DPS (Nov 30/Dec 1)**.
+- ✈️ **DONE — DPS→MNL→PPS BOUGHT** (Nov 11, 5J280 dep DPS 08:35 → MNL connect → arr PPS 16:25, one PNR).
+- 🚐🏨 **DONE — PPS→El Nido van (12Go, Nov 13 dep 08:00 → arr 13:30) + Devayn's Inn RESERVED** (El Nido, Nov 13–15, Calle Hama 5313).
+- 📄 **Mid-Sep (flight constraint order, remaining):** BSB↔GRU feeders · El Nido→MNL + MNL→SGN (Nov 16) · SGN→DLI (Nov 20) · SGN→PQC (Nov 26) · **PQC→KTI (Nov 28)** · **KTI→SGN→DPS (Nov 30/Dec 1)**.
 - 📄 **Early Oct:** Vietnam e-Visa ($25, evisa.xuatnhapcanh.gov.vn), passport ≥6mo validity.
-- 📄 **Mid-Oct:** Cambodia e-Visa (evisa.gov.kh) or VOA $30; **Indonesia B1 e-VOA** for re-entry (~$32–35, evisa.imigrasi.go.id); book fixed-date tours (Ijen, Nusa Penida) + rain-flexible tours cancellable (El Nido A/B, Da Lat canyoning, shooting range).
+- 📄 **Mid-Oct:** Cambodia e-Visa (evisa.gov.kh) or VOA $30; **Indonesia B1 e-VOA** for re-entry (~$32–35, evisa.imigrasi.go.id); book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, $35/₱2,200 — **not booked**: Option A = ₱750 dep via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (El Nido A/B, Da Lat canyoning, shooting range).
 - 📄 **Late Oct:** Asialink eSIMs, travel insurance, Grab/Klook.
 - 📄 **≤72h before:** Philippines eTravel + Vietnam Pre-Arrival Declaration.
 - 📄 **≤3 days before:** Indonesia arrival card (**×2** — Nov 1 CGK + Nov 30 DPS) + Bali Levy (IDR 150k ≈ $10, **×2** — pay before each Bali arrival).
@@ -580,7 +590,7 @@ Quick version:
 # Risks & Notes
 
 - **Nov = wet-season tail.** Buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
-- **Date math depends on flights:** the required MNL→PPS same-day connect (Nov 11), AirSWIFT El Nido→MNL + MNL→SGN (Nov 16), Air Cambodia PQC→KTI (Sat Nov 28 ✓), and the KTI→SGN→DPS return hop (Nov 30/Dec 1) all constrain the schedule — book in this order.
+- **Date math depends on flights:** the MNL→PPS same-day connect (Nov 11 — **BOUGHT**, dep DPS 08:35 · arr PPS 16:25), AirSWIFT El Nido→MNL + MNL→SGN (Nov 16), Air Cambodia PQC→KTI (Sat Nov 28 ✓), and the KTI→SGN→DPS return hop (Nov 30/Dec 1) all constrain the schedule — book in this order.
 - **Air Cambodia PQC→KTI** is the only direct Cambodia link and flies **Tue/Wed/Fri/Sat** — the plan needs **Sat Nov 28**; if it's sold out or schedule-shifted, fallback is PQC→SGN→KTI (Vietnam Airlines via HCMC) on the same day.
 - **Indonesia double-entry:** visa-free #1 at CGK (Nov 1) is routine; the 2nd visa-free entry at DPS (Nov 30/Dec 1) is **officer discretion** — mitigate with a pre-bought **B1 e-VOA (IDR 500k ≈ $32–35)**. Bali Levy (IDR 150k) applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
 - **Bali arrival via domestic CGK→DPS (Nov 2):** immigration is at CGK; the DPS domestic arrival is fast — but Bali Levy collection still happens on Bali entry. Confirm the levy QR flow for domestic arrivals before flying.
