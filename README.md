@@ -81,7 +81,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Indonesia — Bali (6 nights: 5 Ubud + 1 Kuta exit) + Ijen (3 nights)
 
 ### Day 5 · Tue Nov 3 · Ubud core
-- **Monkey Forest** ✅ (early, light-rain fine) · **Ubud Art Market** ✅ · **Campuhan Ridge Walk** ✅.
+- **Sangeh Monkey Forest** ✅ (quieter, sacred nutmeg grove, ~700 macaques, free guides — tip them; go early to beat the heat/crowds; ~45 min north of Ubud, Grab ~$8–10 each way) · **Ubud Art Market** ✅ · **Campuhan Ridge Walk** ✅. *(Ubud's Monkey Forest skipped — same macaques, tourist crush.)*
 - Evening: Legong/Kecak **dance at Ubud Palace** ✅ (~$10–20, covered stage).
 - 🌙 **Night options:**
   - **Legong/Kecak dance at Ubud Palace** ✅ (~$6, nightly 7:30 PM, different dance each night — arrive 7 PM for seats)
@@ -95,8 +95,13 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - **Firefly tour at Taro Village** — organic farm + Balinese cooking class + firefly walk through rice paddies; ~$15–21 pp incl. dinner; ~4–5h; book via GetYourGuide
 
 ### Day 6 · Wed Nov 4 · Ubud day tour (shared pickup — optional)
-- **Tegalalang Rice Terrace** ⚠️ (lush in wet season, muddy) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation · waterfall (Tegenungan) ⚠️.
+- **Tegalalang Rice Terrace** ⚠️ (lush in wet season, muddy) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation (Satria Agrowisata) · waterfall — **Kanto Lampo** ⚠️ (flat path in, tall twin falls, shallow waist-deep pool, closer to Ubud, fewer crowds) · alt waterfall: **Tegenungan** ⚠️ (classic, on the shared-tour route) · **Goa Gajah "Elephant Cave"** ✅ (ancient rock-cut sanctuary, ~$1–2, quick 15-min stop on the way back).
 - Full-day shared tour ~$15–30 pp w/ hotel pickup; or private car ~$30–35/car (cheaper for 3).
+- 🎢 **Adventure options** (and the last-6 list, worked through — pick **one**, swaps the afternoon block):
+  - **UTV Waterfall Adventure** — off-road through rice fields, jungle, mud, + waterfall & cave on the track. ~25 min from Ubud (Pertiwi/Bongkasa), **~2–2.5h incl. transfer, ~$50–85 pp**; Nov = muddy = fun; best fit = a ~2 PM slot after the morning tour run.
+  - **Water Rafting (Ayung)** — iconic Ubud river run, ~30 min away, ~2h, ~$20–30 pp. ⚠️ Overlaps with Da Lat canyoning (Day 25) — book only if you want two water-adrenaline days.
+  - **River Tubing** — lighter half of rafting, same valley, ~$15–25 pp. Optional only if rafting seems too much.
+  - ❌ **Skip:** Jungle Kart (redundant — Da Lat Greenline Luge, Day 26) · Jeep Mt Batur sunrise & Skybike (Batur/Kintamani ~2h away — **saved for later**; Ijen covers volcano sunrise).
 - 🌙 **Night options:**
   - **Campuhan Ridge Walk at sunset** — golden-hour light over the ridge, completely free; start ~5 PM
   - **Sayan Point Restaurant** — panoramic sunset views over Ayung River valley and jungle; min spend ~$9/person easily met with a main + drink; book via Instagram for a good table
@@ -106,7 +111,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 7 · Thu Nov 5 · Nusa Penida day trip ⚠️ (TOP rain/sea risk in Bali)
 - Early fast boat **Sanur → Nusa Penida** (swell can cancel Nov–Mar — today is the fixed slot, tomorrow is the buffer).
-- **Kelingking Beach** viewpoint ⚠️ · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️.
+- **Kelingking Beach** viewpoint ⚠️ · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️ · **Diamond Beach** ⚠️ (arguably the loop's best view — crystal-clear cove under limestone cliffs, cliffside stairs down) · quick ridge stops: **Rumah Pohon Treehouse** ⚠️ (~10 min photo stop) · **Thousand Island Viewpoint** ⚠️ (~10 min panoramic spot). *(Skip: Atuh Beach — steep path + rough Nov surf, Diamond's cliff view covers it · Manta Point — wet-season swell + low manta odds · Tembeling/Teletubbies/Goa Giri Putri — time-eaters.)*
 - Optional ⚠️🔥 **bungee jump at Extreme Park Bali** (~10 min from Kelingking, 130 m cliff over the ocean) — jump-only ≈ **$150–300 pp** w/ video (~IDR 3.1M+), or add to the tour package; a few operators list it **temporarily closed for permit renewal** — verify availability when booking.
 - ~$50–80 pp incl. boat + driver (bungee extra).
 - 🌙 **Night:** Back in Ubud by evening — repeat any of the Day 5 night picks (CP Lounge, Laughing Buddha, night markets, etc.).
@@ -114,6 +119,12 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 8 · Fri Nov 6 · ULUWATU day trip (primary) — or Penida rebook / Ubud reset
 - **Primary (if Penida ran):** **Uluwatu day trip** — the one "Bali don't miss" still missing (cliff temple · sunsets). Private car Ubud → Uluwatu (~1.5–2h): cliff-top **Uluwatu Temple** ✅ · optional Padang Padang beach stop ✅ · **Kecak fire-dance sunset** ✅ (nightly ~6 PM, ~$12) · fish BBQ at Jimbaran Bay optional (~$15–25) → back Ubud ~22:00. ≈ **$35–45 pp** (car ~$30–35/3 + entry ~$8 + Kecak ~$12).
+- 🏜️ **Clifftop sunset-dinner options** (swap for the Jimbaran BBQ — all near the temple area):
+  - **Rockfish The Uluwatu** 🥇 — the clifftop splurge that fits the budget: cave-perched fine dining, glass balcony ~100 m over the ocean, DJ sunset till late; ~IDR 250k (~$16) + cocktails; **reserve for a sunset table**. Upside over Jimbaran: cliff view; downside: no beach/sand.
+  - **The Warung at Alila Villas Uluwatu** 🟡 — Indonesian fine dining on the Alila cliffs, a la carte ~IDR 250–400k (~$16–28); only if you want a dressier, resort-plated experience.
+  - ❌ **El Kabron Bali** — luxury sunset theater ~IDR 850k–1M (~$60–70), pool/hedonism lounge more again; way over budget.
+  - ❌ **Di Mare (Karma Kandara)** — Mediterranean fine dining ~IDR 250–600k; mixed reviews + **seafood food-poisoning reports** — skip.
+  - ❌ **Ulu Cliffhouse** — clifftop bar/pool club, ~400k min spend, party energy; better fit for the Day 33 buffer than Day 8.
 - **If Penida was cancelled:** rebook it today. Never leave it to the last Bali day.
 - Fallback (rain / no energy): Ubud reset — **Balinese cooking class** ✅ (~$25–40) · **spa** ✅ · **Blanco Museum** ✅.
 - 🌙 **Night options:**
@@ -217,20 +228,25 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 24 · Sun Nov 22 · Mui Ne → Da Lat + arrival
 - 🚐 Morning **limo/bus Mui Ne → Da Lat** (~2.5–3h through the mountain pass, ~$6–10). Arrive midday.
-- Afternoon: **Hang Nga "Crazy House"** ✅ (~1.5 km from center, ~₫60–100k ≈ **$3**) — one of the world's 10 strangest buildings; great rain-safe arrival stop. Then **Xuan Huong Lake** ✅ · coffee (Lien Hoa / Tung) ✅ · **Domaine de Marie** ✅.
+- Afternoon: **Hang Nga "Crazy House"** ✅ (~1.5 km from center, ~₫60–100k ≈ **$3**) — one of the world's 10 strangest buildings; great rain-safe arrival stop. Then **Xuan Huong Lake** ✅ · coffee (Lien Hoa / Tung) ✅ · **Domaine de Marie** ✅. *Optional easy add-on: **Fresh Garden** (90B Vạn Thành flower village, ~8–9 min from center — flower fields + indoor **Fresh Zoo** petting zoo, ~₫100–150k ≈ **$4–6**; open 7:30–17:30).*
 - Evening: **night market + fresh fruit** (strawberry season) ✅.
 - 🛏️ Da Lat (accommodation = research gap, ~$10–15 pp pod/dorm).
 
 ### Day 25 · Mon Nov 23 · Da Lat canyoning ⚠️ (Nov = safe season, still rain-gated)
 - **Full-day canyoning at Datanla canyon** — **Viet Challenge** (5.0★, ~$40–80) or **Phat Tire Ventures** (~$82). Rappel down a 25m waterfall, cliff jumps, water slides; ~6–7h incl. lunch. Operators cancel if upstream rain is heavy.
+- 🎢 **Same-venue option — Datanla Alpine Coaster** (Thác Datanla, ~5–6 km from center): **Asia's longest alpine coaster (2,400 m)** through the pine forest down to the falls — entry ~₫80k ≈ **$3.20** · 2,400 m ride ~₫250k ≈ **$10** · shorter 1,200 m ~₫210k ≈ **$8.50** · zipline (1,500 m) ~₫1M ≈ **$40**. ⚠️ **Coaster stops when it rains** — fit it in before/after canyoning (same site, arrives 7:30 AM) or as the swap if canyoning cancels. Also pairs with the **Greenline Luge** 70 kg-limit fallback (see Risks).
 - 🌙 Night: scooter food tour or bars (see Night Activities).
 - 🛏️ Da Lat.
 
 ### Day 26 · Tue Nov 24 · Da Lat Oddities Day 🐪
 - **Prenn Waterfall** (10 km south) — entry ~₫50k ≈ **$2** · **OSTRICH + elephant rides** ✅. Then a **Tà Nung Pass loop** (the "weird things cluster"):
   - **Greenline Luge (Cao Nguyên Hoa)** ✅ — gravity kart (entry ~₫150k ≈ **$6**; luge combo ~₫250k ≈ **$10**; ⚠️ ~70 kg rider limit) — Locked Dec #11, now on the oddities route.
-  - **GOD Valley** — tiny-people village + giant mechanical gods (Turtle God / Forest God) · **Mongo Land** — "Mongolia in Da Lat" (yurts, camels/alpacas, rainbow slide).
+  - **GOD Valley** (reopened Jan 2026) — tiny-people village + giant mechanical gods (Turtle God / Forest God) · **Mongo Land** — "Mongolia in Da Lat" (yurts, camels/alpacas, rainbow slide).
 - Afternoon pick (energy/weather): **Dalat Wonderland** (Tuyên Lâm Lake) — **Snow Castle** + **Haunted Castle** + ostrich riding (package 380k ≈ **$15**) **or** **Ngan Thong Glass Bridge** (Valley of Love, 325 m glass-bottom, ~₫150–250k ≈ **$6–10** ⚠️ verify).
+- 🔀 **Swap options (if you want to swap out part of the loop):**
+  - **Langbiang Land** (93A Bidoup, foot of Lang Biang, ~10 km/20 min north — day pass ~₫155k ≈ **$6.50**): rainbow/foam/inertia slides, dinosaur park, mini-zoo, strawberry + peach gardens, K'Ho gong shows (10:00–11:30 / 15:30–16:30 / 18:00–19:00). ⚠️ Outdoor slides pause in rain.
+  - **ZooDoo** (QL27C Đạ Nhim, ~35 km NE toward Nha Trang — Australia-style petting zoo): ~₫150k ≈ **$6** (online ~135k) · **timed 90–120 min Zookeeper tours** (slots 09:00–16:00) · ⚠️ **book 1–2 days ahead**, fixed entry slot — a half-day trip, best as the whole-morning/afternoon swap. Free shuttle from Big C Đà Lạt ~09:30.
+  - *Alternate oddball if you want a cheap flower-field stop instead of a full zoo: **Fresh Garden** (near center, ~$4–6 — see Day 24).*
 - 🌙 Night: **100 Roofs Café / Maze Bar** — impossible-maze cave bar (drinks ~$1–3). See Night Activities.
 - 🛏️ Da Lat.
 
@@ -413,9 +429,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 2 · Oct 31 | — (long-haul GRU → CGK) | In transit |
 | Day 3 · Nov 1 | Kota Tua (Fatahillah Square) · Café Batavia · Glodok Chinatown food crawl · ⚠️ Monas closed at dusk — skip | Jakarta |
 | Day 4 · Nov 2 | Arrive Bali → transfer to Ubud (Bali Levy + arrival card) | Bali → Ubud |
-| Day 5 · Nov 3 | Monkey Forest · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
-| Day 6 · Nov 4 | Tegalalang Rice Terrace · Tirta Empul water temple · coffee plantation · Tegenungan waterfall | Ubud |
-| Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong · **optional bungee jump (Extreme Park Bali)** ⚠️ | Nusa Penida |
+| Day 5 · Nov 3 | **Sangeh Monkey Forest** (quiet) · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
+| Day 6 · Nov 4 | Tegalalang Rice Terrace · Tirta Empul water temple · coffee plantation (Satria Agrowisata) · **Kanto Lampo waterfall** (alt: Tegenungan) · Goa Gajah Elephant Cave | Ubud |
+| Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong · **Diamond Beach · Rumah Pohon Treehouse · Thousand Island Viewpoint** · **optional bungee jump (Extreme Park Bali)** ⚠️ | Nusa Penida |
 | Day 8 · Nov 6 | **Uluwatu cliff temple + Kecak sunset** (primary) · Penida rebook if cancelled · fallback: cooking class / spa / Blanco Museum | Ubud → Uluwatu |
 | Day 9 · Nov 7 | Lintas Nusa road + ferry Bali → Banyuwangi (~5–9h) | Bali → Banyuwangi |
 | Day 10 · Nov 8 | Rest + confirm Ijen "open trip" · optional hot springs · early sleep | Banyuwangi |
@@ -432,9 +448,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 21 · Nov 19 | Bitexco Skydeck · Fine Arts Museum · spa (Sense Spa) · AO Show / rooftop ✅ | Ho Chi Minh City |
 | Day 22 · Nov 20 | Bus HCMC→Mui Ne (06:00) — **BOUGHT** · Mui Ne Beach / fishing village · Red Sand Dunes sunset | Mui Ne |
 | Day 23 · Nov 21 | White Sand Dunes (dawn, ATV) · Fairy Stream · Poshanu Cham Towers · beach / kitesurf | Mui Ne |
-| Day 24 · Nov 22 | Bus Mui Ne→Da Lat · Crazy House (Hang Nga) · Xuan Huong Lake · coffee · night market | Da Lat |
-| Day 25 · Nov 23 | Datanla canyoning (Viet Challenge / Phat Tire) ⚠️ | Da Lat |
-| Day 26 · Nov 24 | **Oddities Day** — Prenn ostrich/elephant rides · Greenline Luge (Cao Nguyên Hoa) · GOD Valley / Mongo Land · Dalat Wonderland or Ngan Thong glass bridge · 100 Roofs maze bar | Da Lat |
+| Day 24 · Nov 22 | Bus Mui Ne→Da Lat · Crazy House (Hang Nga) · Xuan Huong Lake · coffee · night market · **Fresh Garden (opt)** | Da Lat |
+| Day 25 · Nov 23 | Datanla canyoning (Viet Challenge / Phat Tire) ⚠️ · **Datanla Alpine Coaster (opt)** | Da Lat |
+| Day 26 · Nov 24 | **Oddities Day** — Prenn ostrich/elephant rides · Greenline Luge (Cao Nguyên Hoa) · GOD Valley / Mongo Land · Dalat Wonderland or Ngan Thong glass bridge · 100 Roofs maze bar · **Langbiang Land / ZooDoo (swaps)** | Da Lat |
 | Day 27 · Nov 25 | Flights Da Lat→SGN→Phú Quốc · Grand World night show / Duong Dong night market | Phú Quốc |
 | Day 28 · Nov 26 | Vinpearl Safari · Grand World + K-town / Teddy Bear lights ✅ | Phú Quốc |
 | Day 29 · Nov 27 | Phú Quốc buffer — beach · second United Center loop · night squid fishing (optional) ✅ | Phú Quốc |
@@ -457,6 +473,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Sunset | **Campuhan Ridge Walk** at golden hour | Free | Start ~5 PM, 2 km walk |
 | Sunset | **Bukit Cinta ("Love Hill")** — Mt. Agung backdrop, less crowded | Free | Slightly outside center |
 | Sunset | **Sayan Point Restaurant** — panoramic Ayung valley views | ~$9 (min spend) | Book via Instagram for sunset table |
+| Sunset (save for later) | **Koli Koli Sideman** — peaceful day club w/ Mt. Agung views (the anti-Mana) | ~$5–10 | ~2.5h east in Sidemen — needs a full extra day; not a swap for the Day 8 Uluwatu Kecak sunset |
 | Night market | **Gianyar Night Market** (Pasar Senggol) — babi guling, zero tourist vibe | $2–4 | Daily 5–10 PM, ~25 min drive |
 | Night market | **Sayan Night Market** — hidden gem, almost entirely locals | ~$4 | Daily 5–10 PM, closer to center |
 | Cultural | **Legong/Kecak dance at Ubud Palace** — nightly 7:30 PM | $5–6 | Different dance style each night |
