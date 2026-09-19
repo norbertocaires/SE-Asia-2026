@@ -2,7 +2,7 @@
 
 > 3 Brazilians · Oct 30 – Dec 2, 2026 · Home base Brasília (BSB)
 > Budget target: ~$100/day pp (~$3,600 for 34 days) + flights. Realistic total ≈ $5,100–7,600 pp (flights dominate).
-> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21).** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
+> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21) · Mui Ne→Da Lat bus BOUGHT (Nov 22) · Dalat Peace Backpackers Hostel RESERVED (Nov 22–24) · Da Lat→Phú Quốc flights BOUGHT (Nov 25, dep 07:55 → arr 13:35) · 9Station Hostel & Bar Phú Quốc RESERVED (Nov 25–27).** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
 
 ---
 
@@ -49,6 +49,10 @@
 | 23 | El Nido tours | **Book on arrival — intentionally left open** · A/B are the baseline guide only; pick (or swap) at Devayn's Inn / pier tour desks the evening of Nov 13 · cheaper in person (~₱700 less than GYG) · be aware of the no-buffer trade-off |
 | 24 | Nov 20 transport | **HCMC → Mui Ne bus BOUGHT** — dep **06:00** → arr **09:30** (~3.5h express, via Phan Thiết) |
 | 25 | Mui Ne lodging | **Minhon Hotel Mui Ne — RESERVED** · 210/5 Nguyễn Đình Chiểu, KP2, Hàm Tiên, Mui Ne (Nov 20–21, 2 nights) · Central Hàm Tiến mid-strip — walkable food/Bo Ke + near the bus offices (Futa 97 · Sinh Tourist 144 · Hanh Cafe 246) |
+| 26 | Nov 22 transport | **Mui Ne → Da Lat bus BOUGHT** — dep **07:50** → arr **11:30** (~2.5–3h through the mountain pass) |
+| 27 | Da Lat lodging | **Dalat Peace Backpackers Hostel — RESERVED** · 37/10/17 Hoàng Diệu, Phường Cam Ly, Da Lat (Nov 22–24, 3 nights) · Cam Ly side — a bit off the night-market core but Grab-cheap; fine for the DLI morning run |
+| 28 | Nov 25 flights | **Da Lat → Phú Quốc BOUGHT** (via SGN) — dep **07:55** → arr PQC **13:35** · the thin-DLI threat is now locked |
+| 29 | Phú Quốc lodging | **9Station Hostel & Bar Phu Quoc — RESERVED** · 91/3 Trần Hưng Đạo, Duong To (Long Beach), Phú Quốc (Nov 25–27, 3 nights) · on the northern Long Beach strip — walkable to Duong Dong, near the VinBus/United Center free shuttle & the Nov 28 ferry port |
 
 ---
 
@@ -81,7 +85,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Indonesia — Bali (6 nights: 5 Ubud + 1 Kuta exit) + Ijen (3 nights)
 
 ### Day 5 · Tue Nov 3 · Ubud core
-- **Sangeh Monkey Forest** ✅ (quieter, sacred nutmeg grove, ~700 macaques, free guides — tip them; go early to beat the heat/crowds; ~45 min north of Ubud, Grab ~$8–10 each way) · **Ubud Art Market** ✅ · **Campuhan Ridge Walk** ✅. *(Ubud's Monkey Forest skipped — same macaques, tourist crush.)*
+- **Monkey Forest** ✅ (early, light-rain fine) · **Ubud Art Market** ✅ · **Campuhan Ridge Walk** ✅.
 - Evening: Legong/Kecak **dance at Ubud Palace** ✅ (~$10–20, covered stage).
 - 🌙 **Night options:**
   - **Legong/Kecak dance at Ubud Palace** ✅ (~$6, nightly 7:30 PM, different dance each night — arrive 7 PM for seats)
@@ -95,13 +99,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - **Firefly tour at Taro Village** — organic farm + Balinese cooking class + firefly walk through rice paddies; ~$15–21 pp incl. dinner; ~4–5h; book via GetYourGuide
 
 ### Day 6 · Wed Nov 4 · Ubud day tour (shared pickup — optional)
-- **Tegalalang Rice Terrace** ⚠️ (lush in wet season, muddy) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation (Satria Agrowisata) · waterfall — **Kanto Lampo** ⚠️ (flat path in, tall twin falls, shallow waist-deep pool, closer to Ubud, fewer crowds) · alt waterfall: **Tegenungan** ⚠️ (classic, on the shared-tour route) · **Goa Gajah "Elephant Cave"** ✅ (ancient rock-cut sanctuary, ~$1–2, quick 15-min stop on the way back).
+- **Tegalalang Rice Terrace** ⚠️ (lush in wet season, muddy) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation · waterfall (Tegenungan) ⚠️.
 - Full-day shared tour ~$15–30 pp w/ hotel pickup; or private car ~$30–35/car (cheaper for 3).
-- 🎢 **Adventure options** (and the last-6 list, worked through — pick **one**, swaps the afternoon block):
-  - **UTV Waterfall Adventure** — off-road through rice fields, jungle, mud, + waterfall & cave on the track. ~25 min from Ubud (Pertiwi/Bongkasa), **~2–2.5h incl. transfer, ~$50–85 pp**; Nov = muddy = fun; best fit = a ~2 PM slot after the morning tour run.
-  - **Water Rafting (Ayung)** — iconic Ubud river run, ~30 min away, ~2h, ~$20–30 pp. ⚠️ Overlaps with Da Lat canyoning (Day 25) — book only if you want two water-adrenaline days.
-  - **River Tubing** — lighter half of rafting, same valley, ~$15–25 pp. Optional only if rafting seems too much.
-  - ❌ **Skip:** Jungle Kart (redundant — Da Lat Greenline Luge, Day 26) · Jeep Mt Batur sunrise & Skybike (Batur/Kintamani ~2h away — **saved for later**; Ijen covers volcano sunrise).
 - 🌙 **Night options:**
   - **Campuhan Ridge Walk at sunset** — golden-hour light over the ridge, completely free; start ~5 PM
   - **Sayan Point Restaurant** — panoramic sunset views over Ayung River valley and jungle; min spend ~$9/person easily met with a main + drink; book via Instagram for a good table
@@ -111,7 +110,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 7 · Thu Nov 5 · Nusa Penida day trip ⚠️ (TOP rain/sea risk in Bali)
 - Early fast boat **Sanur → Nusa Penida** (swell can cancel Nov–Mar — today is the fixed slot, tomorrow is the buffer).
-- **Kelingking Beach** viewpoint ⚠️ · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️ · **Diamond Beach** ⚠️ (arguably the loop's best view — crystal-clear cove under limestone cliffs, cliffside stairs down) · quick ridge stops: **Rumah Pohon Treehouse** ⚠️ (~10 min photo stop) · **Thousand Island Viewpoint** ⚠️ (~10 min panoramic spot). *(Skip: Atuh Beach — steep path + rough Nov surf, Diamond's cliff view covers it · Manta Point — wet-season swell + low manta odds · Tembeling/Teletubbies/Goa Giri Putri — time-eaters.)*
+- **Kelingking Beach** viewpoint ⚠️ · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️.
 - Optional ⚠️🔥 **bungee jump at Extreme Park Bali** (~10 min from Kelingking, 130 m cliff over the ocean) — jump-only ≈ **$150–300 pp** w/ video (~IDR 3.1M+), or add to the tour package; a few operators list it **temporarily closed for permit renewal** — verify availability when booking.
 - ~$50–80 pp incl. boat + driver (bungee extra).
 - 🌙 **Night:** Back in Ubud by evening — repeat any of the Day 5 night picks (CP Lounge, Laughing Buddha, night markets, etc.).
@@ -119,12 +118,6 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 8 · Fri Nov 6 · ULUWATU day trip (primary) — or Penida rebook / Ubud reset
 - **Primary (if Penida ran):** **Uluwatu day trip** — the one "Bali don't miss" still missing (cliff temple · sunsets). Private car Ubud → Uluwatu (~1.5–2h): cliff-top **Uluwatu Temple** ✅ · optional Padang Padang beach stop ✅ · **Kecak fire-dance sunset** ✅ (nightly ~6 PM, ~$12) · fish BBQ at Jimbaran Bay optional (~$15–25) → back Ubud ~22:00. ≈ **$35–45 pp** (car ~$30–35/3 + entry ~$8 + Kecak ~$12).
-- 🏜️ **Clifftop sunset-dinner options** (swap for the Jimbaran BBQ — all near the temple area):
-  - **Rockfish The Uluwatu** 🥇 — the clifftop splurge that fits the budget: cave-perched fine dining, glass balcony ~100 m over the ocean, DJ sunset till late; ~IDR 250k (~$16) + cocktails; **reserve for a sunset table**. Upside over Jimbaran: cliff view; downside: no beach/sand.
-  - **The Warung at Alila Villas Uluwatu** 🟡 — Indonesian fine dining on the Alila cliffs, a la carte ~IDR 250–400k (~$16–28); only if you want a dressier, resort-plated experience.
-  - ❌ **El Kabron Bali** — luxury sunset theater ~IDR 850k–1M (~$60–70), pool/hedonism lounge more again; way over budget.
-  - ❌ **Di Mare (Karma Kandara)** — Mediterranean fine dining ~IDR 250–600k; mixed reviews + **seafood food-poisoning reports** — skip.
-  - ❌ **Ulu Cliffhouse** — clifftop bar/pool club, ~400k min spend, party energy; better fit for the Day 33 buffer than Day 8.
 - **If Penida was cancelled:** rebook it today. Never leave it to the last Bali day.
 - Fallback (rain / no energy): Ubud reset — **Balinese cooking class** ✅ (~$25–40) · **spa** ✅ · **Blanco Museum** ✅.
 - 🌙 **Night options:**
@@ -227,42 +220,37 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ **Minhon Hotel Mui Ne** (RESERVED).
 
 ### Day 24 · Sun Nov 22 · Mui Ne → Da Lat + arrival
-- 🚐 Morning **limo/bus Mui Ne → Da Lat** (~2.5–3h through the mountain pass, ~$6–10). Arrive midday.
-- Afternoon: **Hang Nga "Crazy House"** ✅ (~1.5 km from center, ~₫60–100k ≈ **$3**) — one of the world's 10 strangest buildings; great rain-safe arrival stop. Then **Xuan Huong Lake** ✅ · coffee (Lien Hoa / Tung) ✅ · **Domaine de Marie** ✅. *Optional easy add-on: **Fresh Garden** (90B Vạn Thành flower village, ~8–9 min from center — flower fields + indoor **Fresh Zoo** petting zoo, ~₫100–150k ≈ **$4–6**; open 7:30–17:30).*
+- 🚌 **BOUGHT — bus Mui Ne → Da Lat**, dep **07:50** → arr **11:30** (~2.5–3h through the mountain pass). Early-ish start from Minhon (office ~2-min walk on Nguyễn Đình Chiểu); arrive ~lunch → full Day 24 ahead.
+- Afternoon: **Hang Nga "Crazy House"** ✅ (~1.5 km from center, ~₫60–100k ≈ **$3**) — one of the world's 10 strangest buildings; great rain-safe arrival stop. Then **Xuan Huong Lake** ✅ · coffee (Lien Hoa / Tung) ✅ · **Domaine de Marie** ✅.
 - Evening: **night market + fresh fruit** (strawberry season) ✅.
-- 🛏️ Da Lat (accommodation = research gap, ~$10–15 pp pod/dorm).
+- 🛏️ **Dalat Peace Backpackers Hostel** (37/10/17 Hoàng Diệu, Phường Cam Ly) — **RESERVED** (Nov 22–24, 3 nights) · Cam Ly side, off the night-market core — Grab/Be ~10 min into the center.
 
 ### Day 25 · Mon Nov 23 · Da Lat canyoning ⚠️ (Nov = safe season, still rain-gated)
 - **Full-day canyoning at Datanla canyon** — **Viet Challenge** (5.0★, ~$40–80) or **Phat Tire Ventures** (~$82). Rappel down a 25m waterfall, cliff jumps, water slides; ~6–7h incl. lunch. Operators cancel if upstream rain is heavy.
-- 🎢 **Same-venue option — Datanla Alpine Coaster** (Thác Datanla, ~5–6 km from center): **Asia's longest alpine coaster (2,400 m)** through the pine forest down to the falls — entry ~₫80k ≈ **$3.20** · 2,400 m ride ~₫250k ≈ **$10** · shorter 1,200 m ~₫210k ≈ **$8.50** · zipline (1,500 m) ~₫1M ≈ **$40**. ⚠️ **Coaster stops when it rains** — fit it in before/after canyoning (same site, arrives 7:30 AM) or as the swap if canyoning cancels. Also pairs with the **Greenline Luge** 70 kg-limit fallback (see Risks).
 - 🌙 Night: scooter food tour or bars (see Night Activities).
-- 🛏️ Da Lat.
+- 🛏️ **Dalat Peace Backpackers Hostel** (RESERVED).
 
 ### Day 26 · Tue Nov 24 · Da Lat Oddities Day 🐪
 - **Prenn Waterfall** (10 km south) — entry ~₫50k ≈ **$2** · **OSTRICH + elephant rides** ✅. Then a **Tà Nung Pass loop** (the "weird things cluster"):
   - **Greenline Luge (Cao Nguyên Hoa)** ✅ — gravity kart (entry ~₫150k ≈ **$6**; luge combo ~₫250k ≈ **$10**; ⚠️ ~70 kg rider limit) — Locked Dec #11, now on the oddities route.
-  - **GOD Valley** (reopened Jan 2026) — tiny-people village + giant mechanical gods (Turtle God / Forest God) · **Mongo Land** — "Mongolia in Da Lat" (yurts, camels/alpacas, rainbow slide).
+  - **GOD Valley** — tiny-people village + giant mechanical gods (Turtle God / Forest God) · **Mongo Land** — "Mongolia in Da Lat" (yurts, camels/alpacas, rainbow slide).
 - Afternoon pick (energy/weather): **Dalat Wonderland** (Tuyên Lâm Lake) — **Snow Castle** + **Haunted Castle** + ostrich riding (package 380k ≈ **$15**) **or** **Ngan Thong Glass Bridge** (Valley of Love, 325 m glass-bottom, ~₫150–250k ≈ **$6–10** ⚠️ verify).
-- 🔀 **Swap options (if you want to swap out part of the loop):**
-  - **Langbiang Land** (93A Bidoup, foot of Lang Biang, ~10 km/20 min north — day pass ~₫155k ≈ **$6.50**): rainbow/foam/inertia slides, dinosaur park, mini-zoo, strawberry + peach gardens, K'Ho gong shows (10:00–11:30 / 15:30–16:30 / 18:00–19:00). ⚠️ Outdoor slides pause in rain.
-  - **ZooDoo** (QL27C Đạ Nhim, ~35 km NE toward Nha Trang — Australia-style petting zoo): ~₫150k ≈ **$6** (online ~135k) · **timed 90–120 min Zookeeper tours** (slots 09:00–16:00) · ⚠️ **book 1–2 days ahead**, fixed entry slot — a half-day trip, best as the whole-morning/afternoon swap. Free shuttle from Big C Đà Lạt ~09:30.
-  - *Alternate oddball if you want a cheap flower-field stop instead of a full zoo: **Fresh Garden** (near center, ~$4–6 — see Day 24).*
 - 🌙 Night: **100 Roofs Café / Maze Bar** — impossible-maze cave bar (drinks ~$1–3). See Night Activities.
-- 🛏️ Da Lat.
+- 🛏️ **Dalat Peace Backpackers Hostel** (RESERVED).
 
 ### Day 27 · Wed Nov 25 · Da Lat → SGN → Phú Quốc
-- ✈️ **DLI → SGN** (~50 min, ~$25–50; ⚠️ DLI has a **thin daily schedule — book the morning leg and verify**) → **SGN → PQC** (~1h, ~$30–60). Arrive Phú Quốc early–mid afternoon.
-- Settle near **Duong Dong** (research gap, ~$15–25 pp) · evening: **Grand World** free entry + night show (~₫300k ≈ **$12**) in Phu Quoc United Center (free shuttle) **or** Duong Dong night market.
-- 🛏️ Phú Quốc.
+- ✈️ **BOUGHT — Da Lat → Phú Quốc** (via SGN), dep **07:55** → arr PQC **13:35**. Early Grab from Cam Ly to DLI (~35–40 min, ~$8–12) — book it the night before; the thin-DLI morning-leg risk is gone.
+- Arrive early afternoon → settle at **9Station Hostel & Bar** (91/3 Trần Hưng Đạo, Duong To) — **RESERVED** (Nov 25–27, 3 nights) · northern Long Beach strip, walkable into Duong Dong · evening: **Grand World** free entry + night show (~₫300k ≈ **$12**) in Phu Quoc United Center (free shuttle) **or** Duong Dong night market.
+- 🛏️ **9Station Hostel & Bar** (RESERVED).
 
 ### Day 28 · Thu Nov 26 · Vinpearl Safari + Grand World
 - **Vinpearl Safari** ✅ (~₫750–850k ≈ **$30–34**, 9:00–16:00, north-island United Center, free shuttle) — safari + semi-wild animal park.
 - Evening: **Grand World night show** ✅ (~$12) + K-town / Teddy Bear Museum lights.
-- 🛏️ Phú Quốc.
+- 🛏️ **9Station Hostel & Bar** (RESERVED).
 
 ### Day 29 · Fri Nov 27 · Phú Quốc buffer
 - Morning beach ✅ (Long Beach / Dinh Cau) · second **United Center** loop (Sunset Town · free Viet Puppetry show) · optional **night squid fishing** ✅ (~$8–15, 4h, departs ~5 PM).
-- Absorbs any rain from Day 28. 🛏️ Phú Quốc.
+- Absorbs any rain from Day 28. 🛏️ **9Station Hostel & Bar** (RESERVED).
 
 ### Day 30 · Sat Nov 28 · Phú Quốc → Phnom Penh by ferry + bus 🇰🇭
 - 🚢 **Ferry Phú Quốc (Bai Vong) → Hà Tiên** — high-speed **Superdong / Phú Quốc Express**, ~**08:00** departure, ~**1h15–1h30**, ~**$9** (~230k VND). Bai Vong is ~12 km from Duong Dong (shuttle ~40k VND); arrive ~09:15.
@@ -320,9 +308,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | El Nido (Lio)→MNL | Flight | **BOUGHT — AirSWIFT** (Nov 16, dep 10:45) | **paid** | Part of the same-day El Nido→HCMC booking |
 | MNL→SGN | Flight | **BOUGHT** (Nov 16) | **paid** | ~3h20; **self-connect** — collect + recheck bags at MNL; arr SGN 20:45 |
 | HCMC→Mui Ne | Road | **BOUGHT — bus** (Nov 20, dep 06:00) | **paid** | ~3.5h express via Phan Thiết; confirm pickup at the operator's office on/off Pham Ngu Lao |
-| Mui Ne→Da Lat | Road | Limo/bus (Nov 22) | $6–10 | ~2.5–3h through the mountain pass |
-| DLI→SGN | Flight | Vietnam Airlines / VietJet (Nov 25) | $25–50 | ~50min; ⚠️ **thin daily schedule — verify**; DLI 30 km/45 min from town |
-| SGN→PQC | Flight | VietJet / Vietnam Airlines (Nov 25) | $30–60 | ~1h; same-day connect after the DLI leg |
+| Mui Ne→Da Lat | Road | **BOUGHT — bus** (Nov 22, dep 07:50) | **paid** | ~2.5–3h through the mountain pass; office ≈ 2-min walk from Minhon |
+| DLI→SGN | Flight | **BOUGHT** (Nov 25) | **paid** | dep 07:55 leg of the Da Lat→PQC ticket |
+| SGN→PQC | Flight | **BOUGHT** (Nov 25) | **paid** | arr PQC 13:35; same-day connect |
 | PQC→Hà Tiên | Ferry | **Superdong / Phú Quốc Express** (Nov 28, ~08:00) | ~$7–13 | ~1h15–1h30 high-speed; Bai Vong port, ~12 km from Duong Dong |
 | Hà Tiên→PP | Bus/van | Thái Dương / Virak Buntham **or** combined ticket (12Go/redBus) | $10–14 (combo ~$25–32) | ~4–6h via **Xa Xia–Prek Chak**; runs **daily** |
 | KTI→SGN | Flight | Vietnam Airlines / Cambodia Angkor (Nov 30) | $40–90 | ~1h05; morning/evening slots (verify) |
@@ -364,15 +352,15 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | El Nido (Tours A + B) | Nov 13–15 | 3 | Devayn's Inn (reserved, rate TBD) | $21–29 | $20 | $41–49 + lodging |
 | Ho Chi Minh City (Cu Chi, war sites, spa) | Nov 16–19 | 4 | SG Cozy2 Hotel (reserved, rate TBD) | $15–25 (+$24–45 optional spa, Day 21) | $20 | $35–45 + lodging |
 | Mui Ne (sand dunes + beach) | Nov 20–21 | 2 | **Minhon Hotel Mui Ne — RESERVED** (rate TBD) | $15–30 | $16 | $31–46 + lodging |
-| Da Lat (canyoning + oddities day) | Nov 22–24 | 3 | $10–15 (pick = research gap) | $30–45 | $15 | $55–75 |
-| Phú Quốc (Safari + Grand World + buffer) | Nov 25–27 | 3 | $15–25 (pick = research gap) | $30–40 | $20 | $65–85 |
+| Da Lat (canyoning + oddities day) | Nov 22–24 | 3 | **Dalat Peace Backpackers Hostel — RESERVED** (rate TBD) | $30–45 | $15 | $45–60 + lodging |
+| Phú Quốc (Safari + Grand World + buffer) | Nov 25–27 | 3 | **9Station Hostel & Bar — RESERVED** (rate TBD) | $30–40 | $20 | $50–60 + lodging |
 | Phnom Penh (range + return) | Nov 28–29 | 2 | $13 (Onederz) | $17–30 (+RPG ammo, cash) · Nov 28 PQC→PP land hop ≈ $25–32 | $18 | $48–75 |
 | Return to Bali (SGN pod optional) | Nov 30–Dec 1 | 1–2 | $15–25 (SGN pod/DPS pod) | hops excluded (see Flights) | $18 | $33–43 + hops |
 | Home (DPS→GRU→BSB) | Dec 2 | 0 | — | — | — | — |
 
 **Roll-up vs the Budget table:** accommodation ≈ $400–550 ✓ (range $330–1,330) · day spend (tours + local transport + food) ≈ $1,950–2,600 ✓ · flights ≈ $3,000–3,900 (incl. BOUGHT long-haul est.) → realistic all-in ≈ **$5,100–7,600**.
 
-> **Research gaps:** (1) Dec 1 Kuta/Seminyak pod near DPS (~$15–25; the Nov 10 night is now booked at Adhi Jaya Hotel), (2) Da Lat accommodation (3 nights, ~$10–15 pp), (3) Phú Quốc accommodation (3 nights, ~$15–25 pp near Duong Dong or United Center). **Mui Ne ✅ Minhon Hotel RESERVED.** Quick Booking searches for "capsule hostel" + city will close them.
+> **Research gaps:** (1) Dec 1 Kuta/Seminyak pod near DPS (~$15–25; the Nov 10 night is now booked at Adhi Jaya Hotel). **All Vietnam lodging locked ✅ — Mui Ne (Minhon) · Da Lat (Dalat Peace) · Phú Quốc (9Station).** Quick Booking searches for "capsule hostel" + city will close the last one.
 
 ---
 
@@ -405,12 +393,12 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 21 · Nov 19 | **SG Cozy2 Hotel — Pham Ngu Lao St** (241/12, D1) — RESERVED | Ho Chi Minh City (D1) |
 | Day 22 · Nov 20 | Mui Ne — **Minhon Hotel RESERVED** | Mui Ne |
 | Day 23 · Nov 21 | Mui Ne — **Minhon Hotel RESERVED** | Mui Ne |
-| Day 24 · Nov 22 | Da Lat pod/dorm (~$10–15, research gap) | Da Lat |
-| Day 25 · Nov 23 | Da Lat pod/dorm (~$10–15, research gap) | Da Lat |
-| Day 26 · Nov 24 | Da Lat pod/dorm (~$10–15, research gap) | Da Lat |
-| Day 27 · Nov 25 | Phú Quốc (~$15–25, research gap) | Phú Quốc (Duong Dong) |
-| Day 28 · Nov 26 | Phú Quốc (~$15–25, research gap) | Phú Quốc (Duong Dong) |
-| Day 29 · Nov 27 | Phú Quốc (~$15–25, research gap) | Phú Quốc (Duong Dong) |
+| Day 24 · Nov 22 | Da Lat — **Dalat Peace Backpackers RESERVED** | Da Lat |
+| Day 25 · Nov 23 | Da Lat — **Dalat Peace Backpackers RESERVED** | Da Lat |
+| Day 26 · Nov 24 | Da Lat — **Dalat Peace Backpackers RESERVED** | Da Lat |
+| Day 27 · Nov 25 | Phú Quốc — **9Station Hostel & Bar RESERVED** + **Da Lat→PQC flights BOUGHT** | Phú Quốc (Duong Dong/Long Beach) |
+| Day 28 · Nov 26 | Phú Quốc — **9Station Hostel & Bar RESERVED** | Phú Quốc (Duong Dong/Long Beach) |
+| Day 29 · Nov 27 | Phú Quốc — **9Station Hostel & Bar RESERVED** | Phú Quốc (Duong Dong/Long Beach) |
 | Day 30 · Nov 28 | Onederz Phnom Penh (~$10–15) | Phnom Penh |
 | Day 31 · Nov 29 | Onederz Phnom Penh (~$10–15) | Phnom Penh |
 | Day 32 · Nov 30 | SGN airport pod (~$15–25, optional) **or** DPS pod | Saigon / Bali |
@@ -429,9 +417,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 2 · Oct 31 | — (long-haul GRU → CGK) | In transit |
 | Day 3 · Nov 1 | Kota Tua (Fatahillah Square) · Café Batavia · Glodok Chinatown food crawl · ⚠️ Monas closed at dusk — skip | Jakarta |
 | Day 4 · Nov 2 | Arrive Bali → transfer to Ubud (Bali Levy + arrival card) | Bali → Ubud |
-| Day 5 · Nov 3 | **Sangeh Monkey Forest** (quiet) · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
-| Day 6 · Nov 4 | Tegalalang Rice Terrace · Tirta Empul water temple · coffee plantation (Satria Agrowisata) · **Kanto Lampo waterfall** (alt: Tegenungan) · Goa Gajah Elephant Cave | Ubud |
-| Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong · **Diamond Beach · Rumah Pohon Treehouse · Thousand Island Viewpoint** · **optional bungee jump (Extreme Park Bali)** ⚠️ | Nusa Penida |
+| Day 5 · Nov 3 | Monkey Forest · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
+| Day 6 · Nov 4 | Tegalalang Rice Terrace · Tirta Empul water temple · coffee plantation · Tegenungan waterfall | Ubud |
+| Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong · **optional bungee jump (Extreme Park Bali)** ⚠️ | Nusa Penida |
 | Day 8 · Nov 6 | **Uluwatu cliff temple + Kecak sunset** (primary) · Penida rebook if cancelled · fallback: cooking class / spa / Blanco Museum | Ubud → Uluwatu |
 | Day 9 · Nov 7 | Lintas Nusa road + ferry Bali → Banyuwangi (~5–9h) | Bali → Banyuwangi |
 | Day 10 · Nov 8 | Rest + confirm Ijen "open trip" · optional hot springs · early sleep | Banyuwangi |
@@ -448,10 +436,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 21 · Nov 19 | Bitexco Skydeck · Fine Arts Museum · spa (Sense Spa) · AO Show / rooftop ✅ | Ho Chi Minh City |
 | Day 22 · Nov 20 | Bus HCMC→Mui Ne (06:00) — **BOUGHT** · Mui Ne Beach / fishing village · Red Sand Dunes sunset | Mui Ne |
 | Day 23 · Nov 21 | White Sand Dunes (dawn, ATV) · Fairy Stream · Poshanu Cham Towers · beach / kitesurf | Mui Ne |
-| Day 24 · Nov 22 | Bus Mui Ne→Da Lat · Crazy House (Hang Nga) · Xuan Huong Lake · coffee · night market · **Fresh Garden (opt)** | Da Lat |
-| Day 25 · Nov 23 | Datanla canyoning (Viet Challenge / Phat Tire) ⚠️ · **Datanla Alpine Coaster (opt)** | Da Lat |
-| Day 26 · Nov 24 | **Oddities Day** — Prenn ostrich/elephant rides · Greenline Luge (Cao Nguyên Hoa) · GOD Valley / Mongo Land · Dalat Wonderland or Ngan Thong glass bridge · 100 Roofs maze bar · **Langbiang Land / ZooDoo (swaps)** | Da Lat |
-| Day 27 · Nov 25 | Flights Da Lat→SGN→Phú Quốc · Grand World night show / Duong Dong night market | Phú Quốc |
+| Day 24 · Nov 22 | Bus Mui Ne→Da Lat (07:50) — **BOUGHT** · Crazy House (Hang Nga) · Xuan Huong Lake · coffee · night market | Da Lat |
+| Day 25 · Nov 23 | Datanla canyoning (Viet Challenge / Phat Tire) ⚠️ | Da Lat |
+| Day 26 · Nov 24 | **Oddities Day** — Prenn ostrich/elephant rides · Greenline Luge (Cao Nguyên Hoa) · GOD Valley / Mongo Land · Dalat Wonderland or Ngan Thong glass bridge · 100 Roofs maze bar | Da Lat |
+| Day 27 · Nov 25 | Flights Da Lat→SGN→Phú Quốc (07:55→13:35) — **BOUGHT** · Grand World night show / Duong Dong night market | Phú Quốc |
 | Day 28 · Nov 26 | Vinpearl Safari · Grand World + K-town / Teddy Bear lights ✅ | Phú Quốc |
 | Day 29 · Nov 27 | Phú Quốc buffer — beach · second United Center loop · night squid fishing (optional) ✅ | Phú Quốc |
 | Day 30 · Nov 28 | Ferry Phú Quốc→Hà Tiên (~08:00) · bus → Phnom Penh (Xa Xia–Prek Chak) · riverside evening | Phnom Penh |
@@ -473,7 +461,6 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Sunset | **Campuhan Ridge Walk** at golden hour | Free | Start ~5 PM, 2 km walk |
 | Sunset | **Bukit Cinta ("Love Hill")** — Mt. Agung backdrop, less crowded | Free | Slightly outside center |
 | Sunset | **Sayan Point Restaurant** — panoramic Ayung valley views | ~$9 (min spend) | Book via Instagram for sunset table |
-| Sunset (save for later) | **Koli Koli Sideman** — peaceful day club w/ Mt. Agung views (the anti-Mana) | ~$5–10 | ~2.5h east in Sidemen — needs a full extra day; not a swap for the Day 8 Uluwatu Kecak sunset |
 | Night market | **Gianyar Night Market** (Pasar Senggol) — babi guling, zero tourist vibe | $2–4 | Daily 5–10 PM, ~25 min drive |
 | Night market | **Sayan Night Market** — hidden gem, almost entirely locals | ~$4 | Daily 5–10 PM, closer to center |
 | Cultural | **Legong/Kecak dance at Ubud Palace** — nightly 7:30 PM | $5–6 | Different dance style each night |
@@ -615,8 +602,8 @@ Quick version:
 - ✈️ **DONE — EL NIDO→HCMC BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, same-day via MNL).
 - 🚐🏨 **DONE — PPS→El Nido van (12Go, Nov 13 dep 08:00 → arr 13:30) + Devayn's Inn RESERVED** (El Nido, Nov 13–15, Calle Hama 5313).
 - 🏨 **DONE — HCMC: SG Cozy2 Hotel — Pham Ngu Lao St** (241/12 Pham Ngu Lao, D1) RESERVED (Nov 16–19).
-- 🚌 **DONE — HCMC→Mui Ne bus BOUGHT** (Nov 20, dep 06:00 → arr 09:30).
-- 📄 **Mid-Sep (flight constraint order, remaining):** BSB↔GRU feeders · **DLI→SGN + SGN→PQC (Nov 25 — DLI schedule is thin, book early)** · **Phú Quốc→Phnom Penh ferry+bus (Nov 28 — combo on 12Go/redBus, or Superdong ferry + Thai Duong bus)** · **KTI→SGN→DPS (Nov 30/Dec 1)**.
+- 🚌 **DONE — HCMC→Mui Ne bus BOUGHT** (Nov 20, dep 06:00 → arr 09:30) · **Mui Ne→Da Lat bus BOUGHT** (Nov 22, dep 07:50 → arr 11:30) · **Da Lat→Phú Quốc flights BOUGHT** (Nov 25, dep 07:55 → arr PQC 13:35).
+- 📄 **Mid-Sep (flight constraint order, remaining):** BSB↔GRU feeders · **Phú Quốc→Phnom Penh ferry+bus (Nov 28 — combo on 12Go/redBus, or Superdong ferry + Thai Duong bus)** · **KTI→SGN→DPS (Nov 30/Dec 1)**.
 - 📄 **Early Oct:** Vietnam e-Visa ($25, evisa.xuatnhapcanh.gov.vn), passport ≥6mo validity.
 - 📄 **Mid-Oct:** Cambodia visa — land entry at **Prek Chak (Nov 28): visa on arrival ~$30 is easiest** (e-Visa port list may not include Prek Chak — verify evisa.gov.kh) · **Indonesia B1 e-VOA** for re-entry (~$32–35, evisa.imigrasi.go.id); book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, $35/₱2,200 — **not booked**: Option A = ₱750 dep via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (**El Nido A/B = booked on arrival, open pick**, Da Lat canyoning, shooting range).
 - 📄 **Late Oct:** Asialink eSIMs, travel insurance, Grab/Klook.
@@ -634,7 +621,7 @@ Quick version:
 - **Bali arrival via domestic CGK→DPS (Nov 2):** immigration is at CGK; the DPS domestic arrival is fast — but Bali Levy collection still happens on Bali entry. Confirm the levy QR flow for domestic arrivals before flying.
 - **Greenline Luge (Cao Nguyên Hoa):** ~70 kg rider limit — heavier travelers walk/push or do the Alpine Coaster instead. Entry + luge combo ≈ $10 pp.
 - **Da Lat Oddities Day (Nov 24):** all stops are land-based ✅ — only the elevated/official rides pause in heavy rain; swap freely between the Tà Nung loop, Dalat Wonderland, and the glass bridge. Ostrich riding at Prenn runs rain-or-shine but may pause in a downpour.
-- **DLI (Lien Khuong) schedule:** Da Lat's airport has few daily departures — the Nov 25 morning DLI→SGN leg must be confirmed early; the SGN→PQC connection is flexible (many flights).
+- **DLI (Lien Khuong) schedule:** ✅ the Nov 25 morning DLI→SGN leg is **BOUGHT** (07:55) — the thin-schedule threat is gone; only the early DLI Grab needs arranging.
 - **13-day Vietnam is tight but un-rushed** — every block has its own arrival/reset day; only the Nov 16 El Nido→HCMC and Nov 25 Da Lat→SGN→PQC days are pure transit.
 - **Oslob/Cebu gone** — the CEB→SGN Mon/Wed/Fri anchor and its fragile logistics are removed from the plan.
 - **Da Lat canyoning** is rain-gated but November is its safe season; book refundable (Viet Challenge / Phat Tire).
