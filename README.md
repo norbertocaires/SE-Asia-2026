@@ -2,7 +2,7 @@
 
 > 3 Brazilians · Oct 30 – Dec 2, 2026 · Home base Brasília (BSB)
 > Budget target: ~$100/day pp (~$3,600 for 34 days) + flights. Realistic total ≈ $5,100–7,600 pp (flights dominate).
-> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21) · Mui Ne→Da Lat bus BOUGHT (Nov 22) · Dalat Peace Backpackers Hostel RESERVED (Nov 22–24) · Da Lat→Phú Quốc flights BOUGHT (Nov 25, dep 07:55 → arr 13:35) · 9Station Hostel & Bar Phú Quốc RESERVED (Nov 25–27).** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
+> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21) · Mui Ne→Da Lat bus BOUGHT (Nov 22) · Dalat Peace Backpackers Hostel RESERVED (Nov 22–24) · Da Lat→Phú Quốc flights BOUGHT (Nov 25, dep 07:55 → arr 13:35) · 9Station Hostel & Bar Phú Quốc RESERVED (Nov 25–27) · PQC→Phnom Penh 12Go combined BOUGHT (Nov 28, dep 09:00 → arr 17:00) · Mettavary Hotel Phnom Penh RESERVED (Nov 28–29).** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
 
 ---
 
@@ -53,6 +53,8 @@
 | 27 | Da Lat lodging | **Dalat Peace Backpackers Hostel — RESERVED** · 37/10/17 Hoàng Diệu, Phường Cam Ly, Da Lat (Nov 22–24, 3 nights) · Cam Ly side — a bit off the night-market core but Grab-cheap; fine for the DLI morning run |
 | 28 | Nov 25 flights | **Da Lat → Phú Quốc BOUGHT** (via SGN) — dep **07:55** → arr PQC **13:35** · the thin-DLI threat is now locked |
 | 29 | Phú Quốc lodging | **9Station Hostel & Bar Phu Quoc — RESERVED** · 91/3 Trần Hưng Đạo, Duong To (Long Beach), Phú Quốc (Nov 25–27, 3 nights) · on the northern Long Beach strip — walkable to Duong Dong, near the VinBus/United Center free shuttle & the Nov 28 ferry port |
+| 30 | Cambodia hop | **Phú Quốc → Phnom Penh combined ticket BOUGHT on 12Go** (Nov 28, dep **09:00** → arr **17:00**) — ferry Bai Vong→Hà Tiên + transfer + van through **Xa Xia–Prek Chak** · one operator, ~8h |
+| 31 | Phnom Penh lodging | **Mettavary Hotel — RESERVED** · No.17, Street 312 corner 21, Tonle Bassac, Chamkar Mon, Phnom Penh (Nov 28–29, 2 nights) · quiet Tonle Bassac lanes by Bassac Lane nightlife, ~10–15 min to Riverside & closest central base to KTI for the Nov 30 exit |
 
 ---
 
@@ -252,13 +254,11 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - Morning beach ✅ (Long Beach / Dinh Cau) · second **United Center** loop (Sunset Town · free Viet Puppetry show) · optional **night squid fishing** ✅ (~$8–15, 4h, departs ~5 PM).
 - Absorbs any rain from Day 28. 🛏️ **9Station Hostel & Bar** (RESERVED).
 
-### Day 30 · Sat Nov 28 · Phú Quốc → Phnom Penh by ferry + bus 🇰🇭
-- 🚢 **Ferry Phú Quốc (Bai Vong) → Hà Tiên** — high-speed **Superdong / Phú Quốc Express**, ~**08:00** departure, ~**1h15–1h30**, ~**$9** (~230k VND). Bai Vong is ~12 km from Duong Dong (shuttle ~40k VND); arrive ~09:15.
-- 🚐 Then **bus/van Hà Tiên → Phnom Penh** via the **Xa Xia (VN)–Prek Chak (KH) border** — ~**4–6h** incl. processing, ~**$10–14** (Thái Dương/Thai Duong Limousine, Virak Buntham, Hà Tiên Travel; daily departures).
-- 🥇 Easiest: book the **combined Phú Quốc → Phnom Penh minivan+ferry ticket** (~$25–32, ~7h) on **12Go / redBus / Bookaway** — one operator handles ferry + border + transfer.
-- Arrive **Phnom Penh ~17:00–19:00** — keep the evening light: check in **Onederz** (5-min walk to Riverside) · riverside sunset · dinner. ⚠️ **S21 closes 17:00 — drop it** (no longer feasible).
+### Day 30 · Sat Nov 28 · Phú Quốc → Phnom Penh 🇰🇭
+- 🚢🛻 **COMBINED Phú Quốc → Phnom Penh ticket BOUGHT on 12Go** — dep **09:00** → arr **17:00** (~8h): ferry Bai Vong → Hà Tiên + transfer + van/bus through the **Xa Xia (VN)–Prek Chak (KH) border** — one operator handles ferry + border + transfer.
+- Arrive **Phnom Penh ~17:00** — check in **Mettavary Hotel** (No.17, St 312 corner 21, Tonle Bassac) — **RESERVED** (Nov 28–29, 2 nights) · quiet lanes by Bassac Lane nightlife, ~10–15 min to Riverside · riverside sunset · dinner. ⚠️ **S21 closes 17:00 — drop it** (no longer feasible).
 - ⚠️ **Border/visa:** Cambodia e-Visa validity at Prek Chak isn't guaranteed — easiest is **visa on arrival at the border (~$30)**; bus staff shepherd you through. Expect the unofficial ~$5 "service tip" at Xa Xia (refusing delays the whole bus).
-- 🛏️ Phnom Penh.
+- 🛏️ **Mettavary Hotel** (RESERVED).
 
 ### 📷 Photos — Vietnam
 - **Cu Chi tunnels** — [photo](https://live.staticflickr.com/3330/3308141453_08cfc20875_b.jpg) · **War Remnants Museum** — [photo](https://live.staticflickr.com/3231/2312301996_9bd726fa9a_b.jpg) · **Reunification Palace** — [photo](https://live.staticflickr.com/3579/3561127827_89fe7cb3ae_b.jpg)
@@ -271,7 +271,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 31 · Sun Nov 29 · Kampong Speu shooting range ⚠️ (rain-cancellable, no buffer)
 - Full-day private-car tour to **Kampong Speu military range** (~90–120 min each way). Base ~$15 pp; **weapons + ammo paid separately in cash at the range** — **RPG ≈ $500–550/shot**, AK-47/M16 ≈ **$60/clip**, PKM ≈ **$200**; realistic minimum ~$600 spend (split 3 ways).
-- Outdoor range stops in heavy rain — operator **reschedules/refunds**. 🛏️ Phnom Penh.
+- Outdoor range stops in heavy rain — operator **reschedules/refunds**. 🛏️ **Mettavary Hotel** (RESERVED).
 - **Good news:** unlike v3, the red-eye is not tomorrow morning — a washout now just rearranges the tail, not the trip.
 
 ### Day 32 · Mon Nov 30 · Phnom Penh (KTI) → SGN → DPS
@@ -311,13 +311,12 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Mui Ne→Da Lat | Road | **BOUGHT — bus** (Nov 22, dep 07:50) | **paid** | ~2.5–3h through the mountain pass; office ≈ 2-min walk from Minhon |
 | DLI→SGN | Flight | **BOUGHT** (Nov 25) | **paid** | dep 07:55 leg of the Da Lat→PQC ticket |
 | SGN→PQC | Flight | **BOUGHT** (Nov 25) | **paid** | arr PQC 13:35; same-day connect |
-| PQC→Hà Tiên | Ferry | **Superdong / Phú Quốc Express** (Nov 28, ~08:00) | ~$7–13 | ~1h15–1h30 high-speed; Bai Vong port, ~12 km from Duong Dong |
-| Hà Tiên→PP | Bus/van | Thái Dương / Virak Buntham **or** combined ticket (12Go/redBus) | $10–14 (combo ~$25–32) | ~4–6h via **Xa Xia–Prek Chak**; runs **daily** |
+| PQC→PP | Ferry + van/bus | **12Go combined — BOUGHT** (Nov 28, dep 09:00 → arr 17:00) | $25–32 | ~8h via Bai Vong→Hà Tiên + **Xa Xia–Prek Chak**; one operator handles ferry + border + transfer |
 | KTI→SGN | Flight | Vietnam Airlines / Cambodia Angkor (Nov 30) | $40–90 | ~1h05; morning/evening slots (verify) |
 | SGN→DPS | Flight | VietJet 07:55/08:45 **or** VN641 10:10 (Nov 30/Dec 1) | $60–130 | ⚠️ **all departures are morning-only** |
 | **DPS→GRU** | Long haul | **BOUGHT** — DPS 00:15 Dec 2 → GRU 17:35 Dec 2 | **paid** | → BSB feeder; home late Dec 2 |
 
-**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→HCMC **BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, Lio→MNL + MNL→SGN **self-connect** — no through-bags, keep MNL gap ≥4h). (3) PQC→Phnom Penh is now by **ferry + bus (Nov 28)** — runs **daily** through Xa Xia–Prek Chak; book the combined ticket (12Go/redBus) or Superdong ferry + Thai Duong bus separately; storm fallback = PQC→SGN→KTI flight. (4) Return hop **KTI→SGN→DPS (Nov 30/Dec 1)**: all SGN→DPS are morning-only; decide dawn-raid vs SGN-sleep by flight availability. (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (Nov 30/Dec 1) — second visa-free entry is officer discretion → **insurance = pre-bought B1 e-VOA**; Bali Levy + arrival card ×2.
+**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→HCMC **BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, Lio→MNL + MNL→SGN **self-connect** — no through-bags, keep MNL gap ≥4h). (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **KTI→SGN→DPS (Nov 30/Dec 1)**: all SGN→DPS are morning-only; decide dawn-raid vs SGN-sleep by flight availability. (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (Nov 30/Dec 1) — second visa-free entry is officer discretion → **insurance = pre-bought B1 e-VOA**; Bali Levy + arrival card ×2.
 
 ---
 
@@ -354,7 +353,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Mui Ne (sand dunes + beach) | Nov 20–21 | 2 | **Minhon Hotel Mui Ne — RESERVED** (rate TBD) | $15–30 | $16 | $31–46 + lodging |
 | Da Lat (canyoning + oddities day) | Nov 22–24 | 3 | **Dalat Peace Backpackers Hostel — RESERVED** (rate TBD) | $30–45 | $15 | $45–60 + lodging |
 | Phú Quốc (Safari + Grand World + buffer) | Nov 25–27 | 3 | **9Station Hostel & Bar — RESERVED** (rate TBD) | $30–40 | $20 | $50–60 + lodging |
-| Phnom Penh (range + return) | Nov 28–29 | 2 | $13 (Onederz) | $17–30 (+RPG ammo, cash) · Nov 28 PQC→PP land hop ≈ $25–32 | $18 | $48–75 |
+| Phnom Penh (range + return) | Nov 28–29 | 2 | **Mettavary Hotel — RESERVED** (rate TBD) | $17–30 (+RPG ammo, cash) · Nov 28 PQC→PP 12Go combined **BOUGHT** | $18 | $48–75 |
 | Return to Bali (SGN pod optional) | Nov 30–Dec 1 | 1–2 | $15–25 (SGN pod/DPS pod) | hops excluded (see Flights) | $18 | $33–43 + hops |
 | Home (DPS→GRU→BSB) | Dec 2 | 0 | — | — | — | — |
 
@@ -399,8 +398,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 27 · Nov 25 | Phú Quốc — **9Station Hostel & Bar RESERVED** + **Da Lat→PQC flights BOUGHT** | Phú Quốc (Duong Dong/Long Beach) |
 | Day 28 · Nov 26 | Phú Quốc — **9Station Hostel & Bar RESERVED** | Phú Quốc (Duong Dong/Long Beach) |
 | Day 29 · Nov 27 | Phú Quốc — **9Station Hostel & Bar RESERVED** | Phú Quốc (Duong Dong/Long Beach) |
-| Day 30 · Nov 28 | Onederz Phnom Penh (~$10–15) | Phnom Penh |
-| Day 31 · Nov 29 | Onederz Phnom Penh (~$10–15) | Phnom Penh |
+| Day 30 · Nov 28 | Phnom Penh — **Mettavary Hotel RESERVED** | Phnom Penh |
+| Day 31 · Nov 29 | Phnom Penh — **Mettavary Hotel RESERVED** | Phnom Penh |
 | Day 32 · Nov 30 | SGN airport pod (~$15–25, optional) **or** DPS pod | Saigon / Bali |
 | Day 33 · Dec 1 | Pod near DPS (~$15–25, pick TBD) | Kuta/Seminyak |
 | Day 34 · Dec 2 | — (home) | Home |
@@ -442,7 +441,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 27 · Nov 25 | Flights Da Lat→SGN→Phú Quốc (07:55→13:35) — **BOUGHT** · Grand World night show / Duong Dong night market | Phú Quốc |
 | Day 28 · Nov 26 | Vinpearl Safari · Grand World + K-town / Teddy Bear lights ✅ | Phú Quốc |
 | Day 29 · Nov 27 | Phú Quốc buffer — beach · second United Center loop · night squid fishing (optional) ✅ | Phú Quốc |
-| Day 30 · Nov 28 | Ferry Phú Quốc→Hà Tiên (~08:00) · bus → Phnom Penh (Xa Xia–Prek Chak) · riverside evening | Phnom Penh |
+| Day 30 · Nov 28 | **Phú Quốc→Phnom Penh 12Go combined BOUGHT** (09:00→17:00) · riverside evening | Phnom Penh |
 | Day 31 · Nov 29 | Kampong Speu shooting range (rocket launcher) ⚠️ | Kampong Speu → Phnom Penh |
 | Day 32 · Nov 30 | KTI→SGN→DPS return hop (travel day) | Phnom Penh → Bali |
 | Day 33 · Dec 1 | Bali buffer day — beach/Seminyak/Canggu · last shopping · sunset · red-eye prep · Bali Levy #2 | Bali (Denpasar) |
@@ -603,7 +602,7 @@ Quick version:
 - 🚐🏨 **DONE — PPS→El Nido van (12Go, Nov 13 dep 08:00 → arr 13:30) + Devayn's Inn RESERVED** (El Nido, Nov 13–15, Calle Hama 5313).
 - 🏨 **DONE — HCMC: SG Cozy2 Hotel — Pham Ngu Lao St** (241/12 Pham Ngu Lao, D1) RESERVED (Nov 16–19).
 - 🚌 **DONE — HCMC→Mui Ne bus BOUGHT** (Nov 20, dep 06:00 → arr 09:30) · **Mui Ne→Da Lat bus BOUGHT** (Nov 22, dep 07:50 → arr 11:30) · **Da Lat→Phú Quốc flights BOUGHT** (Nov 25, dep 07:55 → arr PQC 13:35).
-- 📄 **Mid-Sep (flight constraint order, remaining):** BSB↔GRU feeders · **Phú Quốc→Phnom Penh ferry+bus (Nov 28 — combo on 12Go/redBus, or Superdong ferry + Thai Duong bus)** · **KTI→SGN→DPS (Nov 30/Dec 1)**.
+- 📄 **Mid-Sep (flight constraint order, remaining):** BSB↔GRU feeders · **KTI→SGN→DPS (Nov 30/Dec 1)**.
 - 📄 **Early Oct:** Vietnam e-Visa ($25, evisa.xuatnhapcanh.gov.vn), passport ≥6mo validity.
 - 📄 **Mid-Oct:** Cambodia visa — land entry at **Prek Chak (Nov 28): visa on arrival ~$30 is easiest** (e-Visa port list may not include Prek Chak — verify evisa.gov.kh) · **Indonesia B1 e-VOA** for re-entry (~$32–35, evisa.imigrasi.go.id); book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, $35/₱2,200 — **not booked**: Option A = ₱750 dep via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (**El Nido A/B = booked on arrival, open pick**, Da Lat canyoning, shooting range).
 - 📄 **Late Oct:** Asialink eSIMs, travel insurance, Grab/Klook.
@@ -616,7 +615,7 @@ Quick version:
 
 - **Nov = wet-season tail.** Buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓ — that day doubles as the **Uluwatu** slot). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
 - **Date math depends on flights:** the MNL→PPS same-day connect (Nov 11 — **BOUGHT**, dep DPS 08:35 · arr PPS 16:25), AirSWIFT El Nido→MNL + MNL→SGN (Nov 16 — **BOUGHT**, dep 10:45 · arr SGN 20:45), Phú Quốc→PP ferry+bus (Nov 28, daily), and the KTI→SGN→DPS return hop (Nov 30/Dec 1) all constrain the schedule — book in this order.
-- **PQC→Phnom Penh land route (Nov 28):** ferry Phú Quốc→Hà Tiên + bus through **Xa Xia–Prek Chak** — runs **daily** (the old Tue/Wed/Fri/Sat Air Cambodia constraint is gone); allow ~7–9h incl. border (~25% slower than flying but ~$50–75 pp cheaper). ⚠️ Storms cancel ferries in Nov → fallback: **PQC→SGN→KTI** flight (Vietnam Airlines via HCMC). Budget the unofficial ~$5 border tip.
+- **PQC→Phnom Penh land route (Nov 28):** **BOUGHT as one 12Go combined ticket** — ferry Bai Vong→Hà Tiên + van through **Xa Xia–Prek Chak**, dep **09:00** → arr **17:00** (~8h incl. border); the old Tue/Wed/Fri/Sat Air Cambodia constraint is gone. ⚠️ Storms cancel ferries in Nov → fallback: **PQC→SGN→KTI** flight (Vietnam Airlines via HCMC). Budget the unofficial ~$5 border tip.
 - **Indonesia double-entry:** visa-free #1 at CGK (Nov 1) is routine; the 2nd visa-free entry at DPS (Nov 30/Dec 1) is **officer discretion** — mitigate with a pre-bought **B1 e-VOA (IDR 500k ≈ $32–35)**. Bali Levy (IDR 150k) applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
 - **Bali arrival via domestic CGK→DPS (Nov 2):** immigration is at CGK; the DPS domestic arrival is fast — but Bali Levy collection still happens on Bali entry. Confirm the levy QR flow for domestic arrivals before flying.
 - **Greenline Luge (Cao Nguyên Hoa):** ~70 kg rider limit — heavier travelers walk/push or do the Alpine Coaster instead. Entry + luge combo ≈ $10 pp.
