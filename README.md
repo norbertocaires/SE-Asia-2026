@@ -104,7 +104,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - **Firefly tour at Taro Village** — organic farm + Balinese cooking class + firefly walk through rice paddies; ~$15–21 pp incl. dinner; ~4–5h; book via GetYourGuide
 
 ### Day 6 · Wed Nov 4 · Ubud day tour (shared pickup — optional)
-- **Tegalalang Rice Terrace** ⚠️ (lush in wet season, muddy) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation (Satria Agrowisata) · waterfall — **Kanto Lampo** ⚠️ (flat path in, tall twin falls, shallow waist-deep pool, closer to Ubud, fewer crowds) · alt waterfall: **Tegenungan** ⚠️ (classic, on the shared-tour route) · **Goa Gajah "Elephant Cave"** ✅ (ancient rock-cut sanctuary, ~$1–2, quick 15-min stop on the way back).
+- **Jatiluwih Rice Terraces** ✅ (UNESCO-listed, wider/quieter than Tegalalang — fewer crowds, denser green in wet season; ~1h15–1h30 SW of Ubud) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation — **Bali Pulina** ✅ (jungle-view terrace, authentic luwak/civet + Arabica tasting — swap in for Satria Agrowisata) · waterfall — **Kanto Lampo** ⚠️ (flat path in, tall twin falls, shallow waist-deep pool, closer to Ubud, fewer crowds) · alt waterfall: **Tegenungan** ⚠️ (classic, on the shared-tour route) · **Goa Gajah "Elephant Cave"** ✅ (ancient rock-cut sanctuary, ~$1–2, quick 15-min stop on the way back).
 - Full-day shared tour ~$15–30 pp w/ hotel pickup; or private car ~$30–35/car (cheaper for 3).
 - 🎢 **Adventure options** (and the last-6 list, worked through — pick **one**, swaps the afternoon block):
   - **UTV Waterfall Adventure** — off-road through rice fields, jungle, mud, + waterfall & cave on the track. ~25 min from Ubud (Pertiwi/Bongkasa), **~2–2.5h incl. transfer, ~$50–85 pp**; Nov = muddy = fun; best fit = a ~2 PM slot after the morning tour run.
@@ -128,6 +128,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 8 · Fri Nov 6 · ULUWATU day trip (primary) — or Penida rebook / Ubud reset
 - **Primary (if Penida ran):** **Uluwatu day trip** — the one "Bali don't miss" still missing (cliff temple · sunsets). Private car Ubud → Uluwatu (~1.5–2h): cliff-top **Uluwatu Temple** ✅ · optional Padang Padang beach stop ✅ · **Kecak fire-dance sunset** ✅ (nightly ~6 PM, ~$12) · fish BBQ at Jimbaran Bay optional (~$15–25) → back Ubud ~22:00. ≈ **$35–45 pp** (car ~$30–35/3 + entry ~$8 + Kecak ~$12).
+- 🪂 **Adventure option (fits the loop): Pandawa Beach tandem paragliding** — soar off the Bukit cliffs (Timbis/Gunung Payung launch, above Pandawa & Indian Ocean; lands on the sand). ~10–15 min flight, no experience needed, GoPro/photo + insurance incl. ≈ **$58–72 pp** (15-min, IDR 900k–1.1M). ⚠️ **Season caveat:** Pandawa/Timbis are south-facing — best on the dry-season south trades (Apr–Oct); by early Nov the wind is shifting to Uluwatu's west-facing cliffs. Operators fly ~12:00–17:00 daily on pilot's call — WhatsApp-check a day ahead (e.g. Timbis Paragliding) and slot it **before** the Uluwatu temple + Kecak on the same car; if winds are off, skip (no deposit before same-day confirmation).
 - 🏜️ **Clifftop sunset-dinner options** (swap for the Jimbaran BBQ — all near the temple area):
   - **Rockfish The Uluwatu** 🥇 — the clifftop splurge that fits the budget: cave-perched fine dining, glass balcony ~100 m over the ocean, DJ sunset till late; ~IDR 250k (~$16) + cocktails; **reserve for a sunset table**. Upside over Jimbaran: cliff view; downside: no beach/sand.
   - **The Warung at Alila Villas Uluwatu** 🟡 — Indonesian fine dining on the Alila cliffs, a la carte ~IDR 250–400k (~$16–28); only if you want a dressier, resort-plated experience.
@@ -161,7 +162,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ### 📷 Photos — Indonesia
 - **Monkey Forest macaques** — [photo](https://live.staticflickr.com/3833/9692063092_6d0fceb484_b.jpg)
 - **Campuhan Ridge Walk** — [photo](https://live.staticflickr.com/3887/15103667262_eb062d3d8c_b.jpg)
-- **Tegalalang rice terraces** — [photo](https://live.staticflickr.com/3906/33009111761_05a2dc444d_b.jpg)
+- **Jatiluwih rice terraces** — [photo](https://upload.wikimedia.org/wikipedia/commons/8/88/Jatiluwih_rice_terraces.jpg)
 - **Tirta Empul** — [photo](https://live.staticflickr.com/7171/13350581183_9ac8e3a9ee_b.jpg)
 - **Ubud Palace Legong dance** — [photo](https://upload.wikimedia.org/wikipedia/commons/8/86/Legong_Dance%2C_Ubud%2C_Bali_02.JPG)
 - **Nusa Penida: Kelingking** — [photo](https://live.staticflickr.com/4559/38501236136_d2aea1e3b1_b.jpg) · **Broken Beach** — [photo](https://live.staticflickr.com/4538/38501234506_260b804090_b.jpg) · **Angel's Billabong** — [photo](https://live.staticflickr.com/4583/37669661235_9b53dcd3be_b.jpg)
@@ -459,9 +460,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 3 · Nov 1 | Kota Tua (Fatahillah Square) · Café Batavia · Glodok Chinatown food crawl · ⚠️ Monas closed at dusk — skip | Jakarta |
 | Day 4 · Nov 2 | Arrive Bali → transfer to Ubud (Bali Levy + arrival card) | Bali → Ubud |
 | Day 5 · Nov 3 | **Sangeh Monkey Forest** (quiet) · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
-| Day 6 · Nov 4 | Tegalalang Rice Terrace · Tirta Empul water temple · coffee plantation (Satria Agrowisata) · **Kanto Lampo waterfall** (alt: Tegenungan) · Goa Gajah Elephant Cave | Ubud |
+| Day 6 · Nov 4 | Jatiluwih Rice Terraces (UNESCO) · Tirta Empul water temple · **Bali Pulina** coffee plantation · **Kanto Lampo waterfall** (alt: Tegenungan) · Goa Gajah Elephant Cave | Ubud |
 | Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong · **Diamond Beach · Rumah Pohon Treehouse · Thousand Island Viewpoint** · **optional bungee jump (Extreme Park Bali)** ⚠️ | Nusa Penida |
-| Day 8 · Nov 6 | **Uluwatu cliff temple + Kecak sunset** (primary) · Penida rebook if cancelled · fallback: cooking class / spa / Blanco Museum | Ubud → Uluwatu |
+| Day 8 · Nov 6 | **Uluwatu cliff temple + Kecak sunset** (primary) · **Pandawa Beach paragliding** ⚠️ (south-facing, dry-season site — by Nov the wind shifts to Uluwatu's west cliffs; verify ops on the day) · Penida rebook if cancelled · fallback: cooking class / spa / Blanco Museum | Ubud → Uluwatu |
 | Day 9 · Nov 7 | Lintas Nusa road + ferry Bali → Banyuwangi (~5–9h) | Bali → Banyuwangi |
 | Day 10 · Nov 8 | Rest + confirm Ijen "open trip" · optional hot springs · early sleep | Banyuwangi |
 | Day 11 · Nov 9 | Ijen blue fire trek + sunrise over crater lake ⚠️ | Ijen (Banyuwangi) |
