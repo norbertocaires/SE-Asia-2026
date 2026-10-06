@@ -295,7 +295,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 32 · Mon Nov 30 · Phnom Penh → Bali (DPS)
 - ✈️ **BOUGHT — Phnom Penh → DPS**, dep **07:35** → arr **16:40** (same-day, one itinerary via a hub connection; block ~9h).
-- Early-ish start from Mettavary (Tonle Bassac) — pre-book a Grab to KTI (~30+ min south) the night before. ⚠️ Arrival = **Indonesia entry #2** (pre-bought B1 e-VOA insurance) + arrival card #2 + Bali Levy #2 paid before arrival.
+- Early-ish start from Mettavary (Tonle Bassac) — pre-book a Grab to KTI (~30+ min south) the night before. ⚠️ Arrival = **Indonesia entry #2** (visa-free, 30d — Brazil is on the list, no visa needed) + arrival card #2 + Bali Levy #2 paid before arrival.
 - Land **DPS 16:40** — evening: settle at **Stark Boutique Hotel and Spa** (Jl Kartika Plaza No. 20, Kuta) — **RESERVED** (Nov 30 → Dec 1, 1 night) · same Kartika Plaza strip as Adhi Jaya, ~4 min from DPS.
 - ⚠️ The **dawn-raid vs SGN-sleep** fork is now **moot** — this same-day ticket needs no extra SGN night. Delay chain: landing 16:40 (Nov 30) leaves all of Dec 1 free until the **DPS 20:15 departure** (be at DPS by ~18:15) — still a full buffer day.
 
@@ -303,7 +303,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - Relaxed day near DPS: beach/Seminyak/Canggu walk · last shopping · earlier sunset (before leaving for the airport).
 - ✈️ **Return leg starts TONIGHT — DPS dep 20:15** (ticketed) → **CGK arr 21:15** · be at DPS by ~**18:15** (pre-book the Grab).
 - 🛏️ **No DPS pod tonight** — the flight takes you out (pod used **Nov 30 only**).
-- ⚠️ **Indonesia exit #2 tonight at DPS** (visa-free 30d / B1 e-VOA; entry was completed Nov 30 — nothing else to redo).
+- ⚠️ **Indonesia exit #2 tonight at DPS** (visa-free 30d — Brazil is on the list, no visa needed; entry was completed Nov 30 — nothing else to redo).
 
 ### Day 34 · Wed Dec 2 · CGK → DXB → GRU → Home
 - **CGK 00:15 (Dec 2) → DXB 05:30** · **DXB 09:05 → GRU 17:35** (ticketed).
@@ -335,7 +335,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | PP (KTI)→DPS | Flight | **BOUGHT** (Nov 30, dep 07:35 → arr 16:40) | **paid** | Same-day one-ticket itinerary (hub connection); no extra SGN night — see routing flag (4) |
 | **DPS→GRU** | Long haul | **BOUGHT** — DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 · DXB 09:05 → GRU 17:35 Dec 2 | **paid** | 3 legs via CGK + DXB; Indonesia exit at DPS Dec 1; → BSB feeder, home late Dec 2 |
 
-**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→HCMC **BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, Lio→MNL + MNL→SGN **self-connect** — no through-bags, keep MNL gap ≥4h). (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT (Nov 30, dep 07:35 → arr 16:40)** — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — second visa-free entry is officer discretion → **insurance = pre-bought B1 e-VOA**; Bali Levy + arrival card ×2.
+**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→HCMC **BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, Lio→MNL + MNL→SGN **self-connect** — no through-bags, keep MNL gap ≥4h). (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT (Nov 30, dep 07:35 → arr 16:40)** — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — both **visa-free for Brazilians** (30-day tourism entry, no visa/e-VOA needed; worst case at DPS = VoA on arrival ~$35); Bali Levy + arrival card ×2.
 
 ---
 
@@ -374,7 +374,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Accommodation (31 nights, pods/private) | $330–1,330 |
 | Tours & activities | $450–850 (incl. optional range ammo ~$200–600) |
 | Food (~$30–50/day, 33 days) | $990–1,650 |
-| Visas/forms (Vietnam $25 · Cambodia $36 · e-VOA $35 · Bali Levy ~$20) | ~$116 |
+| Visas/forms (Vietnam e-Visa $25 · Cambodia VOA ~$30 · PH & ID visa-free for BR · Bali Levy ~$10×2) | ~$75+ |
 | **Total** | **$5,100–7,600** |
 
 ---
@@ -639,7 +639,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 Full details + vaccines/forms in **[SE Asia 2026 - Scratchpad.md](./SE%20Asia%202026%20-%20Scratchpad.md)**.
 
 Quick version:
-- 💉 **Now (Aug–Sep):** Yellow Fever (free at UBS/SUS — **required** for ID/PH/KH from Brazil), JE (2 doses 28d apart), rabies pre-exposure, Hep A/Typhoid/boosters. Malaria meds for Palawan.
+- 💉 **DONE — vaccines ✅** (Yellow Fever, JE, rabies, Hep A/Typhoid — per scratchpad plan).
+- 💊 **Now (isn't a vaccine!):** malaria meds for Palawan (start before the trip per prescription).
 - ✈️ **DONE — long-haul:** GRU⇄DPS RT BOUGHT (Oct 31 → Nov 2 / Dec 2), Jakarta stopover included.
 - ✈️ **DONE — DPS→MNL→PPS BOUGHT** (Nov 11, 5J280 dep DPS 08:35 → MNL connect → arr PPS 16:25, one PNR).
 - ✈️ **DONE — EL NIDO→HCMC BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, same-day via MNL).
@@ -647,8 +648,8 @@ Quick version:
 - 🏨 **DONE — HCMC: SG Cozy2 Hotel — Pham Ngu Lao St** (241/12 Pham Ngu Lao, D1) RESERVED (Nov 16–19).
 - 🚌 **DONE — HCMC→Mui Ne bus BOUGHT** (Nov 20, dep 06:00 → arr 09:30) · **Mui Ne→Da Lat bus BOUGHT** (Nov 22, dep 07:50 → arr 11:30) · **Da Lat→Phú Quốc flights BOUGHT** (Nov 25, dep 07:55 → arr PQC 13:35).
 - 📄 **Mid-Sep (flights):** **all flights bought ✅** (tail: BSB↔GRU feeders Oct 30 / Dec 2 — each person on a different flight). Remaining are tours + forms.
-- 📄 **Early Oct:** Vietnam e-Visa ($25, evisa.xuatnhapcanh.gov.vn), passport ≥6mo validity.
-- 📄 **Mid-Oct:** Cambodia visa — land entry at **Prek Chak (Nov 28): visa on arrival ~$30 is easiest** (e-Visa port list may not include Prek Chak — verify evisa.gov.kh) · **Indonesia B1 e-VOA** for re-entry (~$32–35, evisa.imigrasi.go.id); book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, $35/₱2,200 — **not booked**: Option A = ₱750 dep via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (**El Nido A/B = booked on arrival, open pick**, Da Lat canyoning, shooting range).
+- 📄 **Early Oct:** Vietnam e-Visa ($25 single, evisa.xuatnhapcanh.gov.vn) — **Brazilians not exempt, e-Visa required** (single entry is enough; SGN is a valid e-Visa port, no Phú Quốc direct-entry needed). **Indonesia: no visa — Brazil is visa-free (30-day tourism entry) for both CGK Nov 1 + DPS Nov 30.** **Philippines: no visa — Brazil visa-free 59 days** (longer than the standard 30, bilateral deal; need 6-mo passport + return ticket + eTravel). **UAE/DXB (Dec 2 overnight transit): no visa — stay **airside** (in-transit) at Dubai, don't clear immigration; a transit visa is only for leaving the airport.**
+- 📄 **Mid-Oct:** Cambodia visa — land entry at **Prek Chak (Nov 28): visa on arrival ~$30** (Brazilians are VOA-eligible; e-Visa $30/3 days also OK but VOA at the land gate is the easy route). Confirm Prek Chak issues tourist VOA; book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, $35/₱2,200 — **not booked**: Option A = ₱750 dep via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (**El Nido A/B = booked on arrival, open pick**, Da Lat canyoning, shooting range).
 - 📄 **Late Oct:** Asialink eSIMs, travel insurance, Grab/Klook.
 - 📄 **≤72h before:** Philippines eTravel + Vietnam Pre-Arrival Declaration.
 - 📄 **≤3 days before:** Indonesia arrival card (**×2** — Nov 1 CGK + Nov 30 DPS) + Bali Levy (IDR 150k ≈ $10, **×2** — pay before each Bali arrival).
@@ -657,10 +658,11 @@ Quick version:
 
 # Risks & Notes
 
+- **Visas for Brazilians (verified):** **Philippines** — visa-free **59 days** (longer than the standard 30; bilateral deal), need 6-mo passport + return/onward ticket + eTravel. **Vietnam — NOT exempt → e-Visa REQUIRED** ($25 single, evisa.xuatnhapcanh.gov.vn; SGN is a valid e-Visa port; single entry is enough since you're only entering once). **Cambodia** — visa on arrival ~$30 at Prek Chak (Brazilians VOA-eligible). **Indonesia** — visa-free 30 days both entries. **UAE/DXB transit (Dec 2)** — no visa needed as long as you **stay airside** at Dubai and don't clear immigration; a transit visa is only required if you leave the airport (you won't on the ~3.5h overnight layover).
 - **Nov = wet-season tail.** Buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓ — that day doubles as the **Uluwatu** slot). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
 - **Date math depends on flights:** the MNL→PPS same-day connect (Nov 11 — **BOUGHT**, dep DPS 08:35 · arr PPS 16:25), AirSWIFT El Nido→MNL + MNL→SGN (Nov 16 — **BOUGHT**, dep 10:45 · arr SGN 20:45), Phú Quốc→PP ferry+bus (Nov 28, daily), the **PP→DPS return hop (Nov 30 — BOUGHT, dep 07:35 · arr 16:40)**, and the **BSB↔GRU feeders (Oct 30 / Dec 2 — BOUGHT, each person separately)** — all flights are now locked.
 - **PQC→Phnom Penh land route (Nov 28):** **BOUGHT as one 12Go combined ticket** — ferry Bai Vong→Hà Tiên + van through **Xa Xia–Prek Chak**, dep **09:00** → arr **17:00** (~8h incl. border); the old Tue/Wed/Fri/Sat Air Cambodia constraint is gone. ⚠️ Storms cancel ferries in Nov → fallback: **PQC→SGN→KTI** flight (Vietnam Airlines via HCMC). Budget the unofficial ~$5 border tip.
-- **Indonesia double-entry:** visa-free #1 at CGK (Nov 1) is routine; the 2nd visa-free entry at DPS (Nov 30) is **officer discretion** — mitigate with a pre-bought **B1 e-VOA (IDR 500k ≈ $32–35)**. Bali Levy (IDR 150k) applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
+- **Indonesia double-entry:** Brazil is on the **visa-free list** — both entries (CGK Nov 1 + DPS Nov 30) arrive visa-free, **no visa/e-VOA needed** (30-day tourism entry; confirmed). The 2nd visa-free entry at DPS is airport-officer discretion in practice → keep the printed boarding pass + return ticket handy (worst case = buy a VoA on arrival, ~$35). Bali Levy (IDR 150k) still applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
 - **Bali arrival via domestic CGK→DPS (Nov 2):** immigration is at CGK; the DPS domestic arrival is fast — but Bali Levy collection still happens on Bali entry. Confirm the levy QR flow for domestic arrivals before flying.
 - **Greenline Luge (Cao Nguyên Hoa):** ~70 kg rider limit — heavier travelers walk/push or do the Alpine Coaster instead. Entry + luge combo ≈ $10 pp.
 - **Da Lat Oddities Day (Nov 24):** all stops are land-based ✅ — only the elevated/official rides pause in heavy rain; swap freely between the Tà Nung loop, Dalat Wonderland, and the glass bridge. Ostrich riding at Prenn runs rain-or-shine but may pause in a downpour.
