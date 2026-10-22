@@ -1,8 +1,8 @@
 # SE Asia 2026 — Trip Plan
 
 > 3 Brazilians · Oct 30 – Dec 2, 2026 · Home base Brasília (BSB)
-> Budget target: ~$100/day pp (~$3,600 for 34 days) + flights. Realistic total ≈ $5,100–7,600 pp (flights dominate).
-> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21) · Mui Ne→Da Lat bus BOUGHT (Nov 22) · Dalat Peace Backpackers Hostel RESERVED (Nov 22–24) · Da Lat→Phú Quốc flights BOUGHT (Nov 25, dep 07:55 → arr 13:35) · 9Station Hostel & Bar Phú Quốc RESERVED (Nov 25–27) · PQC→Phnom Penh 12Go combined BOUGHT (Nov 28, dep 09:00 → arr 17:00) · Mettavary Hotel Phnom Penh RESERVED (Nov 28–29) · Phnom Penh→DPS BOUGHT (Nov 30, dep 07:35 → arr 16:40) · Stark Boutique Hotel & Spa Kuta RESERVED (Nov 30 → Dec 1) · BSB↔GRU feeders BOUGHT (Oct 30 / Dec 2, each person a different flight) · return ticket corrected: DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 → GRU 17:35 · **Bali→Banyuwangi shared shuttle BOUGHT (Nov 7, 10:00 pickup at Diara's Cottage — Rp 220k/pax, ~$12.10 pp)**.** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
+> Budget target: ~$100/day pp (~$3,400 for 34 days) + flights. Realistic total ≈ $5,100–7,600 pp (flights dominate). ⚠️ Envelope only — displayed lines are not yet reconciled to actual paid amounts.
+> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21) · Mui Ne→Da Lat bus BOUGHT (Nov 22) · Dalat Peace Backpackers Hostel RESERVED (Nov 22–24) · Da Lat→Phú Quốc flights BOUGHT (Nov 25, dep 07:55 → arr 13:35) · 9Station Hostel & Bar Phú Quốc RESERVED (Nov 25–27) · PQC→Phnom Penh 12Go combined BOUGHT (Nov 28, dep 09:00 → arr 17:00) · Mettavary Hotel Phnom Penh RESERVED (Nov 28–29) · Phnom Penh→DPS BOUGHT (Nov 30, dep 07:35 → arr 16:40) · Stark Boutique Hotel & Spa Kuta RESERVED (Nov 30 → Dec 1) · BSB↔GRU feeders BOUGHT (Oct 30 / Dec 2, each person a different flight) · return ticket corrected: DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 → GRU 17:35.** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Field | Value |
 |-------|-------|
-| Dates | Oct 30 (depart BSB) → home Dec 2, 2026 (34 days / ~31 hotel nights + 3 flight nights) |
+| Dates | Oct 30 (depart BSB) → home Dec 2, 2026 (34 calendar days / 33 overnights = 30 hotel nights + 3 in-flight/airport nights) |
 | Travelers | 3 adults, Brazilian passports |
 | Route | BSB → Jakarta (CGK stopover) → Bali → Ijen (Java) → Palawan → HCMC → Mui Ne → Da Lat → Phú Quốc → Phnom Penh (KTI) → back to Bali (Denpasar) → BSB |
 | Budget | ~$100/day pp + flights |
@@ -49,7 +49,7 @@
 | 23 | El Nido tours | **Book on arrival — intentionally left open** · A/B are the baseline guide only; pick (or swap) at Devayn's Inn / pier tour desks the evening of Nov 13 · cheaper in person (~₱700 less than GYG) · be aware of the no-buffer trade-off |
 | 24 | Nov 20 transport | **HCMC → Mui Ne bus BOUGHT** — dep **06:00** → arr **09:30** (~3.5h express, via Phan Thiết) |
 | 25 | Mui Ne lodging | **Minhon Hotel Mui Ne — RESERVED** · 210/5 Nguyễn Đình Chiểu, KP2, Hàm Tiên, Mui Ne (Nov 20–21, 2 nights) · Central Hàm Tiến mid-strip — walkable food/Bo Ke + near the bus offices (Futa 97 · Sinh Tourist 144 · Hanh Cafe 246) |
-| 26 | Nov 22 transport | **Mui Ne → Da Lat bus BOUGHT** — dep **07:50** → arr **11:30** (~2.5–3h through the mountain pass) |
+| 26 | Nov 22 transport | **Mui Ne → Da Lat bus BOUGHT** — dep **07:50** → arr **11:30** (~3h40 elapsed, incl. the mountain pass) |
 | 27 | Da Lat lodging | **Dalat Peace Backpackers Hostel — RESERVED** · 37/10/17 Hoàng Diệu, Phường Cam Ly, Da Lat (Nov 22–24, 3 nights) · Cam Ly side — a bit off the night-market core but Grab-cheap; fine for the DLI morning run |
 | 28 | Nov 25 flights | **Da Lat → Phú Quốc BOUGHT** (via SGN) — dep **07:55** → arr PQC **13:35** · the thin-DLI threat is now locked |
 | 29 | Phú Quốc lodging | **9Station Hostel & Bar Phu Quoc — RESERVED** · 91/3 Trần Hưng Đạo, Duong To (Long Beach), Phú Quốc (Nov 25–27, 3 nights) · on the northern Long Beach strip — walkable to Duong Dong, near the VinBus/United Center free shuttle & the Nov 28 ferry port |
@@ -58,8 +58,6 @@
 | 32 | Return hop | **Phnom Penh → DPS BOUGHT** (Nov 30, dep **07:35** → arr **16:40** same-day, one itinerary) — the dawn-raid vs SGN-sleep fork is **dead**: no extra SGN night needed. Return long-haul corrected: **DPS leaves 20:15 Dec 1** (not 00:15 Dec 2) → **DPS pod = single night, Nov 30 only** |
 | 33 | Kuta lodging (Nov 30) | **Stark Boutique Hotel and Spa — RESERVED** · Jl Kartika Plaza No. 20, 80362 Kuta (Nov 30 → Dec 1, 1 night) · same Kartika Plaza strip as Adhi Jaya, ~4 min from DPS — handy for the 20:15 exit on Dec 1 |
 | 34 | Brazil feeders | **BSB↔GRU feeders BOUGHT** (Oct 30 out / Dec 2 back) — **each of the 3 people flies a different flight** (separate bookings, not shared) |
-| 35 | Bali → Banyuwangi transfer | **Shared shuttle BOUGHT** — Sat **Nov 7, 10:00 pickup at Diara's Cottage** (No 1 Jl Subak Sok Wayah, Ubud) · **Rp 220,000/pax × 3 = Rp 660,000 (~$12.10 pp / ~$36 total)** · road+ferry via Gilimanuk–Ketapang, **ferry included** · est. arrival Banyuwangi ~15:00–16:00 WIB · ✅ **drop-off = our Banyuwangi accommodation (HHHH Hostel, Jl. Trunojoyo 51)** · ↩️ **the Nov 10 return will be booked on the spot in Banyuwangi with the same operator (11:00 service) — not yet booked** |
-| 36 | Jakarta stopover lodging | **ODST Jakarta Transit Hotel — RESERVED** (Nov 1, 1 night) · CBC Tower G, Jl. Cengkareng Business City, RT.006/RW.007, Kec. Benda, Kota Tangerang, Banten (Rawalembang, 15125/15126) · **airport-side transit hotel ~3 km / 15–20 min from CGK** → the 07:05 CGK→DPS on Nov 2 is safe · 24h front desk · restaurant · free WiFi · est. ~$30–45 pp (room, not a pod) · Grab in/out |
 
 ---
 
@@ -79,10 +77,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ### Day 3 · Sun Nov 1 · Jakarta stopover (~15h) — Kota Tua + street food (evening window)
 - Arrive CGK 15:40 → out by ~17:00 (⚠️ immigration happens HERE — Indonesia entry #1 at CGK, visa-free 30d). Grab/taxi to **Kota Tua** (~45 min + traffic).
 - **Kota Tua (Fatahillah Square)** — colonial Old Town after dark · **Café Batavia** balcony · **Glodok (Chinatown)** food crawl: nasi goreng, sate, bubur ayam (dinner ~$2–5).
-- ⚠️ **Monas** (guide's "don't miss") — tower + grounds close at dusk and you fly out 07:05 → **not feasible**; Kota Tua + food spots are the realistic match. Back to the hotel ~23:00–23:30.
-- 🛏️ **ODST Jakarta Transit Hotel — RESERVED** (Nov 1, 1 night) · CBC Tower G, Jl. Cengkareng Business City, RT.006/RW.007, Kec. Benda, Kota Tangerang, Banten 15125/15126 (Rawalembang) · **airport-side transit hotel, ~3 km / 15–20 min from CGK** → the 07:05 DPS flight is a non-issue. 24h front desk · restaurant/cafe (breakfast $ extra) · free WiFi · check-in 12:00–00:00 · check-out 14:00 · 36 rooms · luggage storage.
-  - 💡 **Room, not a pod** — this replaces the ~$10–20 day-room plan; est. **~$30–45 pp** (room, 3 people).
-  - Grab/taxi: CGK arrivals (T3) → hotel ~15–25 min (traffic); hotel → Kota Tua ~25–40 min; hotel → CGK for the 07:05 flight: leave **~05:00–05:10**.
+- ⚠️ **Monas** (guide's "don't miss") — tower + grounds close at dusk and you fly out 07:05 → **not feasible**; Kota Tua + food spots are the realistic match. Back near CGK ~23:00.
+- 🛏️ Cheap pod/day-room near CGK (~$10–20) — the window is mostly overnight.
 
 ### Day 4 · Mon Nov 2 · Arrive Bali → Ubud
 - **CGK→DPS 07:05 → arrive DPS 10:30** (morning, not evening — v3 assumed evening). Bali Levy QR + **arrival card** ready (entry #1).
@@ -108,6 +104,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - **Firefly tour at Taro Village** — organic farm + Balinese cooking class + firefly walk through rice paddies; ~$15–21 pp incl. dinner; ~4–5h; book via GetYourGuide
 
 ### Day 6 · Wed Nov 4 · Ubud day tour (shared pickup — optional)
+- **Pick ~3–4 stops below — the rest are alternatives, not a checklist** (Jatiluwih and the loop are far apart; a full-day shared tour covers a subset).
 - **Jatiluwih Rice Terraces** ✅ (UNESCO-listed, wider/quieter than Tegalalang — fewer crowds, denser green in wet season; ~1h15–1h30 SW of Ubud) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation — **Bali Pulina** ✅ (jungle-view terrace, authentic luwak/civet + Arabica tasting — swap in for Satria Agrowisata) · waterfall — **Kanto Lampo** ⚠️ (flat path in, tall twin falls, shallow waist-deep pool, closer to Ubud, fewer crowds) · alt waterfall: **Tegenungan** ⚠️ (classic, on the shared-tour route) · **Goa Gajah "Elephant Cave"** ✅ (ancient rock-cut sanctuary, ~$1–2, quick 15-min stop on the way back).
 - Full-day shared tour ~$15–30 pp w/ hotel pickup; or private car ~$30–35/car (cheaper for 3).
 - 🎢 **Adventure options** (and the last-6 list, worked through — pick **one**, swaps the afternoon block):
@@ -124,7 +121,11 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 7 · Thu Nov 5 · Nusa Penida day trip ⚠️ (TOP rain/sea risk in Bali)
 - Early fast boat **Sanur → Nusa Penida** (swell can cancel Nov–Mar — today is the fixed slot, tomorrow is the buffer).
-- **Kelingking Beach** viewpoint ⚠️ · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️ · **Diamond Beach** ⚠️ (arguably the loop's best view — crystal-clear cove under limestone cliffs, cliffside stairs down) · quick ridge stops: **Rumah Pohon Treehouse** ⚠️ (~10 min photo stop) · **Thousand Island Viewpoint** ⚠️ (~10 min panoramic spot). *(Skip: Atuh Beach — steep path + rough Nov surf, Diamond's cliff view covers it · Manta Point — wet-season swell + low manta odds · Tembeling/Teletubbies/Goa Giri Putri — time-eaters.)*
+- ⚠️ **Pick ONE coast, or book a confirmed mixed route with a fixed return boat** — the island is bigger than it looks and trying to do both coasts in one day is the classic mistake (you run out of time or miss the last boat). Decide with your driver at the port:
+  - **West coast loop (most popular):** **Kelingking Beach** ⚠️ (the icon) · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️ · quick ridge stops **Rumah Pohon Treehouse** ⚠️ (~10 min) · **Thousand Island Viewpoint** ⚠️ (~10 min).
+  - **East coast loop (quieter):** **Diamond Beach** ⚠️ (arguably the best view — crystal-clear cove under limestone cliffs, cliffside stairs down) · Atuh Beach.
+  - *Mixed route:* only if the operator commits in writing to a **fixed return-boat time** — otherwise drop one coast.
+  - *(Skip: Manta Point — wet-season swell + low manta odds · Tembeling/Teletubbies/Goa Giri Putri — time-eaters.)*
 - Optional ⚠️🔥 **bungee jump at Extreme Park Bali** (~10 min from Kelingking, 130 m cliff over the ocean) — jump-only ≈ **$150–300 pp** w/ video (~IDR 3.1M+), or add to the tour package; a few operators list it **temporarily closed for permit renewal** — verify availability when booking.
 - ~$50–80 pp incl. boat + driver (bungee extra).
 - 🌙 **Night:** Back in Ubud by evening — repeat any of the Day 5 night picks (CP Lounge, Laughing Buddha, night markets, etc.).
@@ -147,7 +148,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - Last Ubud night — any of the Day 5/6 picks you haven't tried yet
 
 ### Day 9 · Sat Nov 7 · Bali → Banyuwangi (Ijen)
-- **Road + ferry — ✅ BOUGHT: shared shuttle, 10:00 pickup at Diara's Cottage** (Rp 220k/pax ≈ $12.10 pp, ferry included; ~4–5h + ferry crossing → Banyuwangi ~15:00–16:00 WIB). ⚠️ Bali is 1h ahead of Banyuwangi (WITA vs WIB). ✅ Drop-off = **our accommodation (HHHH Hostel, Jl. Trunojoyo 51)**. *Backup if it falls through:* Lintas Nusa door-to-door — Rp 210k (~$13), daily 11:00 & 21:00 WITA, **WA 0812-3452-0200** (lintasnusa.id) · or Citilink flight DPS→BWX (~40min, ~$100–130, thin schedule).
+- **Road + ferry** (Denpasar → Gilimanuk ferry → Ketapang): ~5–9h, ~$13–15 pp all-in. **Best pick: Lintas Nusa door-to-door shuttle** — Rp 210k (~$13) all-in incl. ferry + meal, daily 11:00 & 21:00 WITA, **WA 0812-3452-0200** (lintasnusa.id). ⚠️ Bali is 1h ahead of Banyuwangi (WITA vs WIB). Or **Citilink flight DPS→BWX** (~40min, ~$100–130, thin schedule).
 - Arrive **Banyuwangi** evening. 🛏️ **HHHH Hostel** (Jl. Trunojoyo 51) — **RESERVED** · ~500 m from center (6-min walk), right in the standard Ijen open-trip pickup zone · Hostelz 9.54.
 
 ### Day 10 · Sun Nov 8 · Banyuwangi prep day
@@ -160,7 +161,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - Rest all afternoon. 🛏️ Banyuwangi.
 
 ### Day 12 · Tue Nov 10 · Banyuwangi → Bali
-- ↩️ **RETURN TO BE BOOKED ON THE SPOT** — road+ferry (~5–9h). 🎯 **Plan: book it in Banyuwangi with the same operator** (the Nov 7 shuttle's reverse service, **11:00 departure → Denpasar ~15:00–16:00 WITA**, enough sleep before the 05:00 wake-up on Nov 11). Fallback: **Lintas Nusa** reverse route (**WA 0812-3452-0200**, Rp 210k all-in, daily 11:00/21:00; 11:00 → Denpasar ~18–20 WITA). Avoid the 21:00 services (land ~02:00–04:00). Last resort: **BWX→DPS flight** (~40min).
+- ⚠️ **NOT yet booked** — confirm this transfer before the trip. Return via road+ferry — **Lintas Nusa** reverse route Banyuwangi→Bali, **WA 0812-3452-0200** (Rp 210k all-in, daily 11:00/21:00; the **11:00 WIB** departure = **12:00 WITA** and, on the guide's 5–9h range, lands Denpasar **~17:00–21:00 WITA** — not mid-afternoon). **Drop-off near Kuta/Adhi Jaya must be confirmed with the operator.**
+- ⏰ **Tight next morning:** the Nov 11 DPS flight departs **08:35** → aim to be at Adhi Jaya by ~20:00–21:00 latest, wake ~05:00. If the shuttle runs late, the **BWX→DPS evening flight (~40 min, Citilink)** is the fallback; do **not** take the 21:00 road departure.
 - 🛏️ **Adhi Jaya Hotel** (Jl. Kartika Plaza, Kuta 80361) — **RESERVED** · ~2 km / ~4 min from DPS, opposite Discovery Mall · 8.6 (Agoda 4k) · pool; ⚠️ staff push a 200k IDR airport transfer — use Grab (fraction of the price). Ask for a **packed takeaway breakfast** for the early Nov 11 flight.
 
 ### 📷 Photos — Indonesia
@@ -180,11 +182,14 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - Early-evening arrival → free night: **Baywalk sunset (5:15 PM)** · Plaza Cuartel ruins · **Baywalk Night Market** (see Night Activities).
 - 📱 **On arrival: book Underground River for tomorrow with D'Palawan** (WhatsApp 0963 139 0000) or ask the Lokal Hut front desk — both are same-day/1-day friendly in Nov (see Day 14). Pick-up window 07:00–08:00, so only the booking, not a morning rush, matters.
 
-### Day 14 · Thu Nov 12 · Underground River ✅ (rain-proof cave)
-- Full-day shared tour from PPS — **D'Palawan Travel & Tours** (~**$35** pp / ₱2,200): 90-min drive to Sabang, paddleboat through the cave, buffet lunch, return ~16:00–17:00. Runs in rain (only extreme weather closes it).
-- **Booking (not booked yet — two routes, pick when ready):** WhatsApp **0963 139 0000** (Viber/WeChat/SMS) · hotel pick-up 07:00–08:00 (city proper — Lokal Hut ✓) · confirm participation by WhatsApp the day before · ⚠️ contact them **first** to confirm slot + exact PHP amount before any payment.
-  - **Option A — Reserve from Brazil (pay deposit, ₱750/~$12 pp):** PayPal **in PHP only** (intl card fee ~4.4% + ₱15; posting is NOT instant — avoid for last-minute) **or** Wise/Remitly in PHP (cheaper, must be claimed/verified). Send proof-of-payment screenshot (name · amount PHP · date · ref) to WA / DPalawanTravelAndTours@gmail.com. Booking provisional until funds post; **₱1,950 (~$31) balance cash on tour day**.
-  - **Option B — Cash on tour day (off-peak friendly, fee-free):** WhatsApp now just to **hold the slot** (no money moves) → pay full **₱2,200 (~$35) pp in cash at pickup** Nov 12. Risk: sold-out slot in Nov = low.
+### Day 14 · Thu Nov 12 · Underground River ⚠️ (permit-gated; runs in ordinary rain)
+- Full-day shared tour from PPS — **D'Palawan Travel & Tours** (~**$35** pp / ₱2,200): 90-min drive to Sabang, paddleboat through the cave, buffet lunch, return ~16:00–17:00.
+- ⚠️ **Permit system:** the park **caps ~900 visitors/day** and enforces **"no permit, no entry"** — the operator must have your slot confirmed. Runs in normal rain; only extreme weather closes it (don't call it "rain-proof").
+- **Booking (not booked yet — two routes, pick when ready):** WhatsApp **0963 139 0000** (Viber/WeChat/SMS) · hotel pick-up 07:00–08:00 (city proper — Lokal Hut ✓) · confirm participation by WhatsApp the day before.
+  - ⚠️ **Get ONE written all-in quote first.** The listed **₱750 deposit + ₱1,950 balance = ₱2,700**, which does **not** match the stated **₱2,200** total — D'Palawan must reconcile the two in writing (what exactly the ₱2,200 covers vs the ₱2,700) **before any payment**.
+  - **Option A — Reserve from Brazil (pay deposit, ₱750/~$12 pp):** PayPal **in PHP only** (intl card fee ~4.4% + ₱15; posting is NOT instant — avoid for last-minute) **or** Wise/Remitly in PHP (cheaper, must be claimed/verified). Send proof-of-payment screenshot (name · amount PHP · date · ref) to WA / DPalawanTravelAndTours@gmail.com. Booking provisional until funds post.
+  - **Option B — Cash on tour day (off-peak friendly, fee-free):** WhatsApp now just to **hold the slot** (no money moves) → pay the agreed all-in amount in cash at pickup Nov 12. Risk: sold-out slot in Nov = low.
+  - ❓ **Ask the buffet provider name + menu** (the included lunch is operator-set) so it can be screened/replaced if needed.
 - 🛏️ Puerto Princesa.
 
 ### Day 15 · Fri Nov 13 · Puerto Princesa → El Nido
@@ -192,16 +197,19 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ **Devayn's Inn** (Calle Hama, 5313 El Nido) — **RESERVED** (Nov 13–15, 3 nights) · town proper on Calle Hama (beach/night-market strip), ~0.3 km from the tour pier (Tours A/B pickups).
 
 ### Day 16 · Sat Nov 14 · El Nido Tour A ⚠️
-- **Big Lagoon · Secret Lagoon · Shimizu Beach** — shared boat 9:00–16:00 from town pier. ~₱1,200–1,500 + ₱200–400 eco + ₱200 lagoon ≈ **$32–43 pp**. **Cheaper booked in person (~₱700 less than GYG).**
+- **Big Lagoon · Secret Lagoon · Shimizu Beach** — shared boat 9:00–16:00 from town pier. ~₱1,200–1,500 + ₱200–400 eco + ₱200 lagoon ≈ **$32–43 pp**. **Cheaper booked in person (~₱700 less than GYG).** ❓ **Identify the boat-lunch provider + menu when booking** (the included lunch is operator-set, usually grilled fish/rice at one of the beach stops) — flag allergies/diet ahead.
 - 🛏️ El Nido.
 
 ### Day 17 · Sun Nov 15 · El Nido Tour B ⚠️
-- **Snake Island · Cathedral Cave · Pinagbuyutan** — same model. Tours A/B run reliably; Tour C (outer islands) cancels most often — skip.
+- **Snake Island · Cathedral Cave · Pinagbuyutan** — same model. Tours A/B run reliably; Tour C (outer islands) cancels most often — skip. ❓ **Confirm the boat-lunch provider + menu at booking** (operator-set packed lunch).
 - ⚠️ *No buffer day this trip (traded for Vietnam) — if one tour is sea-cancelled, the other day absorbs it and you lose one tour.*
 - 🛏️ El Nido.
 
 ### Day 18 · Mon Nov 16 · El Nido → Ho Chi Minh City
-- ✈️ **BOUGHT — El Nido → Ho Chi Minh City**, same-day via MNL (Lio→MNL → MNL→SGN): dep **10:45** → arr SGN **20:45**. Late-evening arrival = high cancellation-resilience: a big, comfortable MNL self-connect (no through-bags — collect + recheck), and Day 18's evening was already kept free. The last "small airline, verify schedule" risk is now locked.
+- ✈️ **BOUGHT — El Nido → Ho Chi Minh City**, same-day via MNL (Lio→MNL → MNL→SGN): dep **10:45** → arr SGN **20:45**. Late-evening arrival = high cancellation-resilience. ⚠️ **But "bought" ≠ risk-free:**
+  - **~4h MNL connection.** Lio→MNL ~1h20 (arr MNL ~12:05) · MNL→SGN ~3h20 (arr SGN 20:45 → implies MNL dep ~17:25). Confirm the **exact legs + terminals** on the ticket: AirSWIFT (acquired by Cebu Pacific) and the MNL→SGN carrier may use **different NAIA terminals** — allow transfer time between them.
+  - **Two separate tickets = self-connect, NO protection.** Bags are **not through-checked** → collect at MNL + recheck; a delay on leg 1 is **not** the second carrier's problem. Build slack, carry essentials, and keep the **19:10 / 22:10 MNL→SGN** departures as same-day backups.
+  - **Arrival is late:** immigration + bags → hotel ~22:00. **Don't count on a normal restaurant dinner** after check-in — eat at MNL, or plan a late-night option (Phở Lệ D5 open till midnight · Bui Vien strip).
 - ⚠️ Day-before: **verify the ticket's exact legs + the MNL gap (aim ≥4h)**; keep the 19:10/22:10 MNL→SGN flights in mind as the same-day backup.
 - ⚠️ **Fallback (reference only):** van El Nido→PPS (~5–6h) → PPS→MNL (~1h15) → MNL→SGN.
 - 🛏️ HCMC **District 1** — **SG Cozy2 Hotel — Pham Ngu Lao Street** (241/12 Pham Ngu Lao, D1) — **RESERVED** (Nov 16–19, 4 nights) · right on the backpacker strip — D1 tour pickups + Bui Vien nightlife at the door.
@@ -240,13 +248,13 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ **Minhon Hotel Mui Ne** (RESERVED).
 
 ### Day 24 · Sun Nov 22 · Mui Ne → Da Lat + arrival
-- 🚌 **BOUGHT — bus Mui Ne → Da Lat**, dep **07:50** → arr **11:30** (~2.5–3h through the mountain pass). Early-ish start from Minhon (office ~2-min walk on Nguyễn Đình Chiểu); arrive ~lunch → full Day 24 ahead.
+- 🚌 **BOUGHT — bus Mui Ne → Da Lat**, dep **07:50** → arr **11:30** (~3h40 elapsed through the mountain pass). Early-ish start from Minhon (office ~2-min walk on Nguyễn Đình Chiểu); arrive ~lunch → full Day 24 ahead.
 - Afternoon: **Hang Nga "Crazy House"** ✅ (~1.5 km from center, ~₫60–100k ≈ **$3**) — one of the world's 10 strangest buildings; great rain-safe arrival stop. Then **Xuan Huong Lake** ✅ · coffee (Lien Hoa / Tung) ✅ · **Domaine de Marie** ✅. *Optional easy add-on: **Fresh Garden** (90B Vạn Thành flower village, ~8–9 min from center — flower fields + indoor **Fresh Zoo** petting zoo, ~₫100–150k ≈ **$4–6**; open 7:30–17:30).*
 - Evening: **night market + fresh fruit** (strawberry season) ✅.
 - 🛏️ **Dalat Peace Backpackers Hostel** (37/10/17 Hoàng Diệu, Phường Cam Ly) — **RESERVED** (Nov 22–24, 3 nights) · Cam Ly side, a bit off the night-market core but Grab-cheap; fine for the DLI morning run.
 
 ### Day 25 · Mon Nov 23 · Da Lat canyoning ⚠️ (Nov = safe season, still rain-gated)
-- **Full-day canyoning at Datanla canyon** — **Viet Challenge** (5.0★, ~$40–80) or **Phat Tire Ventures** (~$82). Rappel down a 25m waterfall, cliff jumps, water slides; ~6–7h incl. lunch. Operators cancel if upstream rain is heavy.
+- **Full-day canyoning at Datanla canyon** — **Viet Challenge** (5.0★, ~$40–80) or **Phat Tire Ventures** (~$82). Rappel down a 25m waterfall, cliff jumps, water slides; ~6–7h incl. lunch. Operators cancel if upstream rain is heavy. ❓ **Identify the canyoning lunch provider + menu** when booking (included lunch is operator-set).
 - 🎢 **Same-venue option — Datanla Alpine Coaster** (Thác Datanla, ~5–6 km from center): **Asia's longest alpine coaster (2,400 m)** through the pine forest down to the falls — entry ~₫80k ≈ **$3.20** · 2,400 m ride ~₫250k ≈ **$10** · shorter 1,200 m ~₫210k ≈ **$8.50** · zipline (1,500 m) ~₫1M ≈ **$40**. ⚠️ **Coaster stops when it rains** — fit it in before/after canyoning (same site, arrives 7:30 AM) or as the swap if canyoning cancels. Also pairs with the **Greenline Luge** 70 kg-limit fallback (see Risks).
 - 🌙 Night: scooter food tour or bars (see Night Activities).
 - 🛏️ **Dalat Peace Backpackers Hostel** (RESERVED).
@@ -268,19 +276,20 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - Arrive early afternoon → settle at **9Station Hostel & Bar** (91/3 Trần Hưng Đạo, Duong To) — **RESERVED** (Nov 25–27, 3 nights) · northern Long Beach strip, walkable into Duong Dong · evening: **Grand World** free entry + night show (~₫300k ≈ **$12**) in Phu Quoc United Center (free shuttle) **or** Duong Dong night market.
 - 🛏️ **9Station Hostel & Bar** (RESERVED).
 
-### Day 28 · Thu Nov 26 · Vinpearl Safari + Grand World
-- **Vinpearl Safari** ✅ (~₫750–850k ≈ **$30–34**, 9:00–16:00, north-island United Center, free shuttle) — safari + semi-wild animal park.
-- Evening: **Grand World night show** ✅ (~$12) + K-town / Teddy Bear Museum lights.
+### Day 28 · Thu Nov 26 · NORTH island — Vinpearl Safari + Grand World
+- **Vinpearl Safari** ✅ (~₫750–850k ≈ **$30–34**, 9:00–16:00, **north-island United Center, Ganh Dau**) — safari + semi-wild animal park. Keep **Safari + Grand World together on this north day** (~40 min from the hostel; free Vinpearl shuttle).
+- Evening: **Grand World night show** ✅ (~$12) + K-town / Teddy Bear lights — **dinner at Grand World** (northern day, as the food plan assumes).
 - 🛏️ **9Station Hostel & Bar** (RESERVED).
 
-### Day 29 · Fri Nov 27 · Phú Quốc buffer
-- Morning beach ✅ (Long Beach / Dinh Cau) · second **United Center** loop (Sunset Town · free Viet Puppetry show) · optional **night squid fishing** ✅ (~$8–15, 4h, departs ~5 PM).
+### Day 29 · Fri Nov 27 · SOUTH island + Phú Quốc buffer
+- **Sunset Town (An Thoi, south island)** is a **separate excursion** (~30–40 min south of Duong To — do NOT bundle it into a "second United Center loop", which is north) — Kiss Bridge, **free Viet Puppetry show** (6:00–6:30 & 8:15–8:45 PM, except Wed), sunset, Vui Fest night market.
+- Otherwise a buffer day: morning beach ✅ (Long Beach / Dinh Cau) · **hotel-area** food/dinner (Duong Dong) ✅ · optional **night squid fishing** ✅ (~$8–15, 4h, departs ~5 PM from Duong Dong).
 - Absorbs any rain from Day 28. 🛏️ **9Station Hostel & Bar** (RESERVED).
 
 ### Day 30 · Sat Nov 28 · Phú Quốc → Phnom Penh by ferry + bus 🇰🇭
 - 🚢🛻 **COMBINED Phú Quốc → Phnom Penh ticket BOUGHT on 12Go** — dep **09:00** → arr **17:00** (~8h): ferry Bai Vong → Hà Tiên + transfer + van/bus through the **Xa Xia (VN)–Prek Chak (KH) border** — one operator handles ferry + border + transfer.
 - Arrive **Phnom Penh ~17:00** — check in **Mettavary Hotel** (No.17, St 312 corner 21, Tonle Bassac) — **RESERVED** (Nov 28–29, 2 nights) · quiet lanes by Bassac Lane nightlife, ~10–15 min to Riverside · riverside sunset · dinner. ⚠️ **S21 closes 17:00 — drop it** (no longer feasible).
-- ⚠️ **Border/visa:** Cambodia e-Visa validity at Prek Chak isn't guaranteed — easiest is **visa on arrival at the border (~$30)**; bus staff shepherd you through. Expect the unofficial ~$5 "service tip" at Xa Xia (refusing delays the whole bus).
+- ⚠️ **Border/visa:** **Prek Chak does NOT accept the Cambodia e-Visa on entry** (official MFAIC border table). The only route here is **visa on arrival (~$30 cash, +1 passport photo)**; the bus staff shepherd you through (15–30 min). ⚠️ Touts may quote $35–38 — insist on the official $30 with exact cash. Expect the unofficial ~$5 "service tip" at Xa Xia (refusing delays the whole bus). Confirm Prek Chak VOA + current border operation before travel (Cambodia-Thailand land crossings are separately closed).
 - 🛏️ **Mettavary Hotel** (RESERVED).
 
 ### 📷 Photos — Vietnam
@@ -298,7 +307,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - **Good news:** unlike v3, the red-eye is not tomorrow morning — a washout now just rearranges the tail, not the trip.
 
 ### Day 32 · Mon Nov 30 · Phnom Penh → Bali (DPS)
-- ✈️ **BOUGHT — Phnom Penh → DPS**, dep **07:35** → arr **16:40** (same-day, one itinerary via a hub connection; block ~9h).
+- ✈️ **BOUGHT — Phnom Penh → DPS**, dep **07:35** (ICT, UTC+7) → arr **16:40** (WITA, UTC+8) same-day, one itinerary via a hub connection. Clock time = 9h05, but **elapsed = 8h05** (the +1h time-zone change shortens real duration).
 - Early-ish start from Mettavary (Tonle Bassac) — pre-book a Grab to KTI (~30+ min south) the night before. ⚠️ Arrival = **Indonesia entry #2** (visa-free, 30d — Brazil is on the list, no visa needed) + arrival card #2 + Bali Levy #2 paid before arrival.
 - Land **DPS 16:40** — evening: settle at **Stark Boutique Hotel and Spa** (Jl Kartika Plaza No. 20, Kuta) — **RESERVED** (Nov 30 → Dec 1, 1 night) · same Kartika Plaza strip as Adhi Jaya, ~4 min from DPS.
 - ⚠️ The **dawn-raid vs SGN-sleep** fork is now **moot** — this same-day ticket needs no extra SGN night. Delay chain: landing 16:40 (Nov 30) leaves all of Dec 1 free until the **DPS 20:15 departure** (be at DPS by ~18:15) — still a full buffer day.
@@ -306,11 +315,13 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ### Day 33 · Tue Dec 1 · Bali buffer day → DPS 20:15 departure
 - Relaxed day near DPS: beach/Seminyak/Canggu walk · last shopping · earlier sunset (before leaving for the airport).
 - ✈️ **Return leg starts TONIGHT — DPS dep 20:15** (ticketed) → **CGK arr 21:15** · be at DPS by ~**18:15** (pre-book the Grab).
+  - ⚠️ **Two sectors, two formalities:** **DPS→CGK is DOMESTIC** (Jakarta arrival at a domestic terminal). Then the **CGK international departure** (Dec 2, 00:15) may be from a **different terminal** — CGK has a free inter-terminal Skytrain (~15–20 min + walk); re-clear international security/immigration. **Jakarta connection = 3h (21:15 → 00:15)**, which is adequate but not generous if the domestic leg is late.
+  - Confirm on the ticket whether bags are **through-checked** to GRU (single itinerary → likely yes) and re-confirm the CGK terminal change.
 - 🛏️ **No DPS pod tonight** — the flight takes you out (pod used **Nov 30 only**).
 - ⚠️ **Indonesia exit #2 tonight at DPS** (visa-free 30d — Brazil is on the list, no visa needed; entry was completed Nov 30 — nothing else to redo).
 
 ### Day 34 · Wed Dec 2 · CGK → DXB → GRU → Home
-- **CGK 00:15 (Dec 2) → DXB 05:30** · **DXB 09:05 → GRU 17:35** (ticketed).
+- **CGK 00:15 (Dec 2) → DXB 05:30** · **DXB 09:05 → GRU 17:35** (ticketed). ⚠️ CGK: confirm the **international-departure terminal** and the Skytrain transfer if it differs from the domestic arrival terminal.
 - **GRU → BSB feeder** (BOUGHT, per-person flights) → home late Dec 2.
 
 ### 📷 Photos — Cambodia
@@ -326,19 +337,18 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | GRU→BSB | Feeder | **BOUGHT** (Dec 2) | **paid** | After the 17:35 GRU arrival; **each person on a different flight** |
 | **GRU→CGK (Jakarta)** | Long haul | **BOUGHT** — GRU 01:30 Oct 31 → CGK 15:40 Nov 1 | **paid** | RT with the return; ~15h CGK layover (Nov 1) |
 | **CGK→DPS** | Long haul leg | **BOUGHT** — CGK 07:05 Nov 2 → DPS 10:30 Nov 2 | **paid** | Immigration = Indonesia entry #1 at CGK |
-| Ubud→Banyuwangi (Nov 7) | Road+ferry | **BOUGHT — shared shuttle, 10:00 pickup at Diara's Cottage** | $12.10 pp | Rp 220k/pax ×3 = Rp 660k (~$36 total) · ferry incl. · est. arrival ~15:00–16:00 WIB · drop-off = our accommodation (HHHH Hostel) |
-| Banyuwangi→Bali (Nov 10) | Road+ferry (or flight) | ↩️ **TO BOOK ON THE SPOT in Banyuwangi** — same operator's 11:00 service · Lintas Nusa Rp 210k (~$13) · BWX→DPS flight | $12–130 | 11:00 dep → Denpasar ~15:00–16:00 WITA (makes the 05:00 wake-up) · avoid 21:00 (lands ~02:00–04:00) · Lintas Nusa WA 0812-3452-0200 |
+| DPS↔BWX | Road+ferry (or flight) | **Lintas Nusa shuttle Rp 210k (~$13) — NOT booked** | $13–130 | Nov 7 out / Nov 10 back; WA 0812-3452-0200 · 11:00/21:00 daily, door-to-door, ferry+meal incl.; **11:00 WIB = 12:00 WITA → 17:00–21:00 WITA arrival (5–9h)**; confirm Kuta drop-off; flight (Citilink ~$100) is thin |
 | DPS→MNL | Flight | **BOUGHT** — Cebu Pacific 5J280 (Nov 11) dep 08:35 | **paid** | LCC — bag fees on top |
 | MNL→PPS | Flight | **BOUGHT** — same-PNR connect after 5J280 (Nov 11) | **paid** | same-day connect **LOCKED** — arr PPS 16:25 |
 | El Nido (Lio)→MNL | Flight | **BOUGHT — AirSWIFT** (Nov 16, dep 10:45) | **paid** | Part of the same-day El Nido→HCMC booking |
-| MNL→SGN | Flight | **BOUGHT** (Nov 16) | **paid** | ~3h20; **self-connect** — collect + recheck bags at MNL; arr SGN 20:45 |
+| MNL→SGN | Flight | **BOUGHT** (Nov 16) | **paid** | ~3h20; **self-connect — two separate tickets, NO protection**; collect + recheck bags at MNL; allow ~4h + inter-terminal transfer; arr SGN 20:45 |
 | HCMC→Mui Ne | Road | **BOUGHT — bus** (Nov 20, dep 06:00) | **paid** | ~3.5h express via Phan Thiết; confirm pickup at the operator's office on/off Pham Ngu Lao |
-| Mui Ne→Da Lat | Road | **BOUGHT — bus** (Nov 22, dep 07:50) | **paid** | ~2.5–3h through the mountain pass; office ≈ 2-min walk from Minhon |
+| Mui Ne→Da Lat | Road | **BOUGHT — bus** (Nov 22, dep 07:50) | **paid** | **~3h40 elapsed** through the mountain pass; office ≈ 2-min walk from Minhon |
 | DLI→SGN | Flight | **BOUGHT** (Nov 25) | **paid** | dep 07:55 leg of the Da Lat→PQC ticket |
 | SGN→PQC | Flight | **BOUGHT** (Nov 25) | **paid** | arr PQC 13:35; same-day connect |
 | PQC→PP | Ferry + van/bus | **12Go combined — BOUGHT** (Nov 28, dep 09:00 → arr 17:00) | $25–32 | ~8h via Bai Vong→Hà Tiên + **Xa Xia–Prek Chak**; one operator handles ferry + border + transfer |
 | PP (KTI)→DPS | Flight | **BOUGHT** (Nov 30, dep 07:35 → arr 16:40) | **paid** | Same-day one-ticket itinerary (hub connection); no extra SGN night — see routing flag (4) |
-| **DPS→GRU** | Long haul | **BOUGHT** — DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 · DXB 09:05 → GRU 17:35 Dec 2 | **paid** | 3 legs via CGK + DXB; Indonesia exit at DPS Dec 1; → BSB feeder, home late Dec 2 |
+| **DPS→GRU** | Long haul | **BOUGHT** — DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 · DXB 09:05 → GRU 17:35 Dec 2 | **paid** | 3 legs via CGK + DXB; **DPS→CGK = domestic**, then **CGK intl departure** (likely different terminal — Skytrain transfer; **Jakarta connection 21:15→00:15 = 3h**); Indonesia exit at DPS Dec 1; → BSB feeder, home late Dec 2 |
 
 **Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→HCMC **BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, Lio→MNL + MNL→SGN **self-connect** — no through-bags, keep MNL gap ≥4h). (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT (Nov 30, dep 07:35 → arr 16:40)** — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — both **visa-free for Brazilians** (30-day tourism entry, no visa/e-VOA needed; worst case at DPS = VoA on arrival ~$35); Bali Levy + arrival card ×2.
 
@@ -350,9 +360,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 | Day | Leg | Departure | Where you sleep → terminal | Transfer | Be at terminal by | ⏰ Wake-up |
 |---|---|---|---|---|---|---|
-| Nov 2 | CGK→DPS | 07:05 | ODST Jakarta Transit Hotel → CGK | 15–20 min Grab (CBC Tower → airport) | 05:35 (domestic +1h30) | **~05:00–05:10** |
-| Nov 7 | Ubud→Banyuwangi (Ijen) | **10:00 pickup at Diara's Cottage (BOUGHT)** | Diara's Cottage (Ubud) → shuttle | pickup at the door | **09:30 ready** (driver may come early) | **~08:00–08:30** |
-| Nov 10 | Banyuwangi→Bali | ↩️ **TO BOOK ON THE SPOT** — 11:00 service (same operator) | HHHH Hostel (Banyuwangi) → pickup | pickup at the door | ~10:00 | **~08:30–09:00** |
+| Nov 2 | CGK→DPS | 07:05 | Pod near CGK → airport | 10–20 min walk/shuttle | 05:35 (domestic +1h30) | **~04:45–05:00** |
+| Nov 7 | DPS→BWX (Ijen) | Lintas Nusa 11:00 or 21:00, door-to-door | Diara's Cottage (Ubud) → hotel pickup | pickup ~1h before 🔍 | ~10:00 | **~08:30–09:00** |
+| Nov 10 | BWX→DPS | Lintas Nusa 11:00 or 21:00, door-to-door | HHHH Hostel (Banyuwangi) → pickup | pickup ~1h before 🔍 | ~10:00 | **~08:30–09:00** |
 | Nov 11 | DPS→MNL→PPS | 08:35 (5J280) | Adhi Jaya (Kuta) → DPS | 10–15 min | 05:35 (intl +3h) | **~05:00–05:15** |
 | Nov 13 | PPS→El Nido van | 08:00 | Lokal Hut (Puerto Princesa) → van office | 5–10 min | 07:45 | **~07:00** 🔍 |
 | Nov 16 | El Nido (Lio)→MNL→SGN | 10:45 | Devayn's Inn (town) → Lio | 15–20 min trike | 09:20 (domestic +1h15) | **~08:15** |
@@ -366,6 +376,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 **Note:** the Da Lat→Phú Quốc flights are BOUGHT (Nov 25, dep 07:55 → arr 13:35) — the overnight bus + Rạch Giá ferry alternative is now only a storm-day fallback.
 
+**🍳 Breakfasts — plan ahead for early starts.** Several departures precede normal breakfast service or a hotel's kitchen: **Nov 11 (05:00 wake, DPS 08:35)** → request a packed takeaway breakfast at Adhi Jaya; also **Nov 20 (06:00 bus)**, **Nov 22 (07:50 bus)**, **Nov 25 (05:10 wake, DLI)** and **Nov 30 (03:45 wake, KTI)**. Buy grab-and-go the night before (mini-mart, 24h warung, or a café open at dawn — e.g. Kopi Es Tak Kie Glodok opens 06:00) or confirm an in-room/packed option with each hotel.
+
 ---
 
 # Budget (per person)
@@ -376,12 +388,11 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | BSB↔GRU feeders | **BOUGHT** ($80–180 est.) |
 | Inter-island + VN domestic + PQC→PP (ferry+bus) + **PP→DPS BOUGHT** | $430–810 |
 | Local transport (ferries, vans, buses, limos) | $80–120 |
-| Accommodation (31 nights, pods/private — incl. **ODST Jakarta Transit room Nov 1**) | $350–1,360 |
+| Accommodation (30 hotel nights, pods/private) | $330–1,330 |
 | Tours & activities | $450–850 (incl. optional range ammo ~$200–600) |
-| Food (~$30–50/day, 33 days) | $990–1,650 |
+| Food (~$30–50/day, 34 days) | $990–1,650 |
 | Visas/forms (Vietnam e-Visa $25 · Cambodia VOA ~$30 · PH & ID visa-free for BR · Bali Levy ~$10×2) | ~$75+ |
-| Travel insurance (35 days — Assist Card AC 150 ~$170 · Coris Max 100 ~$235 · Hero VIP 150 ~$129 · WN Explorer ~$318) | ~$130–320 |
-| **Total** | **$5,250–7,940** |
+| **Total** | **$5,100–7,600** (planning envelope, not reconciled) |
 
 ---
 
@@ -392,10 +403,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Segment | Dates | Nights | Lodging pp/night | Avg daily spend pp (tours+transport) | Food pp/day | ~Total pp/day |
 |---|---|---|---|---|---|---|
 | Transit (BSB→GRU→CGK) | Oct 30–31 | 1 | — (~$15 day-room) | — | $15 | ~$30 |
-| Jakarta stopover (ODST Transit Hotel) | Nov 1 | 1 | **$30–45 (room, 3 people)** | $10–25 (Kota Tua + food) | $20 | $60–90 |
+| Jakarta stopover (CGK pod) | Nov 1 | 1 | $15 (pod/day-room near CGK) | $10–25 (Kota Tua + food) | $20 | $45–60 |
 | Ubud core + Nusa Penida + buffer | Nov 2–6 | 5 | Diara's Cottage (2 rooms/÷3, reserved) | $25–45 | $20 | $58–78 |
-| Banyuwangi / Ijen (open trip) | Nov 7–9 | 3 | HHHH Hostel (reserved) | $12–20 (Nov 7 shuttle **BOUGHT** $12.10) | $15 | $35–43 |
-| Bali exit (Adhi Jaya Hotel, Kuta) | Nov 10 | 1 | ~$15–20 (room ÷3, reserved) | $12–14 (road+ferry — ↩️ return booked on the spot) | $20 | $47–54 |
+| Banyuwangi / Ijen (open trip) | Nov 7–9 | 3 | HHHH Hostel (reserved) | $15–20 | $15 | $38–43 |
+| Bali exit (Adhi Jaya Hotel, Kuta) | Nov 10 | 1 | ~$15–20 (room ÷3, reserved) | $14 (road+ferry) | $20 | $49–54 |
 | Puerto Princesa (transit + Underground River) | Nov 11–12 | 2 | Lokal Hut B&B (reserved, rate TBD) | $18–21 | $20 | $38–41 + lodging |
 | El Nido (Tours A + B) | Nov 13–15 | 3 | Devayn's Inn (reserved, rate TBD) | $21–29 | $20 | $41–49 + lodging |
 | Ho Chi Minh City (Cu Chi, war sites, spa) | Nov 16–19 | 4 | SG Cozy2 Hotel (reserved, rate TBD) | $15–25 (+$24–45 optional spa, Day 21) | $20 | $35–45 + lodging |
@@ -408,7 +419,9 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 **Roll-up vs the Budget table:** accommodation ≈ $400–550 ✓ (range $330–1,330) · day spend (tours + local transport + food) ≈ $1,950–2,600 ✓ · flights ≈ $3,000–3,900 (incl. BOUGHT long-haul est.) → realistic all-in ≈ **$5,100–7,600**.
 
-> **Research gaps:** **all 31 nights are locked ✅ and all transport is bought ✅ except the Nov 10 Banyuwangi→Bali return** — 🎯 booked on the spot in Banyuwangi with the same operator (11:00 service; confirm availability + price when you get there). Remaining to-dos are **travel insurance** (see scratchpad research), tours/activities bookings and the visa/form windows.
+> **Research gaps:** **none — all 30 hotel nights are locked ✅ (+3 in-flight/airport nights) and all transport is bought ✅.** Remaining to-dos are tours/activities bookings and the visa/form windows.
+>
+> ⚠️ **Budget caveat:** the line items mechanically sum to ≈ $4,662–7,521 pp, but the table is a **planning envelope only** — BOUGHT costs must be reconciled against actual paid amounts, and lodging is quoted per-room (÷3) vs per-person in different places. Treat all figures as estimates until reconciled.
 
 ---
 
@@ -420,7 +433,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 |---|---|---|
 | Day 1 · Oct 30 | — (pre-flight evening / airport) | BSB → GRU |
 | Day 2 · Oct 31 | — (long-haul flight) | In transit |
-| Day 3 · Nov 1 | **ODST Jakarta Transit Hotel (reserved)** — CBC Tower, Cengkareng Business City (Rawalembang) | Jakarta (CGK) |
+| Day 3 · Nov 1 | Pod / day-room near CGK (~$10–20) | Jakarta (CGK) |
 | Day 4 · Nov 2 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
 | Day 5 · Nov 3 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
 | Day 6 · Nov 4 | **Diara's Cottage** (No 1 Jalan Subak Sok Wayah) — RESERVED | Ubud |
@@ -469,10 +482,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 6 · Nov 4 | Jatiluwih Rice Terraces (UNESCO) · Tirta Empul water temple · **Bali Pulina** coffee plantation · **Kanto Lampo waterfall** (alt: Tegenungan) · Goa Gajah Elephant Cave | Ubud |
 | Day 7 · Nov 5 | Nusa Penida day trip — Kelingking Beach · Broken Beach · Angel's Billabong · **Diamond Beach · Rumah Pohon Treehouse · Thousand Island Viewpoint** · **optional bungee jump (Extreme Park Bali)** ⚠️ | Nusa Penida |
 | Day 8 · Nov 6 | **Uluwatu cliff temple + Kecak sunset** (primary) · **Pandawa Beach paragliding** ⚠️ (south-facing, dry-season site — by Nov the wind shifts to Uluwatu's west cliffs; verify ops on the day) · Penida rebook if cancelled · fallback: cooking class / spa / Blanco Museum | Ubud → Uluwatu |
-| Day 9 · Nov 7 | **Shared shuttle 10:00 pickup from Ubud** → Banyuwangi (~5h + ferry) | Bali → Banyuwangi |
+| Day 9 · Nov 7 | Lintas Nusa road + ferry Bali → Banyuwangi (~5–9h) | Bali → Banyuwangi |
 | Day 10 · Nov 8 | Rest + confirm Ijen "open trip" · optional hot springs · early sleep | Banyuwangi |
 | Day 11 · Nov 9 | Ijen blue fire trek + sunrise over crater lake ⚠️ | Ijen (Banyuwangi) |
-| Day 12 · Nov 10 | Return road+ferry Banyuwangi → Bali (↩️ **book it on the spot with the same operator**) · prep for early flight | Banyuwangi → Bali |
+| Day 12 · Nov 10 | Lintas Nusa return Banyuwangi → Bali · prep for early flight | Banyuwangi → Bali |
 | Day 13 · Nov 11 | DPS→MNL→PPS same-day connect (travel day) — **BOUGHT** | Manila → Puerto Princesa |
 | Day 14 · Nov 12 | Underground River (Puerto Princesa → Sabang) ✅ | Puerto Princesa |
 | Day 15 · Nov 13 | Van PPS → El Nido (12Go, travel day) — **BOUGHT** | El Nido |
@@ -488,8 +501,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 25 · Nov 23 | Datanla canyoning (Viet Challenge / Phat Tire) ⚠️ · **Datanla Alpine Coaster (opt)** | Da Lat |
 | Day 26 · Nov 24 | **Oddities Day** — Prenn ostrich/elephant rides · Greenline Luge (Cao Nguyên Hoa) · GOD Valley / Mongo Land · Dalat Wonderland or Ngan Thong glass bridge · 100 Roofs maze bar · **Langbiang Land / ZooDoo (swaps)** | Da Lat |
 | Day 27 · Nov 25 | Flights Da Lat→SGN→Phú Quốc (07:55→13:35) — **BOUGHT** · Grand World night show / Duong Dong night market | Phú Quốc |
-| Day 28 · Nov 26 | Vinpearl Safari · Grand World + K-town / Teddy Bear lights ✅ | Phú Quốc |
-| Day 29 · Nov 27 | Phú Quốc buffer — beach · second United Center loop · night squid fishing (optional) ✅ | Phú Quốc |
+| Day 28 · Nov 26 | **NORTH island** — Vinpearl Safari · Grand World + K-town / Teddy Bear lights + Grand World dinner ✅ | Phú Quốc |
+| Day 29 · Nov 27 | **SOUTH island + buffer** — Sunset Town (An Thoi) + Viet Puppetry show · or beach / hotel area · night squid fishing (optional) ✅ | Phú Quốc |
 | Day 30 · Nov 28 | **Phú Quốc→Phnom Penh 12Go combined BOUGHT** (09:00→17:00) · riverside evening | Phnom Penh |
 | Day 31 · Nov 29 | Kampong Speu shooting range (rocket launcher) ⚠️ | Kampong Speu → Phnom Penh |
 | Day 32 · Nov 30 | **Phnom Penh→DPS BOUGHT** (07:35→16:40) · settle near DPS | Phnom Penh → Bali |
@@ -653,10 +666,10 @@ Quick version:
 - 🚐🏨 **DONE — PPS→El Nido van (12Go, Nov 13 dep 08:00 → arr 13:30) + Devayn's Inn RESERVED** (El Nido, Nov 13–15, Calle Hama 5313).
 - 🏨 **DONE — HCMC: SG Cozy2 Hotel — Pham Ngu Lao St** (241/12 Pham Ngu Lao, D1) RESERVED (Nov 16–19).
 - 🚌 **DONE — HCMC→Mui Ne bus BOUGHT** (Nov 20, dep 06:00 → arr 09:30) · **Mui Ne→Da Lat bus BOUGHT** (Nov 22, dep 07:50 → arr 11:30) · **Da Lat→Phú Quốc flights BOUGHT** (Nov 25, dep 07:55 → arr PQC 13:35).
-- 📄 **Mid-Sep (flights):** **all flights bought ✅** (tail: BSB↔GRU feeders Oct 30 / Dec 2 — each person on a different flight). Remaining are tours + forms + **the Nov 10 Banyuwangi→Bali road/ferry return (booked on the spot in Banyuwangi, 11:00 service — same operator)**.
-- 📄 **Early Oct:** Vietnam e-Visa ($25 single, evisa.xuatnhapcanh.gov.vn) — **Brazilians not exempt, e-Visa required** (single entry is enough — you enter once at SGN Nov 16 and exit by land at Xa Xia→Prek Chak Nov 28; **no Vietnam on the way home**, so no re-entry; SGN is a valid e-Visa port, no Phú Quốc direct-entry needed). **Indonesia: no visa — Brazil is visa-free (30-day tourism entry) for both CGK Nov 1 + DPS Nov 30.** **Philippines: no visa — Brazil visa-free 59 days** (longer than the standard 30, bilateral deal; need 6-mo passport + return ticket + eTravel). **UAE/DXB (Dec 2 overnight transit): no visa — stay **airside** (in-transit) at Dubai, don't clear immigration; a transit visa is only for leaving the airport.**
-- 📄 **Mid-Oct:** Cambodia visa — land entry at **Prek Chak (Nov 28): visa on arrival ~$30** (Brazilians are VOA-eligible; e-Visa $30/3 days also OK but VOA at the land gate is the easy route). Confirm Prek Chak issues tourist VOA; book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, $35/₱2,200 — **not booked**: Option A = ₱750 dep via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (**El Nido A/B = booked on arrival, open pick**, Da Lat canyoning, shooting range).
-- 📄 **Late Oct:** Asialink eSIMs, travel insurance (🎯 **Assist Card AC 150 ~$170 pp** primary; alt Coris Max 100 ~$235 / Hero VIP 150 ~$129 — full comparison + buy checklist in the scratchpad), Grab/Klook.
+- 📄 **Mid-Sep (flights):** **all flights bought ✅** (tail: BSB↔GRU feeders Oct 30 / Dec 2 — each person on a different flight). Remaining are tours + forms.
+- 📄 **Early Oct:** Vietnam e-Visa ($25 single, evisa.xuatnhapcanh.gov.vn) — **Brazilians not exempt, e-Visa required** (single entry is enough; SGN is a valid e-Visa port, no Phú Quốc direct-entry needed). **Indonesia: no visa — Brazil is visa-free (30-day tourism entry) for both CGK Nov 1 + DPS Nov 30.** **Philippines: no visa — Brazil visa-free 59 days** (longer than the standard 30, bilateral deal; need 6-mo passport + return ticket + eTravel). **UAE/DXB (Dec 2 overnight transit): no visa — stay **airside** (in-transit) at Dubai, don't clear immigration; a transit visa is only for leaving the airport.**
+- 📄 **Mid-Oct:** Cambodia visa — land entry at **Prek Chak (Nov 28): visa on arrival only, ~$30 cash + 1 photo** (**Prek Chak does NOT accept the e-Visa** — official MFAIC border table; don't buy an e-Visa for this crossing). Confirm Prek Chak issues tourist VOA; book fixed-date tours: **Underground River → D'Palawan** (WA 0963 139 0000, all-in ~₱2,200/$35 — **not booked**: get **one written all-in quote** to reconcile the ₱750 deposit + ₱1,950 balance mismatch; Option A = deposit via PayPal-PHP/Wise from Brazil, Option B = hold slot on WA + full cash on day) · Ijen · Nusa Penida + rain-flexible tours cancellable (**El Nido A/B = booked on arrival, open pick**, Da Lat canyoning, shooting range).
+- 📄 **Late Oct:** Asialink eSIMs, travel insurance, Grab/Klook.
 - 📄 **≤72h before:** Philippines eTravel + Vietnam Pre-Arrival Declaration.
 - 📄 **≤3 days before:** Indonesia arrival card (**×2** — Nov 1 CGK + Nov 30 DPS) + Bali Levy (IDR 150k ≈ $10, **×2** — pay before each Bali arrival).
 
@@ -664,8 +677,8 @@ Quick version:
 
 # Risks & Notes
 
-- **Visas for Brazilians (verified):** **Philippines** — visa-free **59 days** (longer than the standard 30; bilateral deal), need 6-mo passport + return/onward ticket + eTravel. **Vietnam — NOT exempt → e-Visa REQUIRED** ($25 single, evisa.xuatnhapcanh.gov.vn; SGN is a valid e-Visa port). ✅ **Single entry is enough — verified against the booked itinerary:** you enter Vietnam **once** (Nov 16, Lio→MNL→**SGN** arr 20:45 — the only international entry) and leave **once** by land at the **Xa Xia (VN) → Prek Chak (KH) border on Nov 28** (Phú Quốc → Hà Tiên ferry → bus). Everything in between is domestic (HCMC→Mui Ne road · Mui Ne→Da Lat bus · **DLI→SGN→PQC on Nov 25 = both legs domestic → no new immigration stamp, no second e-Visa use**). The way home (PP→DPS Nov 30 · DPS 20:15→CGK · CGK→DXB→GRU Dec 2 → BSB) **never touches Vietnam** → **no re-entry, no second e-Visa**. Also: **one** Vietnam Pre-Arrival Declaration (≤72h before the Nov 16 arrival) is enough. ⚠️ If the Nov 28 ferry is cancelled by storms, the fallback PQC→SGN→KTI flight also exits Vietnam once (by air) — still no re-entry. **Cambodia** — visa on arrival ~$30 at Prek Chak (Brazilians VOA-eligible). **Indonesia** — visa-free 30 days both entries. **UAE/DXB transit (Dec 2)** — no visa needed as long as you **stay airside** at Dubai and don't clear immigration; a transit visa is only required if you leave the airport (you won't on the ~3.5h overnight layover).
-- **Nov = wet-season tail.** Buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓ — that day doubles as the **Uluwatu** slot). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
+- **Visas for Brazilians (verified):** **Philippines** — visa-free **59 days** (longer than the standard 30; bilateral deal), need 6-mo passport + return/onward ticket + eTravel. **Vietnam — NOT exempt → e-Visa REQUIRED** ($25 single, evisa.xuatnhapcanh.gov.vn; SGN is a valid e-Visa port; single entry is enough since you're only entering once). **Cambodia** — **visa on arrival ~$30 cash + 1 photo at Prek Chak** (Brazilians VOA-eligible); ⚠️ **Prek Chak does NOT accept the e-Visa on entry** (official MFAIC border table) — do not buy an e-Visa for this crossing; the only entry method is VOA on arrival. **Indonesia** — visa-free 30 days both entries. **UAE/DXB transit (Dec 2)** — no visa needed as long as you **stay airside** at Dubai and don't clear immigration; a transit visa is only required if you leave the airport (you won't on the ~3.5h overnight layover).
+- **Nov = wet-season tail — 2026 outlook is favorable (strong El Niño delays monsoon).** Per-city verdict for our dates: **Bali (Nov 2–7, 30–Dec 1)** — transition month but BMKG expects the rainy season to start *later* in 2026 (most of Bali in Dec): mornings usable, brief afternoon showers; sea days = mornings. **Java/Ijen (Nov 7–11)** 🔴 — rainy season on Java is the **#1 weather risk** (crater can close with no notice); Nov 10 fallback still in plan. **Palawan/El Nido (Nov 11–16)** 🟢 — end of rainy season, amihan monsoon starts; Palawan rarely takes direct typhoons. **HCMC (Nov 16–19)** 🟢 — southern VN rainy season forecast to end early Nov 2026. **Mui Ne (Nov 20–21)** 🟢 — driest spot in VN that month. **Da Lat (Nov 22–24)** 🟢 — rains ending, wild sunflowers, 14–22°C. **Phú Quốc (Nov 25–27)** 🟢 — late-Nov window when rains fade fast (Oct 354mm → Nov ~164 → Dec 59). **Phnom Penh (Nov 28–29)** 🟢 — monsoon retreating, hot 31–33°C, passing showers; Water Festival possible. Concrete buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓ — that day doubles as the **Uluwatu** slot). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
 - **Date math depends on flights:** the MNL→PPS same-day connect (Nov 11 — **BOUGHT**, dep DPS 08:35 · arr PPS 16:25), AirSWIFT El Nido→MNL + MNL→SGN (Nov 16 — **BOUGHT**, dep 10:45 · arr SGN 20:45), Phú Quốc→PP ferry+bus (Nov 28, daily), the **PP→DPS return hop (Nov 30 — BOUGHT, dep 07:35 · arr 16:40)**, and the **BSB↔GRU feeders (Oct 30 / Dec 2 — BOUGHT, each person separately)** — all flights are now locked.
 - **PQC→Phnom Penh land route (Nov 28):** **BOUGHT as one 12Go combined ticket** — ferry Bai Vong→Hà Tiên + van through **Xa Xia–Prek Chak**, dep **09:00** → arr **17:00** (~8h incl. border); the old Tue/Wed/Fri/Sat Air Cambodia constraint is gone. ⚠️ Storms cancel ferries in Nov → fallback: **PQC→SGN→KTI** flight (Vietnam Airlines via HCMC). Budget the unofficial ~$5 border tip.
 - **Indonesia double-entry:** Brazil is on the **visa-free list** — both entries (CGK Nov 1 + DPS Nov 30) arrive visa-free, **no visa/e-VOA needed** (30-day tourism entry; confirmed). The 2nd visa-free entry at DPS is airport-officer discretion in practice → keep the printed boarding pass + return ticket handy (worst case = buy a VoA on arrival, ~$35). Bali Levy (IDR 150k) still applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
