@@ -2,7 +2,7 @@
 
 > 3 Brazilians · Oct 30 – Dec 2, 2026 · Home base Brasília (BSB)
 > Budget target: ~$100/day pp (~$3,400 for 34 days) + flights. Realistic total ≈ $5,100–7,600 pp (flights dominate). ⚠️ Envelope only — displayed lines are not yet reconciled to actual paid amounts.
-> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21) · Mui Ne→Da Lat bus BOUGHT (Nov 22) · Dalat Peace Backpackers Hostel RESERVED (Nov 22–24) · Da Lat→Phú Quốc flights BOUGHT (Nov 25, dep 07:55 → arr 13:35) · 9Station Hostel & Bar Phú Quốc RESERVED (Nov 25–27) · PQC→Phnom Penh 12Go combined BOUGHT (Nov 28, dep 09:00 → arr 17:00) · Mettavary Hotel Phnom Penh RESERVED (Nov 28–29) · Phnom Penh→DPS BOUGHT (Nov 30, dep 07:35 → arr 16:40) · Stark Boutique Hotel & Spa Kuta RESERVED (Nov 30 → Dec 1) · BSB↔GRU feeders BOUGHT (Oct 30 / Dec 2, each person a different flight) · return ticket corrected: DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 → GRU 17:35.** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
+> **v4 — DPS round-trip adopted (GRU⇄DPS BOUGHT, Oct 31 → Nov 2 / Dec 2)**. **v4.1 — Nha Trang dropped → Mui Ne (Route Option 1)**: HCMC · Mui Ne · Da Lat · Phú Quốc, Da Lat + Phú Quốc each gain a night, zero new flights. **v4.2 — Cambodia by land**: Phú Quốc → Hà Tiên ferry → bus to Phnom Penh (runs **daily** — the Air Cambodia flight constraint is gone). **Merged master also carries: El Nido→HCMC BOUGHT (Nov 16) · SG Cozy2 HCMC RESERVED (Nov 16–19) · HCMC→Mui Ne bus BOUGHT (Nov 20) · Minhon Hotel Mui Ne RESERVED (Nov 20–21) · Mui Ne→Da Lat bus BOUGHT (Nov 22) · Dalat Peace Backpackers Hostel RESERVED (Nov 22–24) · Da Lat→Phú Quốc flights BOUGHT (Nov 25, dep 07:55 → arr 13:35) · 9Station Hostel & Bar Phú Quốc RESERVED (Nov 25–27) · PQC→Phnom Penh 12Go combined BOUGHT (Nov 28, dep 09:00 → arr 17:00) · Mettavary Hotel Phnom Penh RESERVED (Nov 28–29) · Phnom Penh→DPS BOUGHT (Nov 30, dep 07:20 → arr 16:40) · Stark Boutique Hotel & Spa Kuta RESERVED (Nov 30 → Dec 1) · BSB↔GRU feeders BOUGHT (Oct 30 / Dec 2, each person a different flight) · return ticket corrected: DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 → GRU 17:35.** Built on **v3** — Palawan-only, 13-day Vietnam, Cambodia = rocket launcher only.
 
 ---
 
@@ -14,7 +14,7 @@
 | Travelers | 3 adults, Brazilian passports |
 | Route | BSB → Jakarta (CGK stopover) → Bali → Ijen (Java) → Palawan → HCMC → Mui Ne → Da Lat → Phú Quốc → Phnom Penh (KTI) → back to Bali (Denpasar) → BSB |
 | Budget | ~$100/day pp + flights |
-| Status | 🔁 Needs Review / More Research (inter-island flights + accommodation still open) |
+| Status | 🟢 Plan locked — all flights, buses, ferries and 30 hotel nights **booked** · open items only: **Nov 10 Banyuwangi→Bali transfer**, tours (Ijen, Nusa Penida, El Nido A/B, canyoning, shooting range), travel insurance, visas (VN e-Visa, KH VOA) + all arrival cards |
 
 **Country blocks:** Indonesia (Bali/Java) 9 days (Nov 2–10) · Palawan 6 days (Nov 11–16) · Vietnam 13 days (Nov 16–28) · Cambodia 1.5 days (Nov 28–29) · return to Bali (Denpasar buffer) 1.5 days (Nov 30–Dec 2) · home Dec 2.
 
@@ -55,7 +55,7 @@
 | 29 | Phú Quốc lodging | **9Station Hostel & Bar Phu Quoc — RESERVED** · 91/3 Trần Hưng Đạo, Duong To (Long Beach), Phú Quốc (Nov 25–27, 3 nights) · on the northern Long Beach strip — walkable to Duong Dong, near the VinBus/United Center free shuttle & the Nov 28 ferry port |
 | 30 | Cambodia hop | **Phú Quốc → Phnom Penh combined ticket BOUGHT on 12Go** (Nov 28, dep **09:00** → arr **17:00**) — ferry Bai Vong→Hà Tiên + transfer + van through **Xa Xia–Prek Chak** · one operator, ~8h |
 | 31 | Phnom Penh lodging | **Mettavary Hotel — RESERVED** · No.17, Street 312 corner 21, Tonle Bassac, Chamkar Mon, Phnom Penh (Nov 28–29, 2 nights) · quiet Tonle Bassac lanes by Bassac Lane nightlife, ~10–15 min to Riverside & closest central base to KTI for the Nov 30 exit |
-| 32 | Return hop | **Phnom Penh → DPS BOUGHT** (Nov 30, dep **07:35** → arr **16:40** same-day, one itinerary) — the dawn-raid vs SGN-sleep fork is **dead**: no extra SGN night needed. Return long-haul corrected: **DPS leaves 20:15 Dec 1** (not 00:15 Dec 2) → **DPS pod = single night, Nov 30 only** |
+| 32 | Return hop | **Phnom Penh → DPS BOUGHT** (Nov 30, dep **07:20** → arr **16:40** same-day, one itinerary) — the dawn-raid vs SGN-sleep fork is **dead**: no extra SGN night needed. Return long-haul corrected: **DPS leaves 20:15 Dec 1** (not 00:15 Dec 2) → **DPS pod = single night, Nov 30 only** |
 | 33 | Kuta lodging (Nov 30) | **Stark Boutique Hotel and Spa — RESERVED** · Jl Kartika Plaza No. 20, 80362 Kuta (Nov 30 → Dec 1, 1 night) · same Kartika Plaza strip as Adhi Jaya, ~4 min from DPS — handy for the 20:15 exit on Dec 1 |
 | 34 | Brazil feeders | **BSB↔GRU feeders BOUGHT** (Oct 30 out / Dec 2 back) — **each of the 3 people flies a different flight** (separate bookings, not shared) |
 
@@ -136,7 +136,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🪂 **Adventure option (fits the loop): Pandawa Beach tandem paragliding** — soar off the Bukit cliffs (Timbis/Gunung Payung launch, above Pandawa & Indian Ocean; lands on the sand). ~10–15 min flight, no experience needed, GoPro/photo + insurance incl. ≈ **$58–72 pp** (15-min, IDR 900k–1.1M). ⚠️ **Season caveat:** Pandawa/Timbis are south-facing — best on the dry-season south trades (Apr–Oct); by early Nov the wind is shifting to Uluwatu's west-facing cliffs. Operators fly ~12:00–17:00 daily on pilot's call — WhatsApp-check a day ahead (e.g. Timbis Paragliding) and slot it **before** the Uluwatu temple + Kecak on the same car; if winds are off, skip (no deposit before same-day confirmation).
 - 🏜️ **Clifftop sunset-dinner options** (swap for the Jimbaran BBQ — all near the temple area):
   - **Rockfish The Uluwatu** 🥇 — the clifftop splurge that fits the budget: cave-perched fine dining, glass balcony ~100 m over the ocean, DJ sunset till late; ~IDR 250k (~$16) + cocktails; **reserve for a sunset table**. Upside over Jimbaran: cliff view; downside: no beach/sand.
-  - **The Warung at Alila Villas Uluwatu** 🟡 — Indonesian fine dining on the Alila cliffs, a la carte ~IDR 250–400k (~$16–28); only if you want a dressier, resort-plated experience.
+  - ❌ **The Warung at Alila Villas Uluwatu** — dropped after the Oct 2026 review screen (an accessible review describes a food-poisoning allegation); it was previously a 🟡 dressier option. Skip.
   - ❌ **El Kabron Bali** — luxury sunset theater ~IDR 850k–1M (~$60–70), pool/hedonism lounge more again; way over budget.
   - ❌ **Di Mare (Karma Kandara)** — Mediterranean fine dining ~IDR 250–600k; mixed reviews + **seafood food-poisoning reports** — skip.
   - ❌ **Ulu Cliffhouse** — clifftop bar/pool club, ~400k min spend, party energy; better fit for the Day 33 buffer than Day 8.
@@ -148,7 +148,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - Last Ubud night — any of the Day 5/6 picks you haven't tried yet
 
 ### Day 9 · Sat Nov 7 · Bali → Banyuwangi (Ijen)
-- **Road + ferry** (Denpasar → Gilimanuk ferry → Ketapang): ~5–9h, ~$13–15 pp all-in. **Best pick: Lintas Nusa door-to-door shuttle** — Rp 210k (~$13) all-in incl. ferry + meal, daily 11:00 & 21:00 WITA, **WA 0812-3452-0200** (lintasnusa.id). ⚠️ Bali is 1h ahead of Banyuwangi (WITA vs WIB). Or **Citilink flight DPS→BWX** (~40min, ~$100–130, thin schedule).
+- **Road + ferry** (Denpasar → Gilimanuk ferry → Ketapang): ~5–9h, ~$13–15 pp all-in. **Best pick: Lintas Nusa door-to-door shuttle** — Rp 210k (~$13) all-in incl. ferry + meal, daily 11:00 & 21:00 WITA **departure** = **~10:00 WITA hotel pickup**, **WA 0812-3452-0200** (lintasnusa.id). ⚠️ Bali is 1h ahead of Banyuwangi (WITA vs WIB): a 10:00 WITA pickup / 11:00 WITA departure lands Ketapang **15:00–19:00 WIB** (not "mid-afternoon WITA"). Or **Citilink flight DPS→BWX** (~40min, ~$100–130, thin schedule).
 - Arrive **Banyuwangi** evening. 🛏️ **HHHH Hostel** (Jl. Trunojoyo 51) — **RESERVED** · ~500 m from center (6-min walk), right in the standard Ijen open-trip pickup zone · Hostelz 9.54.
 
 ### Day 10 · Sun Nov 8 · Banyuwangi prep day
@@ -230,7 +230,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ### Day 20 · Wed Nov 18 · War sites + food
 - **War Remnants Museum** ✅ (₫40k ≈ $1.60, 2–3h, intense — open Wednesdays; go early) · **Reunification Palace** ✅ (₫65k ≈ $2.50, 1.5h).
-- Food crawl: **Banh Mi Huynh Hoa** ✅ · **com tam Ba Ghien** ✅ · egg coffee ✅ · rooftop (Chill Skybar) ✅.
+- Food crawl: **Den Long** ✅ (replaces the dropped Bánh Mì Huỳnh Hoa) · **com tam Ba Ghien** ✅ · egg coffee ✅ · rooftop (Chill Skybar) ✅.
 
 ### Day 21 · Thu Nov 19 · HCMC free day
 - **Bitexco Skydeck** ✅ (~$10) · **Fine Arts Museum** ✅ (₫30k ≈ $1.20 — open Thu) · **spa afternoon** ✅ — 🥇 **Sense Spa** (52 Dong Du, D1, ~₫600k/90-min ≈ **$24**, tipping included, free D1 pickup) · alternatives: **VN SPA**, **Laboho**, **Mộc Kim**, premium **Birthree CHAMPACA** (~$45/60-min head spa). Book via WhatsApp 1–2 days ahead.
@@ -308,8 +308,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - **Good news:** unlike v3, the red-eye is not tomorrow morning — a washout now just rearranges the tail, not the trip.
 
 ### Day 32 · Mon Nov 30 · Phnom Penh → Bali (DPS)
-- ✈️ **BOUGHT — Phnom Penh → DPS via KUALA LUMPUR**, dep **07:35** (ICT, UTC+7) → arr **16:40** (WITA, UTC+8) same-day. Legs: **KTI 07:35 → KUL 10:25** (AirAsia Cambodia **KT163**, 1h50) · **3h connection at KLIA** · **KUL 13:25 → DPS 16:40** (AirAsia **AK368**, 3h15). **Elapsed = 8h05** (9h05 on the clock — the +1h TZ change shortens real duration).
-  - ⚠️ **Autotransferência at KLIA** — protected by *"Garantia de Autotransferência"*, but **collect + re-check bags at KUL** and re-clear security. Both legs are AirAsia (same LCC group) → likely the same terminal (**KLIA2/T2**); 3h is adequate.
+- ✈️ **BOUGHT — Phnom Penh → DPS via KUALA LUMPUR**, dep **07:20** (ICT, UTC+7) → arr **16:40** (WITA, UTC+8) same-day. Legs: **KTI 07:20 → KUL 10:20** (AirAsia Cambodia **KT163**, 2h00) · **3h05 connection at KLIA** · **KUL 13:25 → DPS 16:40** (AirAsia **AK368**, 3h15). **Elapsed = 8h20** (9h20 on the clock — the +1h TZ change shortens real duration). *(Times re-issued by the airline: was 07:35/10:25.)*
+  - ⚠️ **Autotransferência at KLIA** — protected by *"Garantia de Autotransferência"*, but **collect + re-check bags at KUL** and re-clear security. Both legs are AirAsia (same LCC group) → likely the same terminal (**KLIA2/T2**); 3h05 is adequate.
   - 🛂 **Malaysia transit:** Brazilians are **visa-free** (90 days) — no transit visa needed even if you must clear immigration to re-check bags. Carry the DPS/onward ticket.
   - 🍽️ Lunch at KLIA during the layover — you land DPS 16:40 and go straight to Kuta.
 - Early-ish start from Mettavary (Tonle Bassac) — pre-book a Grab to KTI (~30+ min south) the night before. ⚠️ Arrival = **Indonesia entry #2** (visa-free, 30d — Brazil is on the list, no visa needed) + arrival card #2 + Bali Levy #2 paid before arrival.
@@ -322,7 +322,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - ⚠️ **Two sectors, two formalities:** **DPS→CGK is DOMESTIC** (Jakarta arrival at a domestic terminal). Then the **CGK international departure** (Dec 2, 00:15) may be from a **different terminal** — CGK has a free inter-terminal Skytrain (~15–20 min + walk); re-clear international security/immigration. **Jakarta connection = 3h (21:15 → 00:15)**, which is adequate but not generous if the domestic leg is late.
   - Confirm on the ticket whether bags are **through-checked** to GRU (single itinerary → likely yes) and re-confirm the CGK terminal change.
 - 🛏️ **No DPS pod tonight** — the flight takes you out (pod used **Nov 30 only**).
-- ⚠️ **Indonesia exit #2 tonight at DPS** (visa-free 30d — Brazil is on the list, no visa needed; entry was completed Nov 30 — nothing else to redo).
+- ⚠️ **Indonesia exit #2 happens at CGK, not at DPS** — the DPS boarding tonight is **domestic**; passport control/immigration out of Indonesia is only at **CGK before the 00:15 flight**. (Visa-free 30d — Brazil is on the list, no visa needed; entry was completed Nov 30 — nothing else to redo.)
 
 ### Day 34 · Wed Dec 2 · CGK → DXB → GRU → Home
 - **CGK 00:15 (Dec 2) → DXB 05:30** · **DXB 09:05 → GRU 17:35** (ticketed). ⚠️ CGK: confirm the **international-departure terminal** and the Skytrain transfer if it differs from the domestic arrival terminal.
@@ -351,10 +351,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | DLI→SGN | Flight | **BOUGHT** — VietJet VJ 361 (Nov 25, dep 07:55 → arr 08:50) | **paid** | 55 min |
 | SGN→PQC | Flight | **BOUGHT** — VietJet VJ 327 (Nov 25, dep 12:35 → arr 13:35) | **paid** | **connection 3h45 at SGN — autotransferência, protected**; collect/recheck bags; Tân Sơn Nhất |
 | PQC→PP | Ferry + van/bus | **12Go combined — BOUGHT** (Nov 28, dep 09:00 → arr 17:00) | $25–32 | ~8h via Bai Vong→Hà Tiên + **Xa Xia–Prek Chak**; one operator handles ferry + border + transfer |
-| PP (KTI)→DPS | Flight | **BOUGHT** — AirAsia KT163 + AK368 (Nov 30, dep 07:35 → arr 16:40) | **paid** | via **KUL**: 3h connection at KLIA2, **autotransferência (protected)** — collect/recheck bags; Malaysia visa-free for BR; **8h05 elapsed** (9h05 clock) |
-| **DPS→GRU** | Long haul | **BOUGHT** — DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 · DXB 09:05 → GRU 17:35 Dec 2 | **paid** | 3 legs via CGK + DXB; **DPS→CGK = domestic**, then **CGK intl departure** (likely different terminal — Skytrain transfer; **Jakarta connection 21:15→00:15 = 3h**); Indonesia exit at DPS Dec 1; → BSB feeder, home late Dec 2 |
+| PP (KTI)→DPS | Flight | **BOUGHT** — AirAsia KT163 + AK368 (Nov 30, dep **07:20** → arr 16:40) | **paid** | via **KUL**: **3h05 connection** at KLIA2, **autotransferência (protected)** — collect/recheck bags; Malaysia visa-free for BR; **8h20 elapsed** (9h20 clock) |
+| **DPS→GRU** | Long haul | **BOUGHT** — DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 · DXB 09:05 → GRU 17:35 Dec 2 | **paid** | 3 legs via CGK + DXB; **DPS→CGK = domestic**, then **CGK intl departure** (likely different terminal — Skytrain transfer; **Jakarta connection 21:15→00:15 = 3h**); **Indonesia exit at CGK (DPS leg is domestic)**; → BSB feeder, home late Dec 2 |
 
-**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on a single booking** (5J280 dep DPS 08:35 · arr MNL 12:45 · **2h10 connection, same T3** · 5J641 arr PPS 16:25). (2) El Nido→HCMC **BOUGHT via CEBU** (Nov 16, ENI 10:45 → CEB 12:30 · **6h05 Cebu connection** · CEB 18:35 → SGN 20:45) — **autotransferência but PROTECTED**; collect/recheck bags + T1→T2; not via Manila. (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT via KUL** (Nov 30, dep 07:35 → arr 16:40, **3h KLIA connection, protected**) — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — both **visa-free for Brazilians** (30-day tourism entry, no visa/e-VOA needed; worst case at DPS = VoA on arrival ~$35); Bali Levy + arrival card ×2. (6) **All three long connections are autotransferências** (Cebu 6h05 · SGN 3h45 · KLIA 3h) — each has a **connection-protection guarantee**, but bags are **not** through-checked: collect + re-check at every hub.
+**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on a single booking** (5J280 dep DPS 08:35 · arr MNL 12:45 · **2h10 connection, same T3** · 5J641 arr PPS 16:25). (2) El Nido→HCMC **BOUGHT via CEBU** (Nov 16, ENI 10:45 → CEB 12:30 · **6h05 Cebu connection** · CEB 18:35 → SGN 20:45) — **autotransferência but PROTECTED**; collect/recheck bags + T1→T2; not via Manila. (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT via KUL** (Nov 30, dep **07:20** → arr 16:40, **3h05 KLIA connection, protected**) — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — both **visa-free for Brazilians** (30-day tourism entry, no visa/e-VOA needed; worst case at DPS = VoA on arrival ~$35); Bali Levy + arrival card ×2. (6) **All three long connections are autotransferências** (Cebu 6h05 · SGN 3h45 · KLIA 3h05) — each has a **connection-protection guarantee**, but bags are **not** through-checked: collect + re-check at every hub.
 
 ---
 
@@ -374,7 +374,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Nov 22 | Mui Ne→Da Lat bus | 07:50 (BOUGHT) | Minhon → bus office (~2 min walk) | 5 min | 07:35 | **~06:45–07:00** |
 | Nov 25 | **DLI→SGN→PQC** | 07:55 (BOUGHT) | Dalat Peace (Cam Ly) → DLI (35–40 min) | 40 min Grab | 06:40 (+1h15) | **~05:10–05:25** 🥶 |
 | Nov 28 | **PQC→PP 12Go combined** | 09:00 (BOUGHT) | 9Station (Duong To) → ferry port pickup | pickup at hostel | 08:00 (arrival ~17:00) | **~07:00–07:15** |
-| Nov 30 | PP→DPS | 07:35 (BOUGHT) | Mettavary (Tonle Bassac) → KTI (30–40 min) | 45–60 min Grab | 05:05 (intl +2h30) | **~03:45–04:00** |
+| Nov 30 | PP→DPS | 07:20 (BOUGHT) | Mettavary (Tonle Bassac) → KTI (30–40 min) | 45–60 min Grab | 04:50 (intl +2h30) | **~03:50–04:05** |
 
 **Night departures (set no morning alarm):** Oct 31 GRU 01:30 (BSB→GRU feeder the evening before) · **Dec 1 DPS 20:15 → CGK** (keep the day free, be at DPS by ~18:15).
 
@@ -509,7 +509,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 29 · Nov 27 | **SOUTH island + buffer** — Sunset Town (An Thoi) + Viet Puppetry show · or beach / hotel area · night squid fishing (optional) ✅ | Phú Quốc |
 | Day 30 · Nov 28 | **Phú Quốc→Phnom Penh 12Go combined BOUGHT** (09:00→17:00) · riverside evening | Phnom Penh |
 | Day 31 · Nov 29 | Kampong Speu shooting range (rocket launcher) ⚠️ | Kampong Speu → Phnom Penh |
-| Day 32 · Nov 30 | **Phnom Penh→DPS BOUGHT** (07:35→16:40) · settle near DPS | Phnom Penh → Bali |
+| Day 32 · Nov 30 | **Phnom Penh→DPS BOUGHT** (07:20→16:40) · settle near DPS | Phnom Penh → Bali |
 | Day 33 · Dec 1 | Bali buffer day · **DPS dep 20:15 → CGK 21:15** (return long-haul starts) | Bali (Denpasar) |
 | Day 34 · Dec 2 | CGK 00:15 → DXB 05:30 → GRU 17:35 → BSB feeder · home | In transit → Home |
 
@@ -657,13 +657,324 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ---
 
-# Pre-Trip Checklist (pointer)
+# Restaurants & Food per City
 
-Full details + vaccines/forms in **[SE Asia 2026 - Scratchpad.md](./SE%20Asia%202026%20-%20Scratchpad.md)**.
+> Fresh research (Jan 2026), **re-screened 22 Oct 2026** against public reviews. Signature local dishes, legendary spots, and worth-it splurges. Prices = pp estimates, USD, mid-2026 low-season rates; the ordered table below keeps local currency. 🥇 = top pick for the stay. Existing plan picks noted where relevant.
+>
+> **Distance column** is measured from the hotel we actually sleep in that city (named in each heading). No `~` = **measured walking route** from the 22 Oct 2026 survey; `~` = **estimate** from the address (straight-line/reasoned, ±20%) — use Grab/GoJek for anything over ~1.5 km in heat.
+
+## 🍜 What to eat where — the dish comes before the venue
+
+Local food isn't the same everywhere here, and several dishes are **time-bound** (breakfast-only, sells out, made to order). Learn the dish name and you can eat well in any of the 27 venues — or in a random warung that isn't on the list.
+
+| Place | Order this | Where/how | Timing & caution |
+|---|---|---|---|
+| **Jakarta** | **Soto Betawi** (coconut-milk beef soup) · **kerak telor** (charcoal duck-egg rice omelette) · **nasi uduk** · **martabak manis** · es selendang mayang | Kerak telor only from the **cart actively cooking** on Fatahillah Square; soto Betawi in a proper rumah makan, not a mall | Kerak telor at night; martabak after 18:00. Skip pre-made kerak telor sitting under a lamp |
+| **Ubud · Bali** | **Babi guling** set (crispy skin + lawar + sausage + soup) · **bebek betutu** · **sate lilit** · **nasi campur Bali** · **jukut ares** · sambal matah · jaje Bali | Any busy warung; betutu often needs ordering the day before | **Babi guling is a morning–early-afternoon dish** — most places are sold out by 14:00. Lawar comes in a **raw-blood version** — ask for the white one if that worries you |
+| **Banyuwangi · Osing** | **Sego cawuk** (rice + pindang egg + trancam + sambal belimbing + semanggi) · **rujak soto** (veg rujak + soto broth) · **pecel pitik** (shredded grilled free-range chicken, raw coconut spice) · **sego tempong** (raw chili "slap") · **botok tawon** (bee larvae, adventurous) | Sego cawuk = breakfast shops (e.g. Bu Sri, Jl. Kyai Saleh 14, 05:30–11:00); rujak soto = lunch (Pondok Rujak Soto, Jl. Basuki Rahmat 113, since the 1950s); pecel pitik in **Kemiren** (Osing village) | Dry, Muslim city — **no alcohol**, and the good breakfast places close by 11:00. Sego tempong is genuinely brutal heat |
+| **Kuta · South Bali** | Same Balinese canon + **Jimbaran grilled seafood** · **nasi jinggo** (small night snack) · **ayam betutu** | Nasi jinggo from evening carts; Jimbaran = pick your fish, then agree the kilo price | Jimbaran is the most overpriced seafood in Bali — you're paying for the beach tables |
+| **Puerto Princesa · Palawan** | **Tamilok** (raw woodworm in vinegar) · **kinilaw na tanigue** (ceviche) · **croc sisig / croc adobo** · **lato** (sea grapes) · grilled pampano | Kinabuchs for the exotics; Baywalk paluto for cheap fresh fish | Tamilok and kinilaw are **raw** — highest-risk items on the whole trip if you're being cautious; skip if in doubt |
+| **El Nido** | **Grilled catch by weight** + kinilaw · stuffed squid · **bird's nest soup** (the town's namesake) | Public-market **paluto** (buy fish, pay a small cooking fee) beats Calle Hama on value | Never order coconut crab (protected/illegal). Agree weight and price before it hits the grill |
+| **Ho Chi Minh City** | **Phở** · **bánh mì** · **cơm tấm** (broken rice + grilled pork + egg cake) · **bún bò Huế** · **bánh xèo** · **ốc** (shellfish) · **cà phê sữa đá** · **chè** | Phở = breakfast; cơm tấm = lunch; bánh mì = any time; ốc = evening beer food | Skip the "famous" bánh mì queue if the line exists for photos — the point is a hot baguette, not the brand |
+| **Mui Ne · Phan Thiết** | **Bánh canh chả cá** (fish-cake noodle soup) · **lẩu tha** (herring hotpot) · **bánh căn** · scallops with scallion oil · crab | Bánh canh = breakfast; seafood from the tank, priced by weight | **Always agree the kilo price before cooking** — this is where bill surprises happen |
+| **Da Lat** | **Bánh căn** (clay-mould rice cakes) · **bánh tráng nướng** ("VN pizza") · **nem nướng** (roll-your-own) · **lẩu bò / lẩu gà lá é** (hotpot) · **bánh mì xíu mại** · artichoke tea · avocado ice cream | Night market + the carts on Nguyễn Văn Trỗi | Cold and wet in Nov = hotpot weather; bánh căn is often **lunch-onwards**, not early breakfast |
+| **Phú Quốc** | **Bún quậy** (DIY sauce, island original) · **bún kèn** (fish-coconut-lemongrass noodles) · **gỏi cá trích** (raw herring salad you roll yourself) · **ghẹ Hàm Ninh** (flower crab, salt-pepper-lime) · **nhum nướng** (grilled sea urchin) · pepper crab · sim wine | Bún quậy + bún kèn = breakfast/lunch; crab at Hàm Ninh stilt restaurants; urchin at the night market | **Raw herring salad and crab blood are the risky local classics** — skip if cautious. Check crab weight and gender, not "price per plate" |
+| **Phnom Penh** | **Fish amok** (steamed coconut curry) · **lok lak** (shaken beef) · **saraman** (Muslim Khmer curry) · **kuy teav** (noodle breakfast) · **num pang** · **prahok ktis** · fried tarantula (Skuon, if brave) | Proper Khmer kitchens (Kravanh, Banteay Srey, Malis); kuy teav from morning stalls | Riverside "amok" is often sweet and bland — pay for a real kitchen or don't bother |
+
+## 📍 Closest to your bed — 27 screened venues, nearest first
+
+Walking distance from **the hotel you actually sleep in in that city** (drive noted where a walk isn't realistic). All 27 passed the 22 Oct 2026 review screen; ⚠️ = hours/status caveat to confirm locally. **⭐ = genuinely good food, worth planning the day around** (not hype-driven) · **🟡 = famous/atmospheric, but you go for the setting or the convenience, not the cooking** · untagged = solid filler.
+
+| # | Venue | Base (city) | Walk | Meal pp | Hours | Note |
+|---|---|---|---|---|---|---|
+| 1 | **Warung Koffie Batavia** | Stark · Kuta | **on site** | IDR 75–150k | 07:00–22:00 | Hotel restaurant — zero-effort fallback 🟡 |
+| 2 | **Beras Merah Waroeng & Bar** | Adhi Jaya · Kuta | **on site** | IDR 150–250k | 07:00–23:00 | Nov 10 dinner; breakfast opens after the 05:00 exit 🟡 |
+| 3 | **JOYO Tahu Campur** | HHHH · Banyuwangi | **43 m** · 1 min | IDR 25–50k | 15:00–21:00 (Sun 15:30) | ⚠️ No lunch service — early dinner only ⭐ |
+| 4 | **Khmer Women' Food** | Mettavary · Phnom Penh | **110 m** · 1 min | USD 6–12 | 10:00–22:30 | Ideal for the 17:00 arrival ⭐ |
+| 5 | **Malis (Norodom)** | Mettavary · Phnom Penh | **240 m** · 3 min | USD 25–40 | 06:30–22:30 | Splurge; eat early before the 07:20 flight ⭐ |
+| 6 | **Taste of India** (Đông Vui) | MiNhon · Mui Ne | **450 m** · 6 min | VND 120–250k | 10:30–22:00 | Lunch from 11:00, after the 09:30 arrival ⭐ |
+| 7 | **VerDe** | Devayn's · El Nido | **500 m** · 7 min | PHP 400–700 | 07:00–21:00 ⚠️ | Best value of the three El Nido picks ⭐ |
+| 8 | **Grounded (town branch)** | Devayn's · El Nido | **500 m** · 7 min | PHP 200–400 | **06:00**–23:00 | ☕ The only place open before the 10:45 flight (Nov 16) ⭐ |
+| 9 | **Piece of Sky** | Devayn's · El Nido | **500 m** · 7 min | PHP 1,500–2,500 | 10:00–22:00/23:00 ⚠️ | Optional splurge; same building as VerDe 🟡 |
+| 10 | **PUKAKO by Paddyfield** | Diara's · Ubud | **600 m** · 9 min | IDR 75–150k | 07:00–21:00 | Opens 07:00 → best Ubud breakfast ⭐ |
+| 11 | **Den Long** | SG Cozy2 · HCMC | **600 m** · 8 min | VND 200–350k | 11:00–22:00 | Replaces the dropped Huỳnh Hoa stop ⭐ |
+| 12 | **Warung Damar** | Stark · Kuta | **1.0 km** · 14 min | IDR 150–250k | 11:00–22:00 | Nov 30 dinner / Dec 1 lunch ⭐ |
+| 13 | **EL Cafe** | MiNhon · Mui Ne | **1.0 km** · 14 min | VND 100–220k | ⚠️ irregular | Call ahead; confirm current address |
+| 14 | **Trang's Cookery** | Dalat Peace · Da Lat | **1.2 km** · 18 min | VND 100–200k | 08:00–21:30 | Arrival lunch (11:30) + Nov 24 dinner ⭐ |
+| 15 | **Sweet Orange Warung** | Diara's · Ubud | **1.2 km** · 18 min | IDR 75–125k | 09:00–21:00 | Rice-field footpath; Day 5 lunch ⭐ |
+| 16 | **Artist Alley** | Dalat Peace · Da Lat | **1.2 km** · 17 min | VND 150–300k | 11:00–21:00 | Arrive by 19:30 |
+| 17 | **Dicarik Warung** | Diara's · Ubud | **1.3 km** · 20 min | IDR 50–100k | 09:00–**18:00** | ⚠️ Lunch only — not a dinner option |
+| 18 | **Haim Chicken (Manalo)** | Lokal Hut · Puerto Princesa | **1.4 km** · 20 min | PHP 300–600 | until 22:00 ⚠️ | Arrival dinner (16:25); short ride ⭐ |
+| 19 | **Saigonese Eatery** | 9Station · Phú Quốc | **1.4 km** · 19 min | VND 200–400k | 08:00–22:00 | Arrival dinner (13:35) ⭐ |
+| 20 | **The Home Pizza** | 9Station · Phú Quốc | **1.5 km** · 19 min | VND 200–350k | 11:00–22:00 | Nov 27 buffer-day dinner |
+| 21 | **Eightynine Café** | Lokal Hut · Puerto Princesa | **1.7 km** · 23 min | PHP 350–650 | 08:00–22:00 | Post-Underground River dinner ⭐ |
+| 22 | **Hum Lounge** | SG Cozy2 · HCMC | **1.8 km** · 25 min | VND 250–450k | 10:00–22:00 | Museum-day lunch; à la carte branch only ⭐ |
+| 23 | **Palm Sugar Cafe** | HHHH · Banyuwangi | **2.6 km** · 38 min (ride) | IDR 50–100k | ⚠️ unconfirmed | Verify hours before going |
+| 24 | **Warung Biru** | HHHH · Banyuwangi | **2.8 km** · 38 min (ride) | IDR 50–100k | 09:00–22:00 | Post-Ijen dinner (Nov 9) ⭐ |
+| 25 | **Hiên Charcoal Kitchen** | 9Station · Phú Quốc | **3.2 km** · 43 min (Grab) | VND 200–450k | 15:00–22:00 | Dinner only ⭐ |
+| 26 | **Café Batavia** | ODST · Jakarta | **22.1 km** · 27 min drive | IDR 200–350k | 07:00–24:00 ⚠️ | Only as part of the Kota Tua block 🟡 |
+| 27 | **#JMT Korea (Grand World)** | 9Station · Phú Quốc | **22.5 km** · 28 min drive | VND 250–500k | 11:00–22:00 | Nov 26 north-island dinner (with the Safari) |
+
+**Patterns that matter:**
+- **Before 07:30:** only **Grounded (06:00)** and **PUKAKO (07:00)** are open — every other early departure needs the hotel's packed breakfast.
+- **Not dinner:** JOYO (15:00–21:00) and Dicarik (until 18:00).
+- **Needs a ride:** Palm Sugar, Warung Biru, Hiên (Grab), and the two drive-only options.
+- **Screening caveat — how much this is worth:** the screen is **bounded** — exact-name searches on two engines + the review text that was publicly accessible on 22 Oct 2026. **Absence of a complaint proves nothing**; search indexing and review pages are incomplete. Equally, the **exclusions are precautionary, not verdicts**: one angry review (some are old — e.g. a 2015 post) is not causation, and a venue can be safe on a good day and not on a bad one. Treat this list as "fewer known red flags", not "certified safe".
+- **Still unscreened (the actual risk points):** tour/boat lunches (**El Nido Tours A/B**), the **Underground River buffet**, the **canyoning lunch**, the **Vinpearl Safari lunch**, airport/airline meals, and every stall outside the 27 names.
+
+**⭐ vs 🟡 — the honest verdict** (hype ≠ bad; it just means "don't build the day around the food"):
+
+| Tag | Venue | Why |
+|---|---|---|
+| ⭐ | **JOYO** (Banyuwangi) | Local institution 40 m from the hostel at ~$2 — best value-per-metre of the trip |
+| ⭐ | **Warung Biru** (Banyuwangi) | Fresh fish and rice, priced for locals, no tourist markup |
+| ⭐ | **PUKAKO** (Ubud) | Real breakfast + properly made coffee, consistent — not a photo set |
+| ⭐ | **Sweet Orange Warung** (Ubud) | Honest warung cooking, and the rice-field walk is part of the meal |
+| ⭐ | **Khmer Women' Food** (Phnom Penh) | Training restaurant: honest Khmer cooking at $6–12, 110 m from the hotel |
+| ⭐ | **Malis** (Phnom Penh) | The splurge that actually delivers — the benchmark for modern Khmer |
+| ⭐ | **Trang's Cookery** (Da Lat) | Home-style, generous, well reviewed by Vietnamese diners, not just tourists |
+| ⭐ | **Den Long** (HCMC) | Reliable home cooking, fair price, no scene — exactly what a transit day needs |
+| ⭐ | **Hum Lounge** (HCMC) | Good kitchen in a calm room; à la carte is the value move |
+| ⭐ | **Taste of India** (Mui Ne) | Chef-driven and genuinely good — good Indian is rare on this coast |
+| ⭐ | **VerDe** (El Nido) | Best value in town; the place locals point you to |
+| ⭐ | **Grounded** (El Nido) | Real specialty coffee (rare in El Nido) **and** the only 06:00 option before the flight |
+| ⭐ | **Haim Chicken** (Puerto Princesa) | Local chain, consistent inato — better than the tourist seafood strip |
+| ⭐ | **Eightynine Café** (Puerto Princesa) | Real coffee + solid plates; the sane post-tour dinner |
+| ⭐ | **Saigonese Eatery** (Phú Quốc) | Solid modern Vietnamese at a fair price |
+| ⭐ | **Hiên** (Phú Quốc) | Charcoal kitchen, dinner-only, worth the Grab |
+| ⭐ | **Warung Damar** (Kuta) | Reliable Balinese plates at fair prices — safe last-night choice |
+| 🟡 | **Café Batavia** (Jakarta) | You pay for the 1805 room and the balcony; the food is average at ~3× local price |
+| 🟡 | **Piece of Sky** (El Nido) | View and price tag drive the reputation, not the cooking |
+| 🟡 | **Calle Hama Night Market** (El Nido) | Convenient, but slower and pricier than public-market **paluto** |
+| 🟡 | **Kinabuchs** (Puerto Princesa) | Famous for tamilok/croc sisig; the cooking itself is average |
+| 🟡 | **Made's Warung** (Kuta) | 1969 icon that is now tourist-average — go for the history, not the plate |
+| 🟡 | **Squidos** (El Nido) | Famous, slow, inconsistent — VerDe does the same for less |
+| 🟡 | **Warung Babi Guling Ibu Oka** (Ubud) | The Bourdain fame outlived the cooking; locals now queue elsewhere |
+| 🟡 | **Dinh Cau Night Market** (Phú Quốc) | Tourist-heavy overall — the exception is the **bún kèn stall (#56)** |
+| 🟡 | **El Nido Boutique Artcafe** (El Nido) | Postcard setting, mediocre food |
+| 🟡 | **Romduol Khmer** (Phnom Penh) | Tourist-facing menu, but the 5–8 PM happy hour is real value |
+| 🟡 | **Warung Koffie Batavia / Beras Merah** (Kuta) | On-site convenience — that's the entire pitch |
+
+> **⭐-grade places outside the 27** (worth the detour, in the per-city tables below): **Locavore NXT** (Ubud — genuinely world-class, book weeks ahead) · **Ăn Anan** (HCMC — Michelin star, real cooking) · **Kravanh** and **Banteay Srey** (Phnom Penh — best Khmer kitchens) · **Paon Bali** (Ubud cooking class — the market tour is the point) · **Phở Lệ**, **Bánh Xèo 46A**, **Cục Gạch Quán** (HCMC) · **Bún Quậy Kiên Xây** and **bún kèn Cô Tư** (Phú Quốc).
+
+**Removed from the plan after screening** (attributable review allegations — not proof of causation): **Bánh Mì Huỳnh Hoa**, **The Warung at Alila Villas Uluwatu**, **Ka Lui**, **Badjao Seafront**, and the Vinpearl Safari restaurants. **Warung Mbok Sul** (Banyuwangi) is out for a different reason — closed and reopened under a new owner in Sept 2026, so its kitchen isn't stable enough for a fixed plan.
+
+## 🚨 Foods to treat with care + heartburn (azia): what it feels like and how to defuse it
+
+This route is **chilli-forward, coconut-heavy, fried-heavy and coffee-strong** — the food is the point, but the same three weeks can hand you acid reflux, a sour stomach or a 24-hour gut reset. Rule of thumb: **the dish is not the problem, the dose and the timing are.**
+
+### The usual triggers, mapped to what we actually eat
+
+| Trigger | Where it shows up on this trip | Effect | How to defuse it |
+|---|---|---|---|
+| **Raw chilli sambal** | Banyuwangi **sego tempong** ("slap rice") and sambel pecak · Balinese **sambal matah** · HCMC **bún bò Huế** · Phú Quốc **pepper crab** (local pepper is hot) | Immediate burning mouth → reflux, stomach ache | Ask **"tidak pedas"** (ID) / **"không cay"** (VN) / **"not spicy"**; sambal and dipping sauce **on the side**, taste first |
+| **Coconut milk + fat** | **Soto Betawi** · Balinese **babi guling** set (fatty skin, lawar) · Khmer **amok** · **lẩu** hotpots · **bánh xèo** (fried) · **sisig/lechon** | Slow emptying, heaviness, reflux 1–3 h later | Eat it at **lunch**, not before a night bus or a 00:00 Ijen pickup; halve the rice, skip the second fried item |
+| **Acid + fermented** | **Rujak** (tamarind + petis) · **kinilaw** and **tamilok** (vinegar/lime) · **prahok ktis** (fermented fish) · Vietnamese **nước mắm** dips · pickled vegetables | Sour burps, burning, sometimes loose stool | Don't stack acid on an empty stomach; bread/rice first, sauce in small dips |
+| **Very strong coffee** | **Cà phê sữa đá** (robusta, condensed milk) · **kopi tubruk** · Balinese/Da Lat espresso · iced coffee with ice | Relaxes the valve → reflux; caffeine + heat = dehydration | One coffee, **after food**, and water alongside; switch to tea on trek/flight days |
+| **Alcohol** | Bia hơi / Saigon beer · Bintang · **sim wine** (Phú Quốc) · riverside cocktails | Reflux, worse dehydration, worse jet lag | Keep it to the evening **after** eating, never on an Ijen/early-flight night; alternate with water |
+| **Ice + tap-water drinks** | Street stalls everywhere, especially **es** drinks, smoothies, halo-halo, cane juice | Not reflux — **infection risk** | Bottled/boiled water, **no ice** at street stalls, sealed bottles only; hot tea is always safe |
+| **Big late dinner** | Arrival nights (PPS 16:25, SGN 20:45, PQC 13:35), night markets at 21:00+ | Night reflux, poor sleep before early flights | Eat the main meal at midday on travel days; keep the late meal small and low-fat |
+
+### "Azia" vs food poisoning — don't confuse them
+
+| | **Heartburn / azia (reflux)** | **Food poisoning / gut infection** |
+|---|---|---|
+| Feels like | Burning **behind the breastbone**, rising to the throat; sour or bitter taste; bloating; dry cough or hoarseness at night | Cramping abdominal pain, **diarrhoea and/or vomiting**, often fever, weakness |
+| Timing | 30–120 min after eating, worse lying down or bending | 1–48 h after the meal (often 6–24 h) |
+| What helps | Sitting up, loose waistband, antacid/alginate, smaller meals, water | **ORS** above all, rest, bland food when tolerated; loperamide only if you must travel |
+
+**Red flags — stop self-managing and get medical help:** chest pain that spreads to the **jaw/arm** or comes with sweating and breathlessness (rule out the heart) · vomiting blood or **black/tarry stool** · inability to keep fluids down for >12 h · high fever with bloody diarrhoea · pain so severe you can't stand straight · symptoms that persist >48 h.
+
+### Practical protocol for the whole trip
+1. **First 48 h:** nothing raw, nothing from a cart that isn't cooking in front of you — let the gut acclimatise; then expand.
+2. **One new risky thing per day**, never two (e.g. don't do raw herring salad *and* street ice on the same afternoon).
+3. **Hydrate with ORS sachets**, not just water, on trek/bus/flight days (Ijen night, Nov 16, Nov 25, Nov 30).
+4. **Don't lie down for 2–3 h** after a big meal; on night buses and the red-eye, keep the seat upright.
+5. **Pharmacy kit:** antacid/alginate, ORS, loperamide, a PPI **only if your doctor prescribed one**, plus any personal meds in original packaging with the prescription.
+6. **Ask, don't assume:** "no ice", "not spicy", "well done", "no MSG" are all normal requests — say them in the local phrasing above.
+
+## Jakarta (Day 3 · Kota Tua / Glodok stopover focus)
+
+| Type | Name | Price pp | From hotel (ODST) | Notes |
+|---|---|---|---|---|
+| Street food | **Kota Tua kerak telor carts** (Fatahillah Square) | ~$1.50 | ~22 km · 30–40 min drive | Betawi charcoal-cooked duck-egg + glutinous-rice omelette — the Kota Tua icon; cash only, late-afternoon/evening |
+| Street food | **Glodok Chinatown crawl** (Gang Gloria / Petak Sembilan) | $2–8 | ~22 km · 30–40 min drive | Peranakan classics: bakmi, nasi tim ayam, siomay; Rujak Shanghai Encim (since 1950s); stalls mostly close ~19:00, liveliest weekends |
+| Street food | **Martabak Pecenongan 65A** | $4–6 | ~20 km · 28–35 min drive | Jakarta's legendary thick sweet martabak (choc/cheese/peanut), made in front of you; ~18:00–00:00; ~15–20 min from Kota Tua |
+| 🟡 Restaurant | **Cafe Batavia**, Fatahillah Square | $10–20 | **22.1 km · 27 min drive** | 1805 Dutch-colonial landmark over the square; coconut-based nasi goreng Roa + cocktails; 2nd-floor balcony best at night; WhatsApp a window table |
+| Restaurant | **Soto Betawi H. Ma'ruf** (Jl. Pramuka 64) | $3–5 | ~24 km · 35–45 min drive | Betawi beef soup legend since the 1940s — milky-coconut broth + beef satay in candlenut sauce; ~25 min cab detour, worth it |
+| Café | **Kopi Es Tak Kie** (Gang Gloria, Glodok) | ~$2 | ~22 km · 30–40 min drive | Iced-coffee institution since 1927; opens 06:00–14:00 only — ideal dawn stop before departure |
+| Tour | **Private street-food night tour** (GetYourGuide) | ~$53 | **pickup at hotel** | 4.5-hr private evening tour, 4.8★, pickup included: Fatahillah + Glodok + soto Betawi, martabak, durian; easiest airport→city→food package |
+
+## Ubud (Days 4–8)
+
+| Type | Name | Price pp | From hotel (Diara's Cottage) | Notes |
+|---|---|---|---|---|
+| 🟡 Warung (legend) | **Warung Babi Guling Ibu Oka 3** (Jl. Tegal Sari 2) | ~$5 | ~1.1 km · 15 min walk | Bourdain-filmed babi guling institution; full set = crispy skin, lawar, blood sausage + soup; arrive before noon, sells out by 18:00 |
+| Warung (hidden) | **Warung Babi Guling Ibu Suna** (Sayan, north Ubud) | ~$3 | ~2.2 km · 30 min walk / 6 min ride | No-frills roadside babi guling with serious local cred; juicier, cheaper, off the tourist track |
+| Warung | **Warung Makan Bu Rus** (Jl. Suweta 9) | $3–6 | ~1.4 km · 20 min walk | Hidden garden of bamboo huts; nasi campur ayam, bebek goreng; house sambal a must; daily 10:30–22:00 |
+| Warung (hidden) | **Warung Gauri** (Jl. Bisma 25) | $4–7 | ~1.3 km · 19 min walk | Tiny alley warung, upstairs seats over rice paddies; smoked duck + live music ~7pm; cash preferred |
+| Warung | **Warung Biah Biah** (Jl. Goutama) | $2–4 | ~1.1 km · 16 min walk | Home-cooked staple; nasi goreng babi kecap is the daily favorite; go early |
+| Night market | **Gianyar Night Market** | $5–10 | ~13 km · 25–30 min drive | The no-frills Balinese night food market: sate lilit, babi guling, ayam betutu, jaja sweets; locals flood in from ~17:30 |
+| Tour | **Gianyar Night Market Food Tour** (GetYourGuide, 17+ tastings) | ~$30 | **pickup at hotel** | 4.6★ evening tour w/ pickup + local guide — safer + easier than DIY at night |
+| Cooking class | **Paon Bali Cooking Class** | ~$30 | ~4.5 km · 15 min drive (free pickup) | 5-hr small-group family-compound class incl. market tour, ~9 dishes; free Ubud pickup; 5.0★ on Cookly |
+| Splurge | **Locavore NXT** (Lodtunduh) | $110–140 | ~6 km · 20 min drive | Bali's most celebrated tasting menu, ≤20 courses from their own food forest; #44 Asia's 50 Best 2026 — reserve *weeks* ahead |
+| Splurge | **Hujan Locale** (Jl. Sri Wedari 5) | $15–30 | ~1.1 km · 16 min walk | Will Meyrick's relaxed-modern Indonesian; "Feed Me" menu ~425k++; adults-only, book advised |
+
+## Banyuwangi (Days 9–11 · Muslim city, alcohol scarce)
+
+| Type | Name | Price pp | From hotel (HHHH Hostel) | Notes |
+|---|---|---|---|---|
+| Breakfast (icon) | **Sego Cawuk Bu Mantih** (Jl. KH Wahid Hasyim) | ~$1.50 | ~1.8 km · 6 min ride | Banyuwangi's iconic rice + pindang + rujak-dressing + trancam; 06:00–11:00 closed Mon; locals queue, sells out |
+| Warung | **Warung Soto Pak Salim** (Jl. A Yani 18) | ~$1.50 | ~1.3 km · 5 min ride | Legendary thick soto ayam kampung + soto daging; 06:30–22:30 — any-time backstop |
+| Restaurant | **Rawon Bik Ati** (Jl. A Yani; since 1948) | $3–4 | ~1.4 km · 5 min ride | Deep black keluak beef rawon institution; order rawon buntut goreng; 07:30–21:00 |
+| Warung (legend) | **Warung Lya** (north ring road) | ~$1.50 | ~4.5 km · 12 min ride | 30-yr, 3-generation lodeh koro pedas (spicy koro-bean stew); **open 24h** — post-Ijen lifesaver |
+| Post-trek | **Ijen Shelter** (Jl. Raya Ijen, Licin) | ~$2.50 | ~14 km · 30 min drive | Signature nasi lodhog + Banjarsari village dishes right after Paltuding; also treehouse lodging |
+| Street snack | **Tahu Walik night stalls** | ~$1 | ~1 km · 13 min walk | Classic Osing inverted stuffed fried tofu; look near the city square after dark |
+| Café/Resto | **Osing Deles Cafe & Resto** (Jl. KH Agus Salim 12A) | $3–5 | ~1.7 km · 7 min ride | Nasi ayam tempong, kelepon deles, live Osing music; 09:00–23:00 relaxed evening |
+| 🥇 Warung | **JOYO Tahu Campur** (Jl. Trunojoyo) | ~$2 | **43 m · 1 min walk** | New top pick — tahu campur/tahu tek + lontong kikil, the closest real meal to the hostel; **15:00–21:00 only** (Sun from 15:30) |
+| ❌ Removed | ~~Warung Mbok Sul~~ (Jl. Brigjen Katamso 6) | — | ~2 km · 7 min ride | Closed and reopened under a new owner in Sept 2026 — kitchen not stable enough for a fixed plan; do not rely on it |
+| Warung | **Palm Sugar Cafe Resto** | $3–6 | **2.6 km · 38 min walk** | Lunch option only if hours confirm; ⚠️ unverified schedule |
+| Seafood | **Warung Biru** (Kapten Piere Tendean) | $3–6 | **2.8 km · 38 min walk** | Post-Ijen dinner (Nov 9) — cooked fish/rice, priced by weight; 09:00–22:00 |
+
+## Kuta / Seminyak / South Bali (Day 12 near DPS + Nov 30–Dec 1 Stark base)
+
+| Type | Name | Price pp | From hotel (Adhi Jaya Nov 10 · Stark Nov 30–Dec 1) | Notes |
+|---|---|---|---|---|
+| On site | **Beras Merah Waroeng & Bar** (Adhi Jaya) | $9–16 | **0 m · on site** | Nov 10 dinner after the Banyuwangi transfer; breakfast starts after the 05:00 exit |
+| On site | **Warung Koffie Batavia** (Stark) | $5–10 | **0 m · on site** | Hotel café — Dec 1 breakfast/lunch fallback |
+| Restaurant | **Warung Damar** (Bali Garden Beach Resort) | $10–16 | **1.0 km · 14 min walk** | Reliable Balinese plates; Nov 30 dinner / Dec 1 lunch |
+| Warung | **Warung Melati** (Jl. Nakula 5) | $2–3 | ~3.5 km · 15 min ride | Where the local lunch crowd goes — fresh nasi campur/gado-gado; no greasy tourist fare |
+| Warung | **Warung Liku** (Jl. Nakula 19A) | $1.50–2 | ~3.6 km · 15 min ride | Best-value ayam betutu nasi campur on this coast + island's finest sambal matah; ~08:00–15:00, sells out |
+| Warung | **Warung Bunana** (Seminyak) | $2–3 | ~4.5 km · 17 min ride | Cult-status roti canai, mie ayam — tiny, buzzing, cash only |
+| Warung (legend) | **Babi Guling Pak Malen** (Jl. Sunset Road 554) | $4–6 | ~4.0 km · 15 min ride | Seminyak's most famous suckling pig; expect lines at lunch — come early, cash |
+| Warung (hidden) | **Warung Biyanglala** (behind Gelato Shop, Sunset Rd) | ~$2 | ~4.0 km · 15 min ride | One dish only: nasi kuah iga balung pork-rib soup; easy combo stop with Pak Malen |
+| Pre-flight (Nov 10) | **Ayam Betutu Khas Gilimanuk** (Tuban) | $4–6 | ~2.5 km · 10 min ride | Closest legendary betutu to DPS (~10 min) — kuah/goreng/bakar styles, 09:00–21:00; perfect last-night dinner |
+| 🟡 Restaurant (icon) | **Made's Warung** | $5–8 | ~1.5 km · 20 min walk (Kuta) / **in domestic terminal** | Bali icon since 1969; branch **inside Ngurah Rai domestic terminal** — handy for the 08:35 flight |
+| Beach bar | **La Plancha** (Double Six beach) | $8–12 | ~5 km · 18 min ride | Classic Seminyak sunset — rainbow beanbags; grab seats by ~16:00 |
+| Beach bar | **The Lawn** (Canggu) | $10–15 | ~9 km · 25–30 min ride | Mellow daybed lawn, sunset DJs — the laid-back Dec 1 buffer pick |
+| Splurge | **Sangsaka** (Jl. Pangkung Sari 100) | $50–65 | ~4.5 km · 17 min ride | Chef Kieran Morland's fire-led modern Indonesian; dinner only 17:30–23:00, reservations essential; rooftop bar DiAtas after |
+
+## Puerto Princesa (Days 13–14)
+
+| Type | Name | Price pp | From hotel (Lokal Hut B&B) | Notes |
+|---|---|---|---|---|
+| 🟡 Restaurant | **Kinabuchs Grill & Bar** (Rizal Ave) | $7–16 | ~1.1 km · 15 min walk | The Palawan exotics spot: tamilok (woodworm), croc sisig + adobo, grilled pampano; packed by 19:00, semi-outdoor (bring repellent) |
+| Restaurant | ❌ ~~Ka Lui Restaurant~~ | — | — | **Dropped** after the Oct 2026 review screen (attributable food-poisoning allegation in accessible reviews) — not a proven cause, but removed from the plan |
+| Seafood | **Paluto sa Puerto** (Baywalk fishport stalls) | $6–10 | ~1.5 km · 20 min walk | Buy the morning catch (~$3–7/kg) → attached kitchen cooks it (~$2/dish) — freshest and cheapest in town |
+| Seafood/BBQ | ❌ ~~Badjao Seafront Restaurant~~ | — | — | **Dropped** after the Oct 2026 review screen (same filter as Ka Lui) |
+| Night market | **Baywalk Night Market** | $3–8 | ~1.5 km · 20 min walk | Grilled meats, regional dishes, live bands; Irira-check Nov dates; fallback = standing Baywalk restaurants + Rizal Ave grills |
+| Restaurant | **Haim Chicken Inato** (Manalo St) | $4–8 | **1.4 km · 20 min walk** | Local charcoal inato grilled chicken + sinigang; big portions, family vibe, cheap |
+| Street food | **Rizal Ave & center carts** | $1–3 | ~0.8 km · 10 min walk | Isaw, balut, banana cue, kwek-kwek, halo-halo; near Baywalk after sunset; cash |
+| Café/dessert | **Noki Noks Savory House** | $2–5 | ~1.5 km · 20 min walk | Famous ultra-creamy loaded halo-halo — the PP cool-down treat |
+| Restaurant | **Eightynine Café Palawan** | $6–11 | **1.7 km · 23 min walk** | Post-Underground River dinner; real coffee, 08:00–22:00 |
+
+## El Nido (Days 15–17 · staying Devayn's Inn, Calle Hama)
+
+| Type | Name | Price pp | From hotel (Devayn's Inn) | Notes |
+|---|---|---|---|---|
+| 🟡 Night market | **Calle Hama Night Market** (existing pick) | $3–9 | ~0.5 km · 6 min walk | Stalls fire up ~18:00; pick squid/fish/prawns by weight, grilled to order + kinilaw + garlic rice; easiest meal for Devayn's guests |
+| Market + paluto | **Public Market carinderia + paluto** | $2–5 | ~0.7 km · 9 min walk | Point-and-serve adobo/sinigang/pinakbet ~₱80–180; buy morning catch (~$2/kg fish) + ~$1–1.50 paluto fee |
+| 🟡 Restaurant | **Squidos** (existing pick) | $5–13 | ~0.6 km · 8 min walk | Stuffed-squid specialty + seafood curry; choose your catch grilled/butter-garlic/chili; slow service — go hungry |
+| Restaurant | **UGAT Filipino Kitchen** (Calle Hama) | $6–12 | ~0.4 km · 5 min walk | Standout heritage spot: slow-braised kare-kare, inasal, adobo pâté; book or arrive before 19:00 in peak |
+| Restaurant (splurge) | **Barakuda Seafood** (Calle Hama) | $8–15 | ~0.5 km · 6 min walk | Town's top sit-down seafood table (Euro technique); open 17:00–midnight — one splurge-quality dinner |
+| 🟡 Café | **El Nido Boutique Artcafe** | $5–10 | ~0.7 km · 9 min walk | Farm-to-table over the bay — organic Filipino/Italian, live music, local craft beer; good slow lunch |
+| Sunset bar | **Republica Sunset Bar** (existing pick) | $5–12 | ~1.6 km · 20 min walk / 5 min trike | Corong-Corong sunset deck; west-facing tables fill fast Nov–Apr — send someone 30–45 min early |
+| Sunset bar | **SAVA Beach Bar** (NEW) | $5–12 | ~1.6 km · 20 min walk / 5 min trike | Relaxed beachside sunset alternative to Republica; fresh ceviche + live music most nights |
+| Restaurant | **VerDe** | $7–12 | **500 m · 7 min walk** | Best value in town — lunch/dinner pick |
+| Café | **Grounded 100% Arabica** (town branch) | $4–7 | **500 m · 7 min walk** | Open **06:00** — the only breakfast that works before the 10:45 flight |
+| Restaurant (splurge) | **Piece of Sky** | $25–45 | **500 m · 7 min walk** | View-driven splurge; same building lane as VerDe |
+
+## Ho Chi Minh City (Days 18–21 · D1 base, Pham Ngu Lao)
+
+| Type | Name | Price pp | From hotel (SG Cozy2, Pham Ngu Lao) | Notes |
+|---|---|---|---|---|
+| Restaurant | **Den Long** | $8–14 | **600 m · 8 min walk** | Home-cooked Vietnamese, family-run; our default dinner |
+| Pho (legend) | **Phở Lệ** (413–415 Nguyễn Trãi, D5) | $3–5 | ~4.5 km · 15 min Grab | Bib Gourmand southern-style pho since 1970; tô đặc biệt (tendon + beef balls); original ~05:30–midnight; AC branch 303 Võ Văn Tần |
+| Street food | **Bánh Xèo 46A** (46A Đinh Công Tráng, D1) | $5–8 | ~1.8 km · 22 min walk | Bourdain-famous 3-generation caramel crepe; split the 180k special; 10:00–14:00 & 16:00–21:00 |
+| Street food | **Bún Mắm Bạc Liêu** (257 Vĩnh Viễn, Q10) | $3–4 | ~5 km · 20 min Grab | Mekong fermented-fish noodle soup — shrimp, squid, catfish; sells out fast at lunch |
+| Seafood street | **Vinh Khánh "ốc" street** — Ốc Oanh (534 Vĩnh Khánh, Q4) | $10–18 | ~3.5 km · 15 min Grab | Saigon's famous 1-km seafood/snail street (Bourdain ate here): tamarind-butter snails, char-grilled scallops; 16:00–01:00 |
+| Restaurant | **Cục Gạch Quán** (10 Đặng Tất, D1) | ~$15 | ~1.5 km · 19 min walk | Bib Gourmand home-style VN in a koi-pond villa; family-style sharing, no fixed menu; book weekends |
+| Street food | **Mì Vịt Tiềm Thiêm Huy** (455 Nguyễn Trãi, D5) | $6–15 | ~4.5 km · 15 min Grab | Cantonese herbal braised-duck noodles since 1975 + há cảo dim sum; ~07:00–01:00, cash, go off-peak |
+| Café (icon) | **Cheo Leo** (109/36 Nguyễn Thiện Thuật, D3) | $1–2 | ~1.6 km · 20 min walk | Saigon's oldest cafe (1938) — net-filter robusta over charcoal; bạc xỉu on plastic stools, cash only |
+| Café | **The Café Apartment** (42 Nguyễn Huệ) | $3–6 | ~1.2 km · 15 min walk | 9-storey block of 40+ indie cafes; % Arabica 4F, Saigon Ơi balcony 5F; ~3,000đ lift fee, best 9–11 AM |
+| Dessert | **Chè 235** (Nguyễn Công Trứ alley, D1) | $1–3 | ~1.4 km · 18 min walk | 80-year dessert cart: sâm bổ lượng, snow-fungus with lotus seeds; weekend black-sesame soup sells out early; 18:00–midnight |
+| Restaurant | **Hum Lounge** (34 Võ Văn Tần) | $10–20 | **1.8 km · 25 min walk** | Museum-day lunch; à la carte branch (rooftop Hum Signature closed Wed) |
+| Splurge | **Ăn Anan Saigon** (89 Tôn Thất Đạm) | $100–145 | ~1.4 km · 18 min walk | Michelin-star "Cuisine Mới" above the old Cũ market; à la carte $8–25 or tasting menus; closed Mon, book 3–4 weeks ahead |
+| Rooftop | **Sky 36** (Bitexco 36F) | $12–15 | ~1.2 km · 15 min walk | Saigon's only 360° rooftop bar; arrive ~17:30 for golden hour; no reservations, no flip-flops |
+
+## Mui Ne (Days 22–23)
+
+| Type | Name | Price pp | From hotel (MiNhon, 210/5 Nguyễn Đình Chiểu) | Notes |
+|---|---|---|---|---|
+| Restaurant | **Bi Bo** (191 Nguyễn Đình Chiểu) | $5–15 | ~0.2 km · 3 min walk | Local-institution family portions; signature cá mai salad, BBQ + clay-pot; 10:00–23:30 |
+| Seafood | **Làng Chài Quán** (124 Nguyễn Đình Chiểu) | $10–25 | ~0.3 km · 4 min walk | Pick live seafood from tanks, cooked your way; ask the kilo price first; famous lobster + sea crab |
+| Street seafood | **Bờ kè BBQ row / Boke Mr. Crab** (112 Nguyễn Đình Chiểu) | $5–12 | ~0.4 km · 5 min walk | Mui Ne's iconic pick-from-tank embankment; Mr. Crab cheaper/busy, crab 50k–250k; confirm prices before ordering |
+| Café | **Lạc Roastery** (Nguyễn Đình Chiểu) | $1.50–3 | ~0.4 km · 5 min walk | Best specialty coffee on the strip + beans to take home; A/C hideaway from midday heat |
+| Restaurant | **Taste of India** (Đông Vui food court) | $8–16 | **450 m · 6 min walk** | Chef-driven Indian; best lunch option on arrival day |
+| Specialty | **Lẩu Tha** (fish hotpot) | $3–6 | ~0.5 km · 7 min walk | Mui Ne-originated herring + herbs hotpot, eaten with rice noodles into a sweet broth; ask for longer blanching if needed |
+| Café | **EL Cafe** (vegan/vegetarian) | $5–10 | **1.0 km · 14 min walk** | ⚠️ Irregular hours — call ahead |
+| Beach bar | **Jibe's Beach Club** | $5–10 | ~1.5 km · 20 min walk | The kitesurf hangout — burgers + cold beer right at the kite launch; sunset vibes |
+| Fish market | **Fishing Village morning market** (Huynh Thuc Khang) | see notes | ~2.5 km · 8 min ride | Basket boats land 05:30–07:00; buy squid/crab/shrimp ~150k/bowl → nearby restaurant cooks it (~40k fee); haggle, check for frozen stock |
+| Seafood (long-run) | **Cây Bàng** (Nguyễn Đình Chiểu west end) | $12–30 | ~2.5 km · 8 min ride | Longest-running seafood institution on the rocks; priced by weight (lobster to ~1M VND/kg); bilingual menu, 10:00–22:00 |
+| Breakfast (legend) | **Bánh Canh Chả Cá Cô Xí** (309 Huynh Thuc Khang) | ~$1 | ~2.8 km · 9 min ride | 40-yr thick fish-noodle soup with house fish cakes — the Phan Thiết breakfast locals queue for; sells out by afternoon, cash |
+
+## Da Lat (Days 24–26)
+
+| Type | Name | Price pp | From hotel (Dalat Peace, Hoàng Diệu) | Notes |
+|---|---|---|---|---|
+| Hotpot (legend) | **Lẩu Bò Quán Gỗ Ba Toa** (1 Hoàng Diệu) | $6–12 | ~0.2 km · 2 min walk | Legendary wooden-house beef hotpot, sweet lemongrass broth + mountain veggies; iconic cold-evening dinner — same street as the hostel |
+| Restaurant | **Trang's Cookery** | $6–12 | **1.2 km · 18 min walk** | Home-style Vietnamese; arrival lunch and Nov 24 dinner |
+| Restaurant | **Artist Alley** | $8–15 | **1.2 km · 17 min walk** | Post-canyoning dinner; arrive by 19:30 (closes 21:00) |
+| Breakfast | **Bánh Căn Lệ** (27/44 Yersin alley) | $1.50–2.50 | ~1.4 km · 18 min walk | Clay-mold rice cakes with quail egg, dipped in sweet fish sauce; opens ~11:00 |
+| Street food (icon) | **Bánh Tráng Nướng carts** (Nguyễn Văn Trỗi + night market) | ~$1 | ~1.6 km · 20 min walk | "Vietnamese pizza" — rice paper over charcoal with egg, shrimp, pâté, cheese; ~20k; busy 16:00–22:00 |
+| Dessert (icon) | **Kèm Bơ Thanh Thảo** (76 Nguyễn Văn Trỗi) | $1–1.50 | ~1.6 km · 20 min walk | Da Lat's famous avocado ice cream with coconut + peanuts; queue daily till sold out; cash |
+| Café | **The Married Beans** (6 Nguyễn Văn Trỗi) | $2–3 | ~1.6 km · 20 min walk | Specialty roaster sourcing from 50+ farms; single-origin Cầu Đất Arabica; beans to take home |
+| Drink (icon) | **Sữa đậu nành Dung Béo** | $1–2 | ~1.7 km · 21 min walk | Thick warm highland soy milk (try peanut/sesame) + che; ~15:00–01:00 near the night market |
+| Hotpot | **Lẩu gà lá é Tao Ngộ** (89 Hai Bà Trưng) | $4–10 | ~1.9 km · 23 min walk | Chicken hotpot with wild basil + mushroom; also clay-pot chicken; 08:30–23:00 |
+| Café | **Là Việt Coffee** (200 Nguyễn Công Trứ) | $2–4 | ~2.1 km · 7 min ride | Pioneer artisan roastery, glass wall onto the roasting room; even a pho-flavored coffee (60k) |
+| Specialty | **Nem Nướng Bà Hùng** (search "Bà Hùng" in Grab) | $1.50–2.50 | ~2.2 km · 8 min ride | Roll-your-own grilled pork sausage + green banana in rice paper with thick peanut-liver dip (the real star) |
+
+## Phú Quốc (Days 27–29 · Duong Dong base)
+
+| Type | Name | Price pp | From hotel (9Station, Trần Hưng Đạo) | Notes |
+|---|---|---|---|---|
+| Seafood | **Xin Chao Seafood** (66 Trần Hưng Đạo) | $12–20 | ~1.2 km · 15 min walk | Tank-pick lobster/crab/prawns, salt-pepper garlic prep; English menu; 11:00–22:00 (break 2–5 PM) |
+| Fusion | **Crab House** (26 Nguyễn Trãi) | $8–16 | ~1.3 km · 16 min walk | Beyond-standard grill: king crab house-sauce, garlic-butter shrimp, Cajun crawfish; English-speaking staff |
+| Restaurant | **Saigonese Eatery** | $8–15 | **1.4 km · 19 min walk** | Arrival dinner (13:35 flight lands) |
+| 🟡 Night market | **Dinh Cau Night Market** (existing pick) | $2–8 | ~1.5 km · 19 min walk | Grilled sea urchin (~$2), pepper-salt crab by kg, + **bun ken Cô Tư** (stall #56) — Phú Quốc-only turmeric-coconut mackerel broth; arrive by 18:30 |
+| Restaurant | **The Home Pizza** (Trần Hưng Đạo) | $8–14 | **1.5 km · 21 min walk** | Buffer-day dinner, 11:00–22:00 |
+| Breakfast | **Hu Tieu Muoc Tu Huong** (42 30/4) | $2–3 | ~1.6 km · 20 min walk | Best squid noodle soup on the island — clear sweet broth; 06:00–21:00 |
+| Signature (icon) | **Bun Quay Kien Xay** (28 Bạch Đằng, Duong Dong) | $1.50–3 | ~1.8 km · 22 min walk | Phú Quốc's iconic self-stirred noodle soup — you mix your own chili-shrimp sauce; oldest on the island (since 1960s); 07:00–22:00 |
+| Restaurant | **Hiên Charcoal Kitchen** | $8–16 | **3.2 km · 43 min walk / 8 min Grab** | Charcoal grill; dinner only, 15:00–22:00 |
+| Beachfront | **Camia Restaurant** (Ong Lang, 4.8★/2.4k) | $10–18 | ~7 km · 15 min drive | Beachfront grill, island pepper + fish sauce; arrive 17:30 for sunset; book ahead Nov |
+| Fusion | **Mai Jo Restaurant** (Ong Lang, VN-Portuguese) | $10–20 | ~7 km · 15 min drive | Stuffed squid w/ black pepper, soft-shell crab tempura; reopens Oct 6, 2026; book ahead for Nov |
+| Seafood | **Ham Ninh Crab Village** (east coast) | $8–14/kg | ~20 km · 30 min drive | Island crab capital on stilt restaurants; steamed crab + salt-pepper + tamarind; best at lunch |
+| Seafood | **Nha Tren Bien** (Rach Vem floating house) | $6–10 | ~25 km · 40 min drive | Family floating restaurant 100 m offshore via wooden bridge; pick live seafood — grilled scallops + crab fried rice; book via WhatsApp/FB |
+| Restaurant | **#JMT Korea** (Grand World, north island) | $10–20 | **22.5 km · 28 min drive** | Nov 26 north-island dinner after Vinpearl Safari |
+
+## Phnom Penh (Days 30–31 · Mettavary base, near Riverside)
+
+| Type | Name | Price pp | From hotel (Mettavary, Tonle Bassac) | Notes |
+|---|---|---|---|---|
+| Restaurant (top) | **Kravanh** (St 174) | $8–15 | ~2.2 km · 8 min tuk-tuk | #3 in PP — French colonial villa garden; snail amok, betel-wrapped lok lak, saraman curry; book garden tables |
+| Restaurant | **Banteay Srey** (St 13, by National Museum) | $8–14 | ~3.2 km · 12 min tuk-tuk | Travelers' Choice; fish amok among Cambodia's best + Khmer curry; reserve for dinner |
+| 🟡 Restaurant | **Romduol Khmer** (Riverside balcony) | $5–10 | ~3 km · 11 min tuk-tuk | Amok + Khmer curry + adventurous red-tree-ant beef; happy hour 5–8 PM: $0.70 draft, $2.50 cocktails |
+| Street food (icon) | **Yee-ay Sok Sor (Sach Ko Ang)** (35 St 51) | $1–2 | ~3.4 km · 13 min tuk-tuk | Grilled beef skewers since 1984 — kroeung-marinated, with pickled papaya + buttered baguette; ~$0.25–0.50/skewer; noon–21:00 |
+| Street food | **Nom Pang Sat Wat Phnom** | $0.50–1 | ~3.5 km · 13 min tuk-tuk | Cambodian baguette sandwich — glazed pork with crispy skin on ultra-light bread; queue forms fast by 15:00, eat-in only |
+| Night market | **Phsar Reatrey** — new bites (existing pick) | $1–4 | ~3 km · 11 min tuk-tuk | Num pang, num krok, grilled skewers + prahok dip, and fried tarantulas if brave; nightly from ~5 PM along Sisowath Quay |
+| Splurge | **Cuisine Wat Damnak** (St 228) | $38–45 | ~1.6 km · 20 min walk | La Liste-listed Cambodian tasting menu (6–8 courses) by Joannès Rivière; 3-course lunch from $15; closed Sun, book 6+ hrs ahead |
+| Splurge | **Malis Norodom** | $15–25 | **240 m · 3 min walk** | Chef Luu Meng's pioneering modern Khmer — amok + lok lak in a quiet courtyard; quieter cheaper lunch |
+| Café | **SEEN Café** (Riverside) | $2.75–4.50 | ~3 km · 11 min tuk-tuk | Single-origin Cambodian coffee + ceremonial matcha; signature Mekong Drip; calm morning spot |
+| Restaurant | **Khmer Women' Food** | $6–12 | **110 m · 1 min walk** | Arrival dinner (17:00) — honest Khmer plates, training restaurant |
+
+---
+
+# Pre-Trip Checklist
 
 Quick version:
 - 💉 **DONE — vaccines ✅** (Yellow Fever, JE, rabies, Hep A/Typhoid — per scratchpad plan).
 - 💊 **Now (isn't a vaccine!):** malaria meds for Palawan (start before the trip per prescription).
+- 💊 **Pharmacy kit (buy in Brazil):** ORS sachets (×6), loperamide, antacid/alginate for **azia**, paracetamol, rehydration + electrolyte tabs, blister plasters, insect repellent (DEET/picaridin), hand sanitiser; PPI **only if prescribed**. Keep meds in original packaging + prescription — see the *Foods to treat with care + heartburn* section.
 - ✈️ **DONE — long-haul:** GRU⇄DPS RT BOUGHT (Oct 31 → Nov 2 / Dec 2), Jakarta stopover included.
 - ✈️ **DONE — DPS→MNL→PPS BOUGHT** (Nov 11, 5J280 dep DPS 08:35 → MNL connect → arr PPS 16:25, single booking).
 - ✈️ **DONE — EL NIDO→HCMC BOUGHT** (Nov 16, ENI 10:45 → CEB 12:30, **6h05 Cebu connection**, CEB 18:35 → arr SGN 20:45 — **via Cebu, not Manila**).
@@ -683,9 +994,9 @@ Quick version:
 
 - **Visas for Brazilians (verified):** **Philippines** — visa-free **59 days** (longer than the standard 30; bilateral deal), need 6-mo passport + return/onward ticket + eTravel. **Vietnam — NOT exempt → e-Visa REQUIRED** ($25 single, evisa.xuatnhapcanh.gov.vn; SGN is a valid e-Visa port; single entry is enough since you're only entering once). **Cambodia** — **visa on arrival ~$30 cash + 1 photo at Prek Chak** (Brazilians VOA-eligible); ⚠️ **Prek Chak does NOT accept the e-Visa on entry** (official MFAIC border table) — do not buy an e-Visa for this crossing; the only entry method is VOA on arrival. **Indonesia** — visa-free 30 days both entries. **UAE/DXB transit (Dec 2)** — no visa needed as long as you **stay airside** at Dubai and don't clear immigration; a transit visa is only required if you leave the airport (you won't on the ~3.5h overnight layover).
 - **Nov = wet-season tail — 2026 outlook is favorable (strong El Niño delays monsoon).** Per-city verdict for our dates: **Bali (Nov 2–7, 30–Dec 1)** — transition month but BMKG expects the rainy season to start *later* in 2026 (most of Bali in Dec): mornings usable, brief afternoon showers; sea days = mornings. **Java/Ijen (Nov 7–11)** 🔴 — rainy season on Java is the **#1 weather risk** (crater can close with no notice); Nov 10 fallback still in plan. **Palawan/El Nido (Nov 11–16)** 🟢 — end of rainy season, amihan monsoon starts; Palawan rarely takes direct typhoons. **HCMC (Nov 16–19)** 🟢 — southern VN rainy season forecast to end early Nov 2026. **Mui Ne (Nov 20–21)** 🟢 — driest spot in VN that month. **Da Lat (Nov 22–24)** 🟢 — rains ending, wild sunflowers, 14–22°C. **Phú Quốc (Nov 25–27)** 🟢 — late-Nov window when rains fade fast (Oct 354mm → Nov ~164 → Dec 59). **Phnom Penh (Nov 28–29)** 🟢 — monsoon retreating, hot 31–33°C, passing showers; Water Festival possible. Concrete buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓ — that day doubles as the **Uluwatu** slot). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
-- **Autotransferências (verified from the tickets):** three of the legs are **self-transfers even though marked "protegida"** — **Cebu 6h05 (Nov 16)**, **SGN 3h45 (Nov 25)**, **KLIA 3h (Nov 30)**. "Proteção/Garantia de Autotransferência" means the booking platform **rebooks you if you miss the connection**; it does **not** mean bags are through-checked. At each hub: **collect bags → re-check → re-clear security** (Cebu also needs **T1→T2**; KLIA likely stays within KLIA2). Keep passports + Vietnam e-Visa (printed) on you, not in the hold.
+- **Autotransferências (verified from the tickets):** three of the legs are **self-transfers even though marked "protegida"** — **Cebu 6h05 (Nov 16)**, **SGN 3h45 (Nov 25)**, **KLIA 3h05 (Nov 30)**. "Proteção/Garantia de Autotransferência" means the booking platform **rebooks you if you miss the connection**; it does **not** mean bags are through-checked. At each hub: **collect bags → re-check → re-clear security** (Cebu also needs **T1→T2**; KLIA likely stays within KLIA2). Keep passports + Vietnam e-Visa (printed) on you, not in the hold.
 - **Nov 11 is the tightest connection:** 2h10 at NAIA **T3** on a single booking (5J280 → 5J641) — same terminal and bags through-checked, so it works, but walk straight from arrival to the departure gate; no lounging, no shopping.
-- **Date math depends on flights:** the MNL→PPS connect (Nov 11 — **BOUGHT**, DPS 08:35 · arr MNL 12:45 · **2h10 same-T3** · arr PPS 16:25), **El Nido→CEB→SGN (Nov 16 — BOUGHT, 10:45 · 6h05 at Cebu · arr SGN 20:45)**, Phú Quốc→PP ferry+bus (Nov 28, daily), the **PP→KUL→DPS return hop (Nov 30 — BOUGHT, 07:35 · 3h at KLIA · arr 16:40)**, and the **BSB↔GRU feeders (Oct 30 / Dec 2 — BOUGHT, each person separately)** — all flights are now locked.
+- **Date math depends on flights:** the MNL→PPS connect (Nov 11 — **BOUGHT**, DPS 08:35 · arr MNL 12:45 · **2h10 same-T3** · arr PPS 16:25), **El Nido→CEB→SGN (Nov 16 — BOUGHT, 10:45 · 6h05 at Cebu · arr SGN 20:45)**, Phú Quốc→PP ferry+bus (Nov 28, daily), the **PP→KUL→DPS return hop** (Nov 30 — BOUGHT, 07:20 · 3h05 at KLIA · arr 16:40), and the **BSB↔GRU feeders (Oct 30 / Dec 2 — BOUGHT, each person separately)** — all flights are now locked.
 - **PQC→Phnom Penh land route (Nov 28):** **BOUGHT as one 12Go combined ticket** — ferry Bai Vong→Hà Tiên + van through **Xa Xia–Prek Chak**, dep **09:00** → arr **17:00** (~8h incl. border); the old Tue/Wed/Fri/Sat Air Cambodia constraint is gone. ⚠️ Storms cancel ferries in Nov → fallback: **PQC→SGN→KTI** flight (Vietnam Airlines via HCMC). Budget the unofficial ~$5 border tip.
 - **Indonesia double-entry:** Brazil is on the **visa-free list** — both entries (CGK Nov 1 + DPS Nov 30) arrive visa-free, **no visa/e-VOA needed** (30-day tourism entry; confirmed). The 2nd visa-free entry at DPS is airport-officer discretion in practice → keep the printed boarding pass + return ticket handy (worst case = buy a VoA on arrival, ~$35). Bali Levy (IDR 150k) still applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
 - **Bali arrival via domestic CGK→DPS (Nov 2):** immigration is at CGK; the DPS domestic arrival is fast — but Bali Levy collection still happens on Bali entry. Confirm the levy QR flow for domestic arrivals before flying.
@@ -695,6 +1006,9 @@ Quick version:
 - **13-day Vietnam is tight but un-rushed** — every block has its own arrival/reset day; only the Nov 16 El Nido→HCMC and Nov 25 Da Lat→SGN→PQC days are pure transit.
 - **Oslob/Cebu gone** — the CEB→SGN Mon/Wed/Fri anchor and its fragile logistics are removed from the plan.
 - **Da Lat canyoning** is rain-gated but November is its safe season; book refundable (Viet Challenge / Phat Tire).
+- **Food screening (22 Oct 2026):** the 27 venues in *Closest to your bed* were screened against public review comments — four previously suggested places were dropped for **attributable** illness allegations (**Bánh Mì Huỳnh Hoa**, **The Warung at Alila**, **Ka Lui**, **Badjao Seafront**), plus the Vinpearl Safari restaurants (Giraffe/Rhino), and **Warung Mbok Sul** for a Sept 2026 ownership change. An allegation is not proof of cause; the filter is precautionary.
+- **Food-poisoning risk management (don't outsource this to reviews):** the places with real exposure are the **unscreened group meals** — El Nido Tours A/B boat lunches, Underground River buffet, Safari lunch, canyoning lunch. Rules that actually move the odds: eat where it's **busy and turning over fast** (no empty dining rooms), insist on **piping-hot freshly cooked** food, **skip the raw classics** (tamilok/woodworm, kinilaw, balut, babi guling blood sausage & lawar, rare seafood), **peel your own fruit**, **bottled or boiled water and no ice** at street stalls, and avoid buffet trays that have been sitting lukewarm. Carry **ORS + loperamide**; ask the travel-medicine doctor about a standby antibiotic before departure. If someone goes down on a travel day, the plan already has a reset day in most blocks — use it rather than pushing to the next city.
 - **Yellow Fever cert** is the most likely thing to get you turned away at immigration — get it early
+- **Early departures vs breakfast:** Nov 11 (05:00 wake), Nov 16 (10:45 flight), Nov 25 (07:55) and Nov 30 (**07:20**) all beat most kitchens — only **Grounded (06:00)** in El Nido is open in time; otherwise order the hotel's packed breakfast the night before.
 
 — End of file —
