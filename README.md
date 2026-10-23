@@ -40,10 +40,10 @@
 | 14 | Banyuwangi lodging | **HHHH Hostel (Jl. Trunojoyo 51, 68417) — RESERVED** (Nov 7–9, 3 nights) · ~500 m from center, standard Ijen open-trip pickup zone · Hostelz 9.54 |
 | 15 | Kuta pre-Cebu night | **Adhi Jaya Hotel (Jl. Kartika Plaza, Kuta 80361) — RESERVED** (Nov 10, 1 night) · ~2 km / ~4 min from DPS (early Nov 11 flight) · 8.6/10 (Agoda 4k) · takeaway breakfast for early departure · ⚠️ Grab, not the hotel's 200k IDR transfer |
 | 16 | Puerto Princesa lodging | **Lokal Hut Bed & Breakfast (Trinidad Rd off Rizal Avenue, 5400) — RESERVED** (Nov 11–12, 2 nights) · homestay ~9.0/400+ · central, tour pickups walkable, airport ~5 min · ask for hot-shower + good-AC room |
-| 17 | Nov 11 flights | **DPS→MNL→PPS BOUGHT** — Cebu Pacific 5J280 dep DPS **08:35** → same-day MNL connect (one PNR) → arr PPS **16:25** |
+| 17 | Nov 11 flights | **DPS→MNL→PPS BOUGHT** — Cebu Pacific 5J280 dep DPS **08:35** → same-day MNL connect (single booking) → arr PPS **16:25** |
 | 18 | El Nido lodging | **Devayn's Inn (Calle Hama, 5313 El Nido) — RESERVED** (Nov 13–15, 3 nights) · town proper, Calle Hama (night-market street) · check out Nov 16 |
 | 19 | Nov 13 transport | **PPS→El Nido van BOUGHT (12Go)** — shared van dep 08:00 → arr **13:30** (~5.5h) |
-| 20 | Nov 16 flights | **El Nido → HCMC BOUGHT** — dep 10:45 → arr SGN **20:45**, same-day via MNL (Lio→MNL + MNL→SGN, self-connect) |
+| 20 | Nov 16 flights | **El Nido → HCMC BOUGHT via CEBU** — ENI 10:45 → CEB 12:30 (CebGo DG 6257) · **6h05 connection** · CEB 18:35 → SGN 20:45 (5J 5780) · autotransferência **com proteção de conexão** |
 | 21 | HCMC lodging | **SG Cozy2 Hotel — Pham Ngu Lao Street (241/12 Pham Ngu Lao, D1) — RESERVED** (Nov 16–19, 4 nights) · budget hotel (not a pod), right on the Pham Ngu Lao/Bui Vien backpacker strip — D1 tour pickups (Cu Chi · Saigon After Dark) at the door |
 | 22 | Nha Trang replacement | **Mui Ne (Route Option 1)** — HCMC→Mui Ne road (Nov 20) · Mui Ne→Da Lat (Nov 22) · DLI→SGN→PQC (Nov 25) · Da Lat 3rd night + Phú Quốc 3rd night · **zero new flights** · PQC→PP now by **ferry+bus**, runs daily |
 | 23 | El Nido tours | **Book on arrival — intentionally left open** · A/B are the baseline guide only; pick (or swap) at Devayn's Inn / pier tour desks the evening of Nov 13 · cheaper in person (~₱700 less than GYG) · be aware of the no-buffer trade-off |
@@ -177,7 +177,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Philippines — Palawan (5 nights)
 
 ### Day 13 · Wed Nov 11 · DPS → Manila → Puerto Princesa
-- ✈️ **BOUGHT — Cebu Pacific 5J280 DPS→MNL dep 08:35** → same-day **MNL→PPS connect (one PNR) → arr PPS 16:25**. ✅ Same-day connect is now **locked** (was the trip's top routing risk); LCC — bag fees on top.
+- ✈️ **BOUGHT — Cebu Pacific 5J280 DPS→MNL dep 08:35 → arr MNL 12:45** (4h10). **Connection 2h10 at NAIA** — arrival **Terminal 3**, departure **Terminal 3** (same terminal, no transfer needed) → **5J641 dep 14:55 → arr PPS 16:25** (1h30). ✅ Same-day connect is **locked** (was the trip's top routing risk). ⚠️ 2h10 is a normal but not generous LCC connect: bags are through-checked (single booking), and this is the leg to **not** dawdle on — land, clear transit, go straight to the gate. LCC — bag fees on top.
 - 🛏️ **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Avenue, 5400 PP) — **RESERVED** · homestay, ~9.0/400+ · central (walking distance to shops/restaurants, tour pickups), airport ~5 min · $$; ask for a hot-shower + working-AC room.
 - Early-evening arrival → free night: **Baywalk sunset (5:15 PM)** · Plaza Cuartel ruins · **Baywalk Night Market** (see Night Activities).
 - 📱 **On arrival: book Underground River for tomorrow with D'Palawan** (WhatsApp 0963 139 0000) or ask the Lokal Hut front desk — both are same-day/1-day friendly in Nov (see Day 14). Pick-up window 07:00–08:00, so only the booking, not a morning rush, matters.
@@ -205,13 +205,14 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - ⚠️ *No buffer day this trip (traded for Vietnam) — if one tour is sea-cancelled, the other day absorbs it and you lose one tour.*
 - 🛏️ El Nido.
 
-### Day 18 · Mon Nov 16 · El Nido → Ho Chi Minh City
-- ✈️ **BOUGHT — El Nido → Ho Chi Minh City**, same-day via MNL (Lio→MNL → MNL→SGN): dep **10:45** → arr SGN **20:45**. Late-evening arrival = high cancellation-resilience. ⚠️ **But "bought" ≠ risk-free:**
-  - **~4h MNL connection.** Lio→MNL ~1h20 (arr MNL ~12:05) · MNL→SGN ~3h20 (arr SGN 20:45 → implies MNL dep ~17:25). Confirm the **exact legs + terminals** on the ticket: AirSWIFT (acquired by Cebu Pacific) and the MNL→SGN carrier may use **different NAIA terminals** — allow transfer time between them.
-  - **Two separate tickets = self-connect, NO protection.** Bags are **not through-checked** → collect at MNL + recheck; a delay on leg 1 is **not** the second carrier's problem. Build slack, carry essentials, and keep the **19:10 / 22:10 MNL→SGN** departures as same-day backups.
-  - **Arrival is late:** immigration + bags → hotel ~22:00. **Don't count on a normal restaurant dinner** after check-in — eat at MNL, or plan a late-night option (Phở Lệ D5 open till midnight · Bui Vien strip).
-- ⚠️ Day-before: **verify the ticket's exact legs + the MNL gap (aim ≥4h)**; keep the 19:10/22:10 MNL→SGN flights in mind as the same-day backup.
-- ⚠️ **Fallback (reference only):** van El Nido→PPS (~5–6h) → PPS→MNL (~1h15) → MNL→SGN.
+### Day 18 · Mon Nov 16 · El Nido → Cebu → Ho Chi Minh City
+- ✈️ **BOUGHT — El Nido → Ho Chi Minh City via CEBU (not Manila)**: **ENI 10:45 → CEB 12:30** (CebGo **DG 6257**, 1h45) · **6h05 connection at Cebu** · **CEB 18:35 → SGN 20:45** (Cebu Pacific **5J 5780**, 3h10). Total **~11h elapsed** (10h on the clock — SGN is 1h behind Cebu). Arrival 20:45 = unchanged, so the hotel night still works.
+  - ✅ **Connection is protected** — the booking shows *"Transferência coberta pela Proteção de Conexão"* for the Cebu self-transfer.
+  - ⚠️ **But it is still an AUTOTRANSFERÊNCIA (self-transfer):** you check in each flight separately, **collect + re-check bags at Cebu**, and must meet Vietnam's entry requirements (e-Visa) on the ground. Protection covers misconnection, **not** the 6h of your time.
+  - ⚠️ **Cebu terminal change:** CebGo/domestic uses **MCIA Terminal 1**, Cebu Pacific international uses **Terminal 2** — walk/shuttle + re-check, so keep ≥2h of the layover as buffer. 6h05 is ample.
+  - 🍽️ **Eat dinner at Cebu (T2, airside) before 18:35** — you land SGN 20:45, clear immigration + bags → hotel ~22:00, so no proper restaurant dinner that night (late-night backup: Phở Lệ D5 till midnight · Bui Vien strip).
+  - 👥 **Bookings are split:** two travellers share one booking, the third is on a **separate reservation** — same flights, but a change/rebooking affects them individually. Verify all three are on the same CEB→SGN flight before travel (details kept offline, not in this file).
+- ⚠️ **Fallback if ENI→CEB is cancelled:** CebGo runs a few ENI flights a day — take the next one (the 6h05 buffer absorbs ~3h of delay); if the whole day collapses, van El Nido→PPS (~5–6h) → PPS→MNL→SGN (the Nov 11 route in reverse) and lose the HCMC arrival night.
 - 🛏️ HCMC **District 1** — **SG Cozy2 Hotel — Pham Ngu Lao Street** (241/12 Pham Ngu Lao, D1) — **RESERVED** (Nov 16–19, 4 nights) · right on the backpacker strip — D1 tour pickups + Bui Vien nightlife at the door.
 
 ### 📷 Photos — Palawan
@@ -272,7 +273,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ **Dalat Peace Backpackers Hostel** (RESERVED).
 
 ### Day 27 · Wed Nov 25 · Da Lat → SGN → Phú Quốc
-- ✈️ **BOUGHT — Da Lat → Phú Quốc** (via SGN), dep **07:55** → arr PQC **13:35**. Early Grab from Cam Ly to DLI (~35–40 min, ~$8–12) — book it the night before; the thin-DLI morning-leg risk is gone.
+- ✈️ **BOUGHT — Da Lat → Phú Quốc** (via SGN), dep **07:55** → arr PQC **13:35**. Legs: **DLI 07:55 → SGN 08:50** (VietJet **VJ 361**, 55 min) · **3h45 connection at Tan Son Nhat** · **SGN 12:35 → PQC 13:35** (VietJet **VJ 327**, 1h). ⚠️ **Autotransferência** — protected (*"Transferência coberta pela Proteção de Conexão"*), but you **collect + re-check bags at SGN** and re-clear domestic security; 3h45 is comfortable. Early Grab from Cam Ly to DLI (~35–40 min, ~$8–12) — book it the night before.
 - Arrive early afternoon → settle at **9Station Hostel & Bar** (91/3 Trần Hưng Đạo, Duong To) — **RESERVED** (Nov 25–27, 3 nights) · northern Long Beach strip, walkable into Duong Dong · evening: **Grand World** free entry + night show (~₫300k ≈ **$12**) in Phu Quoc United Center (free shuttle) **or** Duong Dong night market.
 - 🛏️ **9Station Hostel & Bar** (RESERVED).
 
@@ -307,7 +308,10 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - **Good news:** unlike v3, the red-eye is not tomorrow morning — a washout now just rearranges the tail, not the trip.
 
 ### Day 32 · Mon Nov 30 · Phnom Penh → Bali (DPS)
-- ✈️ **BOUGHT — Phnom Penh → DPS**, dep **07:35** (ICT, UTC+7) → arr **16:40** (WITA, UTC+8) same-day, one itinerary via a hub connection. Clock time = 9h05, but **elapsed = 8h05** (the +1h time-zone change shortens real duration).
+- ✈️ **BOUGHT — Phnom Penh → DPS via KUALA LUMPUR**, dep **07:35** (ICT, UTC+7) → arr **16:40** (WITA, UTC+8) same-day. Legs: **KTI 07:35 → KUL 10:25** (AirAsia Cambodia **KT163**, 1h50) · **3h connection at KLIA** · **KUL 13:25 → DPS 16:40** (AirAsia **AK368**, 3h15). **Elapsed = 8h05** (9h05 on the clock — the +1h TZ change shortens real duration).
+  - ⚠️ **Autotransferência at KLIA** — protected by *"Garantia de Autotransferência"*, but **collect + re-check bags at KUL** and re-clear security. Both legs are AirAsia (same LCC group) → likely the same terminal (**KLIA2/T2**); 3h is adequate.
+  - 🛂 **Malaysia transit:** Brazilians are **visa-free** (90 days) — no transit visa needed even if you must clear immigration to re-check bags. Carry the DPS/onward ticket.
+  - 🍽️ Lunch at KLIA during the layover — you land DPS 16:40 and go straight to Kuta.
 - Early-ish start from Mettavary (Tonle Bassac) — pre-book a Grab to KTI (~30+ min south) the night before. ⚠️ Arrival = **Indonesia entry #2** (visa-free, 30d — Brazil is on the list, no visa needed) + arrival card #2 + Bali Levy #2 paid before arrival.
 - Land **DPS 16:40** — evening: settle at **Stark Boutique Hotel and Spa** (Jl Kartika Plaza No. 20, Kuta) — **RESERVED** (Nov 30 → Dec 1, 1 night) · same Kartika Plaza strip as Adhi Jaya, ~4 min from DPS.
 - ⚠️ The **dawn-raid vs SGN-sleep** fork is now **moot** — this same-day ticket needs no extra SGN night. Delay chain: landing 16:40 (Nov 30) leaves all of Dec 1 free until the **DPS 20:15 departure** (be at DPS by ~18:15) — still a full buffer day.
@@ -338,19 +342,19 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | **GRU→CGK (Jakarta)** | Long haul | **BOUGHT** — GRU 01:30 Oct 31 → CGK 15:40 Nov 1 | **paid** | RT with the return; ~15h CGK layover (Nov 1) |
 | **CGK→DPS** | Long haul leg | **BOUGHT** — CGK 07:05 Nov 2 → DPS 10:30 Nov 2 | **paid** | Immigration = Indonesia entry #1 at CGK |
 | DPS↔BWX | Road+ferry (or flight) | **Lintas Nusa shuttle Rp 210k (~$13) — NOT booked** | $13–130 | Nov 7 out / Nov 10 back; WA 0812-3452-0200 · 11:00/21:00 daily, door-to-door, ferry+meal incl.; **11:00 WIB = 12:00 WITA → 17:00–21:00 WITA arrival (5–9h)**; confirm Kuta drop-off; flight (Citilink ~$100) is thin |
-| DPS→MNL | Flight | **BOUGHT** — Cebu Pacific 5J280 (Nov 11) dep 08:35 | **paid** | LCC — bag fees on top |
-| MNL→PPS | Flight | **BOUGHT** — same-PNR connect after 5J280 (Nov 11) | **paid** | same-day connect **LOCKED** — arr PPS 16:25 |
-| El Nido (Lio)→MNL | Flight | **BOUGHT — AirSWIFT** (Nov 16, dep 10:45) | **paid** | Part of the same-day El Nido→HCMC booking |
-| MNL→SGN | Flight | **BOUGHT** (Nov 16) | **paid** | ~3h20; **self-connect — two separate tickets, NO protection**; collect + recheck bags at MNL; allow ~4h + inter-terminal transfer; arr SGN 20:45 |
+| DPS→MNL | Flight | **BOUGHT** — Cebu Pacific 5J280 (Nov 11) dep 08:35 → arr 12:45 | **paid** | arr NAIA **T3**; LCC — bag fees on top |
+| MNL→PPS | Flight | **BOUGHT** — 5J641 dep 14:55 (Nov 11) | **paid** | **connection 2h10, same terminal T3**; single booking, bags through-checked; **arr PPS 16:25** |
+| El Nido (ENI)→CEB | Flight | **BOUGHT — CebGo DG 6257** (Nov 16, dep 10:45 → arr 12:30) | **paid** | 1h45; **via CEBU, not Manila** |
+| CEB→SGN | Flight | **BOUGHT — Cebu Pacific 5J 5780** (Nov 16, dep 18:35 → arr 20:45) | **paid** | 3h10 clock (2h10 elapsed); **6h05 connection at Cebu — autotransferência, but PROTECTED**; T1→T2 + collect/recheck bags; arr SGN 20:45 |
 | HCMC→Mui Ne | Road | **BOUGHT — bus** (Nov 20, dep 06:00) | **paid** | ~3.5h express via Phan Thiết; confirm pickup at the operator's office on/off Pham Ngu Lao |
 | Mui Ne→Da Lat | Road | **BOUGHT — bus** (Nov 22, dep 07:50) | **paid** | **~3h40 elapsed** through the mountain pass; office ≈ 2-min walk from Minhon |
-| DLI→SGN | Flight | **BOUGHT** (Nov 25) | **paid** | dep 07:55 leg of the Da Lat→PQC ticket |
-| SGN→PQC | Flight | **BOUGHT** (Nov 25) | **paid** | arr PQC 13:35; same-day connect |
+| DLI→SGN | Flight | **BOUGHT** — VietJet VJ 361 (Nov 25, dep 07:55 → arr 08:50) | **paid** | 55 min |
+| SGN→PQC | Flight | **BOUGHT** — VietJet VJ 327 (Nov 25, dep 12:35 → arr 13:35) | **paid** | **connection 3h45 at SGN — autotransferência, protected**; collect/recheck bags; Tân Sơn Nhất |
 | PQC→PP | Ferry + van/bus | **12Go combined — BOUGHT** (Nov 28, dep 09:00 → arr 17:00) | $25–32 | ~8h via Bai Vong→Hà Tiên + **Xa Xia–Prek Chak**; one operator handles ferry + border + transfer |
-| PP (KTI)→DPS | Flight | **BOUGHT** (Nov 30, dep 07:35 → arr 16:40) | **paid** | Same-day one-ticket itinerary (hub connection); no extra SGN night — see routing flag (4) |
+| PP (KTI)→DPS | Flight | **BOUGHT** — AirAsia KT163 + AK368 (Nov 30, dep 07:35 → arr 16:40) | **paid** | via **KUL**: 3h connection at KLIA2, **autotransferência (protected)** — collect/recheck bags; Malaysia visa-free for BR; **8h05 elapsed** (9h05 clock) |
 | **DPS→GRU** | Long haul | **BOUGHT** — DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 · DXB 09:05 → GRU 17:35 Dec 2 | **paid** | 3 legs via CGK + DXB; **DPS→CGK = domestic**, then **CGK intl departure** (likely different terminal — Skytrain transfer; **Jakarta connection 21:15→00:15 = 3h**); Indonesia exit at DPS Dec 1; → BSB feeder, home late Dec 2 |
 
-**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on one PNR** (5J280 dep DPS 08:35 → arr PPS 16:25). (2) El Nido→HCMC **BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, Lio→MNL + MNL→SGN **self-connect** — no through-bags, keep MNL gap ≥4h). (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT (Nov 30, dep 07:35 → arr 16:40)** — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — both **visa-free for Brazilians** (30-day tourism entry, no visa/e-VOA needed; worst case at DPS = VoA on arrival ~$35); Bali Levy + arrival card ×2.
+**Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on a single booking** (5J280 dep DPS 08:35 · arr MNL 12:45 · **2h10 connection, same T3** · 5J641 arr PPS 16:25). (2) El Nido→HCMC **BOUGHT via CEBU** (Nov 16, ENI 10:45 → CEB 12:30 · **6h05 Cebu connection** · CEB 18:35 → SGN 20:45) — **autotransferência but PROTECTED**; collect/recheck bags + T1→T2; not via Manila. (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT via KUL** (Nov 30, dep 07:35 → arr 16:40, **3h KLIA connection, protected**) — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — both **visa-free for Brazilians** (30-day tourism entry, no visa/e-VOA needed; worst case at DPS = VoA on arrival ~$35); Bali Levy + arrival card ×2. (6) **All three long connections are autotransferências** (Cebu 6h05 · SGN 3h45 · KLIA 3h) — each has a **connection-protection guarantee**, but bags are **not** through-checked: collect + re-check at every hub.
 
 ---
 
@@ -365,7 +369,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Nov 10 | BWX→DPS | Lintas Nusa 11:00 or 21:00, door-to-door | HHHH Hostel (Banyuwangi) → pickup | pickup ~1h before 🔍 | ~10:00 | **~08:30–09:00** |
 | Nov 11 | DPS→MNL→PPS | 08:35 (5J280) | Adhi Jaya (Kuta) → DPS | 10–15 min | 05:35 (intl +3h) | **~05:00–05:15** |
 | Nov 13 | PPS→El Nido van | 08:00 | Lokal Hut (Puerto Princesa) → van office | 5–10 min | 07:45 | **~07:00** 🔍 |
-| Nov 16 | El Nido (Lio)→MNL→SGN | 10:45 | Devayn's Inn (town) → Lio | 15–20 min trike | 09:20 (domestic +1h15) | **~08:15** |
+| Nov 16 | El Nido (ENI)→CEB→SGN | 10:45 (DG 6257) | Devayn's Inn (town) → ENI (Lio) | 15–20 min trike | 09:20 (domestic +1h15) | **~08:15** |
 | Nov 20 | HCMC→Mui Ne bus | 06:00 (BOUGHT) | SG Cozy2 (Pham Ngu Lao) → office | 5-min walk | 15 min before | **~05:00–05:15** |
 | Nov 22 | Mui Ne→Da Lat bus | 07:50 (BOUGHT) | Minhon → bus office (~2 min walk) | 5 min | 07:35 | **~06:45–07:00** |
 | Nov 25 | **DLI→SGN→PQC** | 07:55 (BOUGHT) | Dalat Peace (Cam Ly) → DLI (35–40 min) | 40 min Grab | 06:40 (+1h15) | **~05:10–05:25** 🥶 |
@@ -658,11 +662,11 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 Full details + vaccines/forms in **[SE Asia 2026 - Scratchpad.md](./SE%20Asia%202026%20-%20Scratchpad.md)**.
 
 Quick version:
-- 💉 **DONE — all required vaccines ✅** (Yellow Fever ✅ · Japanese Encephalitis ✅ · rabies pre-exposure ✅ · Hep A / Typhoid / boosters ✅ — all taken; carry the CIVP yellow-fever card).
+- 💉 **DONE — vaccines ✅** (Yellow Fever, JE, rabies, Hep A/Typhoid — per scratchpad plan).
 - 💊 **Now (isn't a vaccine!):** malaria meds for Palawan (start before the trip per prescription).
 - ✈️ **DONE — long-haul:** GRU⇄DPS RT BOUGHT (Oct 31 → Nov 2 / Dec 2), Jakarta stopover included.
-- ✈️ **DONE — DPS→MNL→PPS BOUGHT** (Nov 11, 5J280 dep DPS 08:35 → MNL connect → arr PPS 16:25, one PNR).
-- ✈️ **DONE — EL NIDO→HCMC BOUGHT** (Nov 16, dep 10:45 → arr SGN 20:45, same-day via MNL).
+- ✈️ **DONE — DPS→MNL→PPS BOUGHT** (Nov 11, 5J280 dep DPS 08:35 → MNL connect → arr PPS 16:25, single booking).
+- ✈️ **DONE — EL NIDO→HCMC BOUGHT** (Nov 16, ENI 10:45 → CEB 12:30, **6h05 Cebu connection**, CEB 18:35 → arr SGN 20:45 — **via Cebu, not Manila**).
 - 🚐🏨 **DONE — PPS→El Nido van (12Go, Nov 13 dep 08:00 → arr 13:30) + Devayn's Inn RESERVED** (El Nido, Nov 13–15, Calle Hama 5313).
 - 🏨 **DONE — HCMC: SG Cozy2 Hotel — Pham Ngu Lao St** (241/12 Pham Ngu Lao, D1) RESERVED (Nov 16–19).
 - 🚌 **DONE — HCMC→Mui Ne bus BOUGHT** (Nov 20, dep 06:00 → arr 09:30) · **Mui Ne→Da Lat bus BOUGHT** (Nov 22, dep 07:50 → arr 11:30) · **Da Lat→Phú Quốc flights BOUGHT** (Nov 25, dep 07:55 → arr PQC 13:35).
@@ -679,7 +683,9 @@ Quick version:
 
 - **Visas for Brazilians (verified):** **Philippines** — visa-free **59 days** (longer than the standard 30; bilateral deal), need 6-mo passport + return/onward ticket + eTravel. **Vietnam — NOT exempt → e-Visa REQUIRED** ($25 single, evisa.xuatnhapcanh.gov.vn; SGN is a valid e-Visa port; single entry is enough since you're only entering once). **Cambodia** — **visa on arrival ~$30 cash + 1 photo at Prek Chak** (Brazilians VOA-eligible); ⚠️ **Prek Chak does NOT accept the e-Visa on entry** (official MFAIC border table) — do not buy an e-Visa for this crossing; the only entry method is VOA on arrival. **Indonesia** — visa-free 30 days both entries. **UAE/DXB transit (Dec 2)** — no visa needed as long as you **stay airside** at Dubai and don't clear immigration; a transit visa is only required if you leave the airport (you won't on the ~3.5h overnight layover).
 - **Nov = wet-season tail — 2026 outlook is favorable (strong El Niño delays monsoon).** Per-city verdict for our dates: **Bali (Nov 2–7, 30–Dec 1)** — transition month but BMKG expects the rainy season to start *later* in 2026 (most of Bali in Dec): mornings usable, brief afternoon showers; sea days = mornings. **Java/Ijen (Nov 7–11)** 🔴 — rainy season on Java is the **#1 weather risk** (crater can close with no notice); Nov 10 fallback still in plan. **Palawan/El Nido (Nov 11–16)** 🟢 — end of rainy season, amihan monsoon starts; Palawan rarely takes direct typhoons. **HCMC (Nov 16–19)** 🟢 — southern VN rainy season forecast to end early Nov 2026. **Mui Ne (Nov 20–21)** 🟢 — driest spot in VN that month. **Da Lat (Nov 22–24)** 🟢 — rains ending, wild sunflowers, 14–22°C. **Phú Quốc (Nov 25–27)** 🟢 — late-Nov window when rains fade fast (Oct 354mm → Nov ~164 → Dec 59). **Phnom Penh (Nov 28–29)** 🟢 — monsoon retreating, hot 31–33°C, passing showers; Water Festival possible. Concrete buffers: Ijen (Day 11→fallback Day 12 before leaving), Nusa Penida (Day 8 buffer ✓ — that day doubles as the **Uluwatu** slot). **El Nido Tours A/B have no buffer** (traded for Vietnam) — if one cancels you lose one tour. **Shooting range still has no buffer** (Day 31 only) — but the red-eye is no longer the next morning, so a washout only rearranges the tail, not the trip.
-- **Date math depends on flights:** the MNL→PPS same-day connect (Nov 11 — **BOUGHT**, dep DPS 08:35 · arr PPS 16:25), AirSWIFT El Nido→MNL + MNL→SGN (Nov 16 — **BOUGHT**, dep 10:45 · arr SGN 20:45), Phú Quốc→PP ferry+bus (Nov 28, daily), the **PP→DPS return hop (Nov 30 — BOUGHT, dep 07:35 · arr 16:40)**, and the **BSB↔GRU feeders (Oct 30 / Dec 2 — BOUGHT, each person separately)** — all flights are now locked.
+- **Autotransferências (verified from the tickets):** three of the legs are **self-transfers even though marked "protegida"** — **Cebu 6h05 (Nov 16)**, **SGN 3h45 (Nov 25)**, **KLIA 3h (Nov 30)**. "Proteção/Garantia de Autotransferência" means the booking platform **rebooks you if you miss the connection**; it does **not** mean bags are through-checked. At each hub: **collect bags → re-check → re-clear security** (Cebu also needs **T1→T2**; KLIA likely stays within KLIA2). Keep passports + Vietnam e-Visa (printed) on you, not in the hold.
+- **Nov 11 is the tightest connection:** 2h10 at NAIA **T3** on a single booking (5J280 → 5J641) — same terminal and bags through-checked, so it works, but walk straight from arrival to the departure gate; no lounging, no shopping.
+- **Date math depends on flights:** the MNL→PPS connect (Nov 11 — **BOUGHT**, DPS 08:35 · arr MNL 12:45 · **2h10 same-T3** · arr PPS 16:25), **El Nido→CEB→SGN (Nov 16 — BOUGHT, 10:45 · 6h05 at Cebu · arr SGN 20:45)**, Phú Quốc→PP ferry+bus (Nov 28, daily), the **PP→KUL→DPS return hop (Nov 30 — BOUGHT, 07:35 · 3h at KLIA · arr 16:40)**, and the **BSB↔GRU feeders (Oct 30 / Dec 2 — BOUGHT, each person separately)** — all flights are now locked.
 - **PQC→Phnom Penh land route (Nov 28):** **BOUGHT as one 12Go combined ticket** — ferry Bai Vong→Hà Tiên + van through **Xa Xia–Prek Chak**, dep **09:00** → arr **17:00** (~8h incl. border); the old Tue/Wed/Fri/Sat Air Cambodia constraint is gone. ⚠️ Storms cancel ferries in Nov → fallback: **PQC→SGN→KTI** flight (Vietnam Airlines via HCMC). Budget the unofficial ~$5 border tip.
 - **Indonesia double-entry:** Brazil is on the **visa-free list** — both entries (CGK Nov 1 + DPS Nov 30) arrive visa-free, **no visa/e-VOA needed** (30-day tourism entry; confirmed). The 2nd visa-free entry at DPS is airport-officer discretion in practice → keep the printed boarding pass + return ticket handy (worst case = buy a VoA on arrival, ~$35). Bali Levy (IDR 150k) still applies **per Indonesia visit** (leaving voids it) → budget ×2 pp. Arrival card ×2 at allindonesia.imigrasi.go.id.
 - **Bali arrival via domestic CGK→DPS (Nov 2):** immigration is at CGK; the DPS domestic arrival is fast — but Bali Levy collection still happens on Bali entry. Confirm the levy QR flow for domestic arrivals before flying.
