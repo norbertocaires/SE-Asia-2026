@@ -58,6 +58,44 @@
 | 32 | Return hop | **Phnom Penh → DPS BOUGHT** (Nov 30, dep **07:20** → arr **16:40** same-day, one itinerary) — the dawn-raid vs SGN-sleep fork is **dead**: no extra SGN night needed. Return long-haul corrected: **DPS leaves 20:15 Dec 1** (not 00:15 Dec 2) → **DPS pod = single night, Nov 30 only** |
 | 33 | Kuta lodging (Nov 30) | **Stark Boutique Hotel and Spa — RESERVED** · Jl Kartika Plaza No. 20, 80362 Kuta (Nov 30 → Dec 1, 1 night) · same Kartika Plaza strip as Adhi Jaya, ~4 min from DPS — handy for the 20:15 exit on Dec 1 |
 | 34 | Brazil feeders | **BSB↔GRU feeders BOUGHT** (Oct 30 out / Dec 2 back) — **each of the 3 people flies a different flight** (separate bookings, not shared) |
+| 35 | Bali → Banyuwangi transfer | **Shared shuttle BOUGHT** — Sat **Nov 7, 10:00 pickup at Diara's Cottage** (No 1 Jl Subak Sok Wayah, Ubud) · **Rp 220,000/pax × 3 = Rp 660,000 (~$12.10 pp / ~$36 total)** · road+ferry via Gilimanuk–Ketapang, **ferry included** · est. arrival Banyuwangi ~15:00–16:00 WIB · ✅ **drop-off = our Banyuwangi accommodation (HHHH Hostel, Jl. Trunojoyo 51)** · ↩️ **the Nov 10 return will be booked on the spot in Banyuwangi with the same operator (11:00 service) — not yet booked** |
+| 36 | Jakarta stopover lodging | **ODST Jakarta Transit Hotel — RESERVED** (Nov 1, 1 night) · CBC Tower G, Jl. Cengkareng Business City, RT.006/RW.007, Kec. Benda, Kota Tangerang, Banten (Rawalembang, 15125/15126) · **airport-side transit hotel ~3 km / 15–20 min from CGK** → the 07:05 CGK→DPS on Nov 2 is safe · 24h front desk · restaurant · free WiFi · est. ~$30–45 pp (room, not a pod) · Grab in/out |
+
+---
+
+# Payment Setup & Cash Rules
+
+**Confirmed by owner Oct 27, 2026:** Wise + Grab + physical Visa and Mastercard debit/credit cards + modest cash replenished along the route. Grab is the main transport app. GoPay/Gojek are optional, not required by this payment plan. Use physical debit for ATM withdrawals, credit as purchase/deposit/emergency backup, and supported Wise QR payments as an extra. Enable international purchases/withdrawals, know PINs, keep a backup card separately, and fund a non-BRL Wise balance for overseas use of a Brazil-issued card.
+
+## How to Read Each Day's Cash Recommendation
+
+- All amounts are **per person**; multiply by **3** for the group. A shared room/driver balance is divided among three, not added in full to each person's allowance.
+- Each daily line shows a **cash-in-hand target**, not a daily withdrawal or a requirement to spend it. Carry leftover cash forward; replenish only the shortfall. Avoid adding every day's emergency buffer together.
+- Formula: **planned cash spending + 25% emergency buffer + 5% cash-access/fee allowance** (both percentages applied to planned spending; total = 130%). These are conservative planning assumptions, not merchant quotes or verified ATM charges. Prefer cards for larger purchases and reduce cash targets by prepaid/card-paid items.
+- Daily estimates use the existing itinerary's price envelope, not newly confirmed prices. **ADD unpaid cash-only hotel/tour balances separately, with 25% contingency and actual funding fees.** Unknown room balances, optional expensive activities, major shopping and emergency medical costs are not silently included.
+- Keep a separate **USD 100 pp / USD 300 group emergency reserve** in clean notes, separate from the daily wallet. It is carried once, not replenished/spent every day; routine local purchases generally require local currency. Cards/insurance and access to more funds cover larger emergencies.
+- **USD specifically needed/prepared:** Nov 28 Cambodia land-border visa fallback; Nov 29 activity if the operator confirms the plan's cash requirement. Cambodia also uses KHR for everyday spending. Indonesia, Philippines and Vietnam: use IDR/PHP/VND, not USD for normal purchases. USD balances inside Wise are not physical dollar notes.
+- Before island/rural days, get cash in the preceding town. Keep enough for each known unpaid obligation before leaving reliable ATMs. On Nov 13, hold remaining El Nido cash needs (Nov 13–16) together, subtracting prepaid tours/rooms; this can exceed a small pocket amount.
+- Payment research does not establish that every terminal will accept every card. Lokal Hut lists cash on site; Devayn's requests cash for extras; Dalat Peace reception card acceptance is unverified. Reservation confirmations determine actual unpaid balances.
+
+## Percentage Fees & Cash-Access Costs
+
+| Item | Verified rate / planning treatment |
+|---|---|
+| Grab Vietnam, foreign-issued card | **4%**, VAT included, excluding tips. Applies to card-paid Grab charges, not all spending or cash payments. |
+| Grab Philippines, foreign payment method | Official help lists **2–3%**; budget **3%** of affected Grab charges and check checkout. |
+| Grab Indonesia / Cambodia | No universal foreign-card percentage verified here; use checkout total. Do not assume fee-free or apply Vietnam's 4% automatically. |
+| Wise BRL → foreign currency | Wise currently lists **3.5% IOF** for this conversion, plus the displayed variable conversion fee. This is a funding cost; do not add IOF again to spending from money already converted. |
+| Wise Brazil ATM allowance | Current pricing: **1 free withdrawal per account/month**, then **BRL 20 each**; local ATM charges and conversion costs can still apply. Confirm the account's live allowance; do not use older two-withdrawal rules. |
+| Wise external wallet top-ups | Pricing lists **2% for certain currencies/transactions**. Avoid preloading wallets merely to pay Grab; direct card payment avoids an unnecessary funding step. |
+| Other Visa/Mastercard cards | Issuer exchange spread, IOF, international transaction/ATM fees vary; check each bank's quote. No invented universal percentage. |
+| Merchant card surcharge | Only apply a disclosed surcharge if actually quoted; none is universally assumed. A 5% planning allowance does not imply a 5% merchant fee. |
+| DCC / ATM conversion | Decline conversion into BRL; choose the transaction currency (IDR/PHP/VND/KHR, or USD for a genuinely USD-priced Cambodian charge). |
+| Daily 5% fee allowance | An estimate held in the cash envelope. Actual fees normally debit the bank/card, not banknotes paid to the merchant. Fixed ATM fees may exceed 5% on small withdrawals; fund separately if needed. |
+
+Example: VND 1,000,000 planned cash → VND 250,000 emergency + VND 50,000 fee allowance = **VND 1,300,000 target**. A separate VND 200,000 Grab fare paid with a foreign card adds **VND 8,000 (4%)** to the card budget; it does not increase every cash item by 4%.
+
+Sources checked Oct 27, 2026: [Wise Brazil card pricing](https://wise.com/br/pricing/card-fees/) · [Wise Brazil IOF](https://wise.com/help/articles/2oXQxOw2uAtpipyzMHQyaT/wise-cards-in-brazil) · [Wise overseas funding](https://wise.com/help/articles/2970190/getting-started-with-the-wise-card/) · [Wise QR compatibility](https://wise.com/help/articles/7cYlC8lKqbgjNNmlXyYtFL/how-can-i-pay-with-a-qr-code) · [Grab Vietnam 4%](https://help.grab.com/passenger/en-vn/115014922167-How-do-I-add-my-creditdebit-card-to-GrabPay) · [Grab Philippines 2–3%](https://help.grab.com/passenger/en-ph/115005848608-Overcharged-for-your-booking) · [Visa DCC](https://www.visa.com/en-us/personal/travel) · [Cambodia visa cash fallback](https://travel.gc.ca/destinations/cambodia) · [Lokal Hut](https://www.bedandbreakfast.eu/en/a/sjporwwUp2BS/lokal-hut-bed-and-breakfast) · [Devayn's](https://www.booking.com/hotel/ph/devayn-39-s-inn.html).
 
 ---
 
@@ -68,19 +106,29 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Head — transit (BSB → Jakarta → Bali)
 
 ### Day 1 · Fri Oct 30 · Depart Brasília → São Paulo (GRU)
+- 🗺️ **Offline maps:** **General backup:** Brasília/BSB and GRU access roads if needed; no specific signal-gap download identified for this airport day. Save flight details offline.
+- 💵 **Cash target pp: BRL 130** = 100 planned + 25 emergency (25%) + 5 fee allowance (5%). Cards/Pix for airports and meals; carry BRL only. No USD spending requirement. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - Depart **BSB → GRU** (feeder ~1h50). Arrive GRU. Night-flight logistics.
 - 🛏️ (airport / pre-flight evening).
 
 ### Day 2 · Sat Oct 31 · Long haul GRU → Jakarta (CGK)
+- 🗺️ **Offline maps:** **Prepare before arrival:** download Jakarta, covering CGK, ODST and Grand Indonesia, while on reliable Wi-Fi; general arrival backup, not a confirmed dead zone. Save tickets and hotel details.
+- 💵 **Cash target pp: BRL 65** = 50 planned + 12.5 emergency (25%) + 2.5 fee allowance (5%). Flight/transit day; cards for airport purchases. Keep the separate emergency USD reserve untouched. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **GRU dep 01:30** (ticketed). Arrive **CGK (Jakarta) Nov 1 15:40** (ticketed).
 
-### Day 3 · Sun Nov 1 · Jakarta stopover (~15h) — Kota Tua + street food (evening window)
-- Arrive CGK 15:40 → out by ~17:00 (⚠️ immigration happens HERE — Indonesia entry #1 at CGK, visa-free 30d). Grab/taxi to **Kota Tua** (~45 min + traffic).
-- **Kota Tua (Fatahillah Square)** — colonial Old Town after dark · **Café Batavia** balcony · **Glodok (Chinatown)** food crawl: nasi goreng, sate, bubur ayam (dinner ~$2–5).
-- ⚠️ **Monas** (guide's "don't miss") — tower + grounds close at dusk and you fly out 07:05 → **not feasible**; Kota Tua + food spots are the realistic match. Back near CGK ~23:00.
-- 🛏️ Cheap pod/day-room near CGK (~$10–20) — the window is mostly overnight.
+### Day 3 · Sun Nov 1 · Jakarta stopover (~15h) — Grand Indonesia shopping
+- 🗺️ **Offline maps:** **Precaution — Jakarta:** keep CGK ↔ ODST ↔ Grand Indonesia and the full road corridors downloaded. Save mall/hotel pins and transfer details before leaving airport Wi-Fi.
+- 💵 **Cash target pp: IDR 520,000** = 400,000 planned + 100,000 emergency (25%) + 20,000 fee allowance (5%). Jakarta food and fallback taxi; add any unpaid ODST balance if card payment fails. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
+- Arrive CGK 15:40 → out by ~17:00 (⚠️ immigration happens HERE — Indonesia entry #1 at CGK, visa-free 30d). Grab/taxi directly to **Grand Indonesia**, Jl. M. H. Thamrin No. 1, Central Jakarta.
+- 🛍️ **CONFIRMED VISIT — Grand Indonesia:** try to buy electronics early so they can be used throughout the trip. Aim for **~18:30–21:00** (estimated, dependent on immigration/traffic). Prioritise **Garmin + Sony Center, both East Mall level 3A**; browse clothing only if time remains. Published Garmin/Sony hours: **10:00–22:00**. Confirm exact-model stock before arrival; the visit is decided, purchases/models are not.
+- 👕 **OPTIONAL — “very good nice clothes”, only AFTER electronics and if enough time remains, in recommendation order:** **1. Uniqlo (East Mall LG)** — try the lightweight **100% SUPIMA Cotton T-Shirt** first; **2. Lacoste (East Mall level 2)** — compare **Pima Cotton jersey T-shirts** for fabric feel/fit; **3. Marks & Spencer (West Mall level 1)** — ask for **Pure Supima Cotton short-sleeve tees**, with branch stock unverified. Skip any/all clothing stops rather than delay the airport-side return. **H&M is not a Nov 1 fallback:** its locator lists Grand Indonesia under renovation until Nov 13, 2026.
+- Dinner at the mall → return to **ODST Jakarta Transit Hotel** near CGK; target back near the airport ~23:00, allowing for traffic and the 07:05 flight. **Kota Tua / Café Batavia / Glodok become alternatives if shopping is dropped**, not an additional sightseeing loop. Monas remains infeasible after arrival.
+- 💳 Electronics/clothing purchases are **extra, paid by card where possible**, outside today's cash target and the existing trip-budget envelope. See **Shopping — Model References & Watch Gotchas** below.
+- 🛏️ **ODST Jakarta Transit Hotel — RESERVED** (airport-side).
 
 ### Day 4 · Mon Nov 2 · Arrive Bali → Ubud
+- 🗺️ **Offline maps:** **Precaution — Bali arrival:** download DPS → Ubud, the cottage access lanes and central Ubud. On hotel Wi-Fi, also prepare the rural Bali and Nusa Penida maps needed over the next days.
+- 💵 **Cash target pp: IDR 520,000** = 400,000 planned + 100,000 emergency (25%) + 20,000 fee allowance (5%). Arrival/Ubud food and fallback transfer. Add any unpaid cottage balance if needed; Bali levy paid online by card where possible. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **CGK→DPS 07:05 → arrive DPS 10:30** (morning, not evening — v3 assumed evening). Bali Levy QR + **arrival card** ready (entry #1).
 - Transfer to **Ubud** (~1.5h) → arrive midday. 🛏️ Ubud.
 - 🥇 **Diara's Cottage** (No 1 Jalan Subak Sok Wayah, 80571) — **RESERVED** · private cottage, 9.1/22 · ~800 m from center (15-min walk to Palace/Art Market), near Campuhan Ridge Walk; ⚠️ Monkey Forest is 1.8 km (~25-min walk — scooter/Grab).
@@ -90,6 +138,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Indonesia — Bali (6 nights: 5 Ubud + 1 Kuta exit) + Ijen (3 nights)
 
 ### Day 5 · Tue Nov 3 · Ubud core
+- 🗺️ **Offline maps:** **Precaution — Ubud countryside:** keep Ubud, Campuhan Ridge, Sangeh and the connecting roads offline; add Gianyar/Taro and chosen night-activity locations if taking those options. Save the cottage and pickup pins.
+- 💵 **Cash target pp: IDR 650,000** = 500,000 planned + 125,000 emergency (25%) + 25,000 fee allowance (5%). Sangeh/Palace tickets, markets, food and tips. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **Sangeh Monkey Forest** ✅ (quieter, sacred nutmeg grove, ~700 macaques, free guides — tip them; go early to beat the heat/crowds; ~45 min north of Ubud, Grab ~$8–10 each way) · **Ubud Art Market** ✅ · **Campuhan Ridge Walk** ✅. *(Ubud's Monkey Forest skipped — same macaques, tourist crush.)*
 - Evening: Legong/Kecak **dance at Ubud Palace** ✅ (~$10–20, covered stage).
 - 🌙 **Night options:**
@@ -104,6 +154,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - **Firefly tour at Taro Village** — organic farm + Balinese cooking class + firefly walk through rice paddies; ~$15–21 pp incl. dinner; ~4–5h; book via GetYourGuide
 
 ### Day 6 · Wed Nov 4 · Ubud day tour (shared pickup — optional)
+- 🗺️ **Offline maps:** **Precaution — rural Bali:** download the entire selected tour route from Ubud, including Jatiluwih, Tirta Empul, Bali Pulina, Kanto Lampo/Tegenungan and Goa Gajah as applicable; include Bongkasa/Ayung adventure areas and any chosen rural evening stop. These are precautionary areas, not verified continuous dead zones.
+- 💵 **Cash target pp: IDR 910,000** = 700,000 planned + 175,000 emergency (25%) + 35,000 fee allowance (5%). Tour/driver share, attraction fees and food; add an optional adventure's unpaid quote. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **Pick ~3–4 stops below — the rest are alternatives, not a checklist** (Jatiluwih and the loop are far apart; a full-day shared tour covers a subset).
 - **Jatiluwih Rice Terraces** ✅ (UNESCO-listed, wider/quieter than Tegalalang — fewer crowds, denser green in wet season; ~1h15–1h30 SW of Ubud) · **Tirta Empul water temple** ✅ (you get wet anyway) · coffee plantation — **Bali Pulina** ✅ (jungle-view terrace, authentic luwak/civet + Arabica tasting — swap in for Satria Agrowisata) · waterfall — **Kanto Lampo** ⚠️ (flat path in, tall twin falls, shallow waist-deep pool, closer to Ubud, fewer crowds) · alt waterfall: **Tegenungan** ⚠️ (classic, on the shared-tour route) · **Goa Gajah "Elephant Cave"** ✅ (ancient rock-cut sanctuary, ~$1–2, quick 15-min stop on the way back).
 - Full-day shared tour ~$15–30 pp w/ hotel pickup; or private car ~$30–35/car (cheaper for 3).
@@ -120,6 +172,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - **Karaoke night** — private rooms at MediaFun, modern machines, open until 2 AM; ~$4 pp for the room + ~$5 cocktails
 
 ### Day 7 · Thu Nov 5 · Nusa Penida day trip ⚠️ (TOP rain/sea risk in Bali)
+- 🗺️ **Offline maps:** **High priority — Nusa Penida:** download the whole island plus Sanur harbour before departure. Include the exact arrival/return harbour, chosen west/east coast stops and driver meeting points; cliffs, coves and inland roads can have weak/no reception. Save boat tickets and agree pickup times before losing data. [Coverage guide](https://visitpenida.com/guide/mobile-signal-sim-cards/).
+- 💵 **Cash target pp: IDR 1,560,000** = 1,200,000 planned + 300,000 emergency (25%) + 60,000 fee allowance (5%). Nusa Penida boat/driver package and small fees if not prepaid; reduce by prepaid amounts. Optional bungee is extra at confirmed quote. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - Early fast boat **Sanur → Nusa Penida** (swell can cancel Nov–Mar — today is the fixed slot, tomorrow is the buffer).
 - ⚠️ **Pick ONE coast, or book a confirmed mixed route with a fixed return boat** — the island is bigger than it looks and trying to do both coasts in one day is the classic mistake (you run out of time or miss the last boat). Decide with your driver at the port:
   - **West coast loop (most popular):** **Kelingking Beach** ⚠️ (the icon) · **Broken Beach** ⚠️ · **Angel's Billabong** ⚠️ · quick ridge stops **Rumah Pohon Treehouse** ⚠️ (~10 min) · **Thousand Island Viewpoint** ⚠️ (~10 min).
@@ -132,6 +186,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ Ubud.
 
 ### Day 8 · Fri Nov 6 · ULUWATU day trip (primary) — or Penida rebook / Ubud reset
+- 🗺️ **Offline maps:** **Precaution — Uluwatu:** keep Ubud → Uluwatu, Padang Padang, Pandawa/Timbis, Jimbaran and return roads offline for the selected route. If rebooking Penida, use Day 7’s high-priority whole-island download instead.
+- 💵 **Cash target pp: IDR 1,170,000** = 900,000 planned + 225,000 emergency (25%) + 45,000 fee allowance (5%). Uluwatu driver share, temple/dance and food. Optional paragliding is extra if unpaid. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **Primary (if Penida ran):** **Uluwatu day trip** — the one "Bali don't miss" still missing (cliff temple · sunsets). Private car Ubud → Uluwatu (~1.5–2h): cliff-top **Uluwatu Temple** ✅ · optional Padang Padang beach stop ✅ · **Kecak fire-dance sunset** ✅ (nightly ~6 PM, ~$12) · fish BBQ at Jimbaran Bay optional (~$15–25) → back Ubud ~22:00. ≈ **$35–45 pp** (car ~$30–35/3 + entry ~$8 + Kecak ~$12).
 - 🪂 **Adventure option (fits the loop): Pandawa Beach tandem paragliding** — soar off the Bukit cliffs (Timbis/Gunung Payung launch, above Pandawa & Indian Ocean; lands on the sand). ~10–15 min flight, no experience needed, GoPro/photo + insurance incl. ≈ **$58–72 pp** (15-min, IDR 900k–1.1M). ⚠️ **Season caveat:** Pandawa/Timbis are south-facing — best on the dry-season south trades (Apr–Oct); by early Nov the wind is shifting to Uluwatu's west-facing cliffs. Operators fly ~12:00–17:00 daily on pilot's call — WhatsApp-check a day ahead (e.g. Timbis Paragliding) and slot it **before** the Uluwatu temple + Kecak on the same car; if winds are off, skip (no deposit before same-day confirmation).
 - 🏜️ **Clifftop sunset-dinner options** (swap for the Jimbaran BBQ — all near the temple area):
@@ -148,19 +204,27 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
   - Last Ubud night — any of the Day 5/6 picks you haven't tried yet
 
 ### Day 9 · Sat Nov 7 · Bali → Banyuwangi (Ijen)
+- 🗺️ **Offline maps:** **Precaution — full transfer corridor:** download the actual pickup → Gilimanuk → Ketapang → Banyuwangi route, including both ferry terminals and HHHH Hostel. Do not download only the endpoint towns; rural road/ferry reception may vary.
+- 💵 **Cash target pp: IDR 780,000** = 600,000 planned + 150,000 emergency (25%) + 30,000 fee allowance (5%). Road/ferry transfer allowance if unpaid, food and local transfer; add unpaid HHHH balance if reception card payment fails. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **Road + ferry** (Denpasar → Gilimanuk ferry → Ketapang): ~5–9h, ~$13–15 pp all-in. **Best pick: Lintas Nusa door-to-door shuttle** — Rp 210k (~$13) all-in incl. ferry + meal, daily 11:00 & 21:00 WITA **departure** = **~10:00 WITA hotel pickup**, **WA 0812-3452-0200** (lintasnusa.id). ⚠️ Bali is 1h ahead of Banyuwangi (WITA vs WIB): a 10:00 WITA pickup / 11:00 WITA departure lands Ketapang **15:00–19:00 WIB** (not "mid-afternoon WITA"). Or **Citilink flight DPS→BWX** (~40min, ~$100–130, thin schedule).
 - Arrive **Banyuwangi** evening. 🛏️ **HHHH Hostel** (Jl. Trunojoyo 51) — **RESERVED** · ~500 m from center (6-min walk), right in the standard Ijen open-trip pickup zone · Hostelz 9.54.
 
 ### Day 10 · Sun Nov 8 · Banyuwangi prep day
+- 🗺️ **Offline maps:** **Prepare TODAY before sleeping:** download/check Banyuwangi → Paltuding → Ijen, including the whole mountain approach, trailhead and mapped trail. Save the operator’s contact, hostel pin and midnight pickup confirmation offline before tonight’s departure.
+- 💵 **Cash target pp: IDR 650,000** = 500,000 planned + 125,000 emergency (25%) + 25,000 fee allowance (5%). Food and Ijen preparation; retain tomorrow's trek balance separately if not paid today. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - Rest + confirm the Ijen "open trip" via WhatsApp (shared ~$16–27 pp; midnight pickup; includes transport+guide; masks/headlamps extra; health cert arranged by operator).
 - Optional: hot springs ✅. **Sleep early — 00:00 pickup tonight.**
 
 ### Day 11 · Mon Nov 9 · Ijen blue fire trek ⚠️ (most rain-sensitive item of trip)
+- 🗺️ **Offline maps:** **High priority — Ijen:** keep Banyuwangi → Paltuding → Ijen downloaded; plan to be offline on the mountain rather than relying on reception at the trailhead, trail or crater. Maps supplement the guide. Save the return meeting point. [Local operator: patchy Paltuding signal](https://www.ijenvolcanotours.com/starting-point/).
+- 💵 **Cash target pp: IDR 780,000** = 600,000 planned + 150,000 emergency (25%) + 30,000 fee allowance (5%). Ijen open-trip allowance, small equipment/health-certificate extras and food; subtract prepaid tour costs. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **00:00–00:30 pickup** → Paltuding trailhead → ~3h hike → **blue fire** ~2–4am → **sunrise** over the turquoise crater lake → descend → back ~9–10am.
 - Rain: park can close the crater descent with zero notice. Forecast rain → reschedule/skip (fallback: hot springs, crater-rim sunrise, town).
 - Rest all afternoon. 🛏️ Banyuwangi.
 
 ### Day 12 · Tue Nov 10 · Banyuwangi → Bali
+- 🗺️ **Offline maps:** **Precaution — return transfer:** retain Banyuwangi → Ketapang → Gilimanuk → Kuta/Adhi Jaya, covering the entire booked road route and ferry terminals; keep DPS access roads too. Save the hotel/drop-off pin offline.
+- 💵 **Cash target pp: IDR 910,000** = 700,000 planned + 175,000 emergency (25%) + 35,000 fee allowance (5%). Banyuwangi–Bali transfer allowance if unpaid, meals and fallback taxi. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - ⚠️ **NOT yet booked** — confirm this transfer before the trip. Return via road+ferry — **Lintas Nusa** reverse route Banyuwangi→Bali, **WA 0812-3452-0200** (Rp 210k all-in, daily 11:00/21:00; the **11:00 WIB** departure = **12:00 WITA** and, on the guide's 5–9h range, lands Denpasar **~17:00–21:00 WITA** — not mid-afternoon). **Drop-off near Kuta/Adhi Jaya must be confirmed with the operator.**
 - ⏰ **Tight next morning:** the Nov 11 DPS flight departs **08:35** → aim to be at Adhi Jaya by ~20:00–21:00 latest, wake ~05:00. If the shuttle runs late, the **BWX→DPS evening flight (~40 min, Citilink)** is the fallback; do **not** take the 21:00 road departure.
 - 🛏️ **Adhi Jaya Hotel** (Jl. Kartika Plaza, Kuta 80361) — **RESERVED** · ~2 km / ~4 min from DPS, opposite Discovery Mall · 8.6 (Agoda 4k) · pool; ⚠️ staff push a 200k IDR airport transfer — use Grab (fraction of the price). Ask for a **packed takeaway breakfast** for the early Nov 11 flight.
@@ -177,12 +241,16 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Philippines — Palawan (5 nights)
 
 ### Day 13 · Wed Nov 11 · DPS → Manila → Puerto Princesa
+- 🗺️ **Offline maps:** **Precaution — arrival + prepare Palawan:** download Puerto Princesa/PPS → Lokal Hut, Puerto Princesa → Sabang, the full Puerto Princesa → Roxas → Taytay → El Nido road corridor, and El Nido/Bacuit Bay on hotel Wi-Fi before the following excursions. Save onward bookings offline.
+- 💵 **Cash target pp: PHP 1,950** = 1,500 planned + 375 emergency (25%) + 75 fee allowance (5%). Arrival/local transport/food; ADD entire unpaid Lokal Hut room balance (cash listed on site). Withdraw for tomorrow's tour. Keep IDR 200,000 per person until DPS departure. No USD required. Grab foreign-card fee: allow up to 3% of affected charges, separately.
 - ✈️ **BOUGHT — Cebu Pacific 5J280 DPS→MNL dep 08:35 → arr MNL 12:45** (4h10). **Connection 2h10 at NAIA** — arrival **Terminal 3**, departure **Terminal 3** (same terminal, no transfer needed) → **5J641 dep 14:55 → arr PPS 16:25** (1h30). ✅ Same-day connect is **locked** (was the trip's top routing risk). ⚠️ 2h10 is a normal but not generous LCC connect: bags are through-checked (single booking), and this is the leg to **not** dawdle on — land, clear transit, go straight to the gate. LCC — bag fees on top.
 - 🛏️ **Lokal Hut Bed & Breakfast** (Trinidad Rd off Rizal Avenue, 5400 PP) — **RESERVED** · homestay, ~9.0/400+ · central (walking distance to shops/restaurants, tour pickups), airport ~5 min · $$; ask for a hot-shower + working-AC room.
 - Early-evening arrival → free night: **Baywalk sunset (5:15 PM)** · Plaza Cuartel ruins · **Baywalk Night Market** (see Night Activities).
 - 📱 **On arrival: book Underground River for tomorrow with D'Palawan** (WhatsApp 0963 139 0000) or ask the Lokal Hut front desk — both are same-day/1-day friendly in Nov (see Day 14). Pick-up window 07:00–08:00, so only the booking, not a morning rush, matters.
 
 ### Day 14 · Thu Nov 12 · Underground River ⚠️ (permit-gated; runs in ordinary rain)
+- 🗺️ **Offline maps:** **Precaution — Underground River:** keep the full Puerto Princesa → Sabang drive, Sabang port and park entrance offline. Do not assume Sabang is entirely disconnected; prepare for gaps on the rural/boat sections and do not depend on reception or GPS inside the cave. Save the tour meeting point.
+- 💵 **Cash target pp: PHP 4,550** = 3,500 planned + 875 emergency (25%) + 175 fee allowance (5%). Includes conservative PHP 2,700 Underground River allowance + PHP 800 food/extras before buffers; reconcile operator's conflicting quote before paying. Add unpaid Lokal Hut balance. No USD required. Grab foreign-card fee: allow up to 3% of affected charges, separately.
 - Full-day shared tour from PPS — **D'Palawan Travel & Tours** (~**$35** pp / ₱2,200): 90-min drive to Sabang, paddleboat through the cave, buffet lunch, return ~16:00–17:00.
 - ⚠️ **Permit system:** the park **caps ~900 visitors/day** and enforces **"no permit, no entry"** — the operator must have your slot confirmed. Runs in normal rain; only extreme weather closes it (don't call it "rain-proof").
 - **Booking (not booked yet — two routes, pick when ready):** WhatsApp **0963 139 0000** (Viber/WeChat/SMS) · hotel pick-up 07:00–08:00 (city proper — Lokal Hut ✓) · confirm participation by WhatsApp the day before.
@@ -193,19 +261,27 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ Puerto Princesa.
 
 ### Day 15 · Fri Nov 13 · Puerto Princesa → El Nido
+- 🗺️ **Offline maps:** **Precaution — rural van transfer:** keep the entire Puerto Princesa → Roxas → Taytay → El Nido corridor downloaded, including Devayn’s Inn and the van drop-off. Exact dead zones are unverified. Check the Bacuit Bay download tonight before boat tours.
+- 💵 **Cash target pp: PHP 1,950** = 1,500 planned + 375 emergency (25%) + 75 fee allowance (5%). Bought van excluded; food/tricycles/Devayn's extras. ADD any unpaid Devayn's room balance if it cannot be settled online. Secure cash for both boat-tour days. No USD required. Grab foreign-card fee: allow up to 3% of affected charges, separately.
 - 🚐 **BOUGHT (12Go) — shared van PPS → El Nido**, dep **08:00** → arr **13:30** (~5.5h; comfort/lunch stop Roxas or Taytay). Midday arrival beats the old "arrive evening" — afternoon free to settle in + Corong-Corong sunset.
 - 🛏️ **Devayn's Inn** (Calle Hama, 5313 El Nido) — **RESERVED** (Nov 13–15, 3 nights) · town proper on Calle Hama (beach/night-market strip), ~0.3 km from the tour pier (Tours A/B pickups).
 
 ### Day 16 · Sat Nov 14 · El Nido Tour A ⚠️
+- 🗺️ **Offline maps:** **High priority — El Nido Tour A:** download El Nido town + Bacuit Bay, including Big Lagoon, Secret Lagoon and Shimizu. Tour-boat reception is reported patchy; expect periods without data. Save harbour/meeting points and return arrangements. [Connectivity guide](https://www.elnidohotelsranking.com/el-nido-sim-card-internet-guide-2026/).
+- 💵 **Cash target pp: PHP 3,900** = 3,000 planned + 750 emergency (25%) + 150 fee allowance (5%). Tour A, environmental/lagoon fees, food and small rentals; confirm all-in quote and subtract prepaid costs. No USD required. Grab foreign-card fee: allow up to 3% of affected charges, separately.
 - **Big Lagoon · Secret Lagoon · Shimizu Beach** — shared boat 9:00–16:00 from town pier. ~₱1,200–1,500 + ₱200–400 eco + ₱200 lagoon ≈ **$32–43 pp**. **Cheaper booked in person (~₱700 less than GYG).** ❓ **Identify the boat-lunch provider + menu when booking** (the included lunch is operator-set, usually grilled fish/rice at one of the beach stops) — flag allergies/diet ahead.
 - 🛏️ El Nido.
 
 ### Day 17 · Sun Nov 15 · El Nido Tour B ⚠️
+- 🗺️ **Offline maps:** **High priority — El Nido Tour B:** retain El Nido town + Bacuit Bay, covering Snake Island, Cathedral Cave and Pinagbuyutan. Expect intermittent/no usable data during parts of the tour; cave interiors are not reliable for reception or GPS. Save the departure/return meeting point.
+- 💵 **Cash target pp: PHP 3,900** = 3,000 planned + 750 emergency (25%) + 150 fee allowance (5%). Tour B, food and extras; reuse valid environmental-fee receipt rather than paying twice. No USD required. Grab foreign-card fee: allow up to 3% of affected charges, separately.
 - **Snake Island · Cathedral Cave · Pinagbuyutan** — same model. Tours A/B run reliably; Tour C (outer islands) cancels most often — skip. ❓ **Confirm the boat-lunch provider + menu at booking** (operator-set packed lunch).
 - ⚠️ *No buffer day this trip (traded for Vietnam) — if one tour is sea-cancelled, the other day absorbs it and you lose one tour.*
 - 🛏️ El Nido.
 
 ### Day 18 · Mon Nov 16 · El Nido → Cebu → Ho Chi Minh City
+- 🗺️ **Offline maps:** **Precaution — travel/arrival:** retain El Nido town → ENI and download SGN → SG Cozy2/central HCMC before flying. General arrival backup; no specific citywide dead zone identified. Save Cebu connection details and hotel address offline.
+- 💵 **Cash target pp: VND 650,000** = 500,000 planned + 125,000 emergency (25%) + 25,000 fee allowance (5%). Vietnam arrival food/fallback transfer. ALSO keep PHP 1,500 planned cash + 25% emergency + 5% fee allowance = PHP 1,950 through El Nido/Cebu for tricycle/airport food. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - ✈️ **BOUGHT — El Nido → Ho Chi Minh City via CEBU (not Manila)**: **ENI 10:45 → CEB 12:30** (CebGo **DG 6257**, 1h45) · **6h05 connection at Cebu** · **CEB 18:35 → SGN 20:45** (Cebu Pacific **5J 5780**, 3h10). Total **~11h elapsed** (10h on the clock — SGN is 1h behind Cebu). Arrival 20:45 = unchanged, so the hotel night still works.
   - ✅ **Connection is protected** — the booking shows *"Transferência coberta pela Proteção de Conexão"* for the Cebu self-transfer.
   - ⚠️ **But it is still an AUTOTRANSFERÊNCIA (self-transfer):** you check in each flight separately, **collect + re-check bags at Cebu**, and must meet Vietnam's entry requirements (e-Visa) on the ground. Protection covers misconnection, **not** the 6h of your time.
@@ -223,44 +299,61 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 
 ## Vietnam — HCMC (4) + Mui Ne (2) + Da Lat (3) + Phú Quốc (3)
 
-### Day 19 · Tue Nov 17 · Cu Chi Tunnels ✅ (rain-safe w/ prep)
+### Day 19 · Tue Nov 17 · Cu Chi Tunnels + HCMC clothes shopping
+- 🗺️ **Offline maps:** **Precaution — Cu Chi:** download HCMC → Ben Duoc and the complete tour approach/return route; retain central HCMC for shopping. Save the tour pickup pin; offline maps are for surface orientation, not navigation inside tunnels.
+- 💵 **Cash target pp: VND 1,430,000** = 1,100,000 planned + 275,000 emergency (25%) + 55,000 fee allowance (5%). Cu Chi tour/entry, food and optional on-site activity allowance; subtract prepaid costs. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - Morning **Cu Chi half-day tour** (~$16–17 pp, D1 pickup, back ~14:00). Go **Ben Duoc** (authentic) not Ben Dinh (touristy). Entry ~₫90k (~$3.50).
 - 🎯 **AK-47 firing range on-site:** ~₫40k/bullet ≈ **$1.60/bullet** (sets of 10).
-- Afternoon free: Ben Thanh Market ✅ · Bui Vien street.
+- 🛍️ **CONFIRMED — clothes shopping in HCMC, ~15:00–19:00 after Cu Chi:** **Saigon Centre / Takashimaya (67 Lê Lợi, including Uniqlo)** → **Vincom Đồng Khởi** if time/energy allows. This replaces the free afternoon/Ben Thanh Market block; Bui Vien remains an evening option. Clothing purchases are extra to the daily cash target/budget; prefer cards at the malls. Electronics/camera stores are optional backups only if Jakarta purchases did not happen.
+- 👕 **Recommended T-shirt stops, in order:** **1. Uniqlo, Saigon Centre (level 4)** — **100% SUPIMA Cotton T-Shirt**, the closest verified fabric reference to the desired soft/light Peruvian Pima feel; **2. Lacoste, Saigon Centre (L02-11/12)** — compare **Pima Cotton jersey tees** (exact size/model stock unconfirmed). **Lacoste Vincom Đồng Khởi (L1-06A)** is the same-brand fallback if continuing to the second mall, not a mandatory duplicate stop. **Optional alternative-fabric enquiry:** Mango's Vietnam catalogue lists a short-sleeved **lyocell tee, ref. 87087907**; only visit a branch if current men's range and stock are confirmed, as no specific pickup branch has been verified. Prefer the confirmed Uniqlo/Lacoste stops over an extra cross-city search.
 
 ### Day 20 · Wed Nov 18 · War sites + food
+- 🗺️ **Offline maps:** **General backup — HCMC:** retain central HCMC, hotel and today’s museum/palace/food stops offline; no specific outdoor signal gap identified.
+- 💵 **Cash target pp: VND 910,000** = 700,000 planned + 175,000 emergency (25%) + 35,000 fee allowance (5%). Museum/palace, food and markets. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - **War Remnants Museum** ✅ (₫40k ≈ $1.60, 2–3h, intense — open Wednesdays; go early) · **Reunification Palace** ✅ (₫65k ≈ $2.50, 1.5h).
 - Food crawl: **Den Long** ✅ (replaces the dropped Bánh Mì Huỳnh Hoa) · **com tam Ba Ghien** ✅ · egg coffee ✅ · rooftop (Chill Skybar) ✅.
 
 ### Day 21 · Thu Nov 19 · HCMC free day
+- 🗺️ **Offline maps:** **General backup — HCMC + prepare transfer:** retain central HCMC; download the full HCMC → Phan Thiet → Ham Tien/Mui Ne bus corridor before tomorrow’s early departure. Save the bus-office pickup pin and Minhon address.
+- 💵 **Cash target pp: VND 1,560,000** = 1,200,000 planned + 300,000 emergency (25%) + 60,000 fee allowance (5%). Skydeck/museum, standard spa allowance and food; premium spa/AO Show extra unless paid by card. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - **Bitexco Skydeck** ✅ (~$10) · **Fine Arts Museum** ✅ (₫30k ≈ $1.20 — open Thu) · **spa afternoon** ✅ — 🥇 **Sense Spa** (52 Dong Du, D1, ~₫600k/90-min ≈ **$24**, tipping included, free D1 pickup) · alternatives: **VN SPA**, **Laboho**, **Mộc Kim**, premium **Birthree CHAMPACA** (~$45/60-min head spa). Book via WhatsApp 1–2 days ahead.
 - Evening: **AO Show** ✅ or rooftop.
 
 ### Day 22 · Fri Nov 20 · HCMC → Mui Ne
+- 🗺️ **Offline maps:** **Precaution — bus/coastal day:** keep the complete HCMC → Phan Thiet → Ham Tien/Mui Ne route, Minhon Hotel, fishing village and Red Sand Dunes offline. Prepare tomorrow’s wider Bau Trang area on hotel Wi-Fi.
+- 💵 **Cash target pp: VND 910,000** = 700,000 planned + 175,000 emergency (25%) + 35,000 fee allowance (5%). Bought bus excluded; Mui Ne food, small entries and fallback local transport. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - 🚌 **BOUGHT — bus HCMC → Mui Ne**, dep **06:00** → arr **09:30** (Phuong Trang / Hanh Cafe-type express, via Phan Thiết — faster than the ~4–5h estimate). Early start from SG Cozy2 — **confirm the pickup point on the ticket** (operators office on/off Pham Ngu Lao).
 - Arrive mid-morning → effectively a full first day: **Mui Ne Beach / Suoi Nuong** ✅ · **Fishing Village** ✅ (colorful boats + fresh seafood, best late afternoon) · **Red Sand Dunes at sunset** ✅ (~8 km — slide the red sand hills, ~$1).
 - 🌙 Night: seafood BBQ on the beach strip · **Mango Beach Bar / Sandune Bar** (beer ~$1–2). See Night Activities.
 - 🛏️ **Minhon Hotel Mui Ne** (210/5 Nguyễn Đình Chiểu, KP2, Hàm Tiên, Mui Ne) — **RESERVED** (Nov 20–21, 2 nights) · Central Hàm Tiến mid-strip: walk to food/Bo Ke seafood + near the bus offices (Sinh Tourist ~144 · Hanh Cafe ~246 — handy for the Nov 22 Da Lat bus).
 
 ### Day 23 · Sat Nov 21 · Mui Ne sand dunes + beach
+- 🗺️ **Offline maps:** **Precaution — dunes/countryside:** download Ham Tien/Mui Ne → Bau Trang (White Sand Dunes, ~30–40 km NE), Fairy Stream and Poshanu/Phan Thiet, including connecting roads. Save the jeep/driver pickup point; specific dead zones are unverified. Download tomorrow’s mountain bus route tonight.
+- 💵 **Cash target pp: VND 1,950,000** = 1,500,000 planned + 375,000 emergency (25%) + 75,000 fee allowance (5%). Dunes/jeep or ATV, small entries and food; optional kitesurf lesson is extra. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - **White Sand Dunes (Bàu Trắng)** ⚠️ — dawn or morning, ~30–40 km NE; rent a **quad bike/ATV** (~$15–25/30 min) or jeep; entrance ~₫15k (~$0.60). Vast white dunes + lotus lake.
 - **Fairy Stream (Suối Tiên)** ✅ — walk up the shallow red-sand stream through the mini-canyon (~$1). **Poshanu Cham Towers** ✅ (Phan Thiết, ~₫15k) — the Cham history the Nha Trang day would have had.
 - Afternoon: beach + **kitesurf-watching** ✅ (Mui Ne is Asia's kitesurf capital; first-timer lesson ~$30–45/2h).
 - 🛏️ **Minhon Hotel Mui Ne** (RESERVED).
 
 ### Day 24 · Sun Nov 22 · Mui Ne → Da Lat + arrival
+- 🗺️ **Offline maps:** **High priority — mountain transfer:** download the full actual Mui Ne → Da Lat bus route, including the mountain pass, Dalat Peace and central Da Lat. Mountain passes/forest roads can have variable reception; prepare the Datanla/Prenn/Ta Nung excursion areas too. [Da Lat offline-map guidance](https://reviewdalat.net/en/da-lat-map/).
+- 💵 **Cash target pp: VND 1,170,000** = 900,000 planned + 225,000 emergency (25%) + 45,000 fee allowance (5%). Bought bus excluded; Crazy House/optional garden, markets and food. ADD any unpaid Dalat Peace room balance until reception card acceptance is confirmed. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - 🚌 **BOUGHT — bus Mui Ne → Da Lat**, dep **07:50** → arr **11:30** (~3h40 elapsed through the mountain pass). Early-ish start from Minhon (office ~2-min walk on Nguyễn Đình Chiểu); arrive ~lunch → full Day 24 ahead.
 - Afternoon: **Hang Nga "Crazy House"** ✅ (~1.5 km from center, ~₫60–100k ≈ **$3**) — one of the world's 10 strangest buildings; great rain-safe arrival stop. Then **Xuan Huong Lake** ✅ · coffee (Lien Hoa / Tung) ✅ · **Domaine de Marie** ✅. *Optional easy add-on: **Fresh Garden** (90B Vạn Thành flower village, ~8–9 min from center — flower fields + indoor **Fresh Zoo** petting zoo, ~₫100–150k ≈ **$4–6**; open 7:30–17:30).*
 - Evening: **night market + fresh fruit** (strawberry season) ✅.
 - 🛏️ **Dalat Peace Backpackers Hostel** (37/10/17 Hoàng Diệu, Phường Cam Ly) — **RESERVED** (Nov 22–24, 3 nights) · Cam Ly side, a bit off the night-market core but Grab-cheap; fine for the DLI morning run.
 
 ### Day 25 · Mon Nov 23 · Da Lat canyoning ⚠️ (Nov = safe season, still rain-gated)
+- 🗺️ **Offline maps:** **Precaution — canyoning:** retain Da Lat → Datanla and the surrounding canyon/forest area offline. Assume you may be unreachable during the activity; a specific canyon dead zone is unverified. Follow the guide and save operator/pickup details before entering.
+- 💵 **Cash target pp: VND 3,510,000** = 2,700,000 planned + 675,000 emergency (25%) + 135,000 fee allowance (5%). Conservative unpaid canyoning allowance plus food/basic extras; subtract prepaid tour amount. Optional coaster/zipline extra unless card-paid. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - **Full-day canyoning at Datanla canyon** — **Viet Challenge** (5.0★, ~$40–80) or **Phat Tire Ventures** (~$82). Rappel down a 25m waterfall, cliff jumps, water slides; ~6–7h incl. lunch. Operators cancel if upstream rain is heavy. ❓ **Identify the canyoning lunch provider + menu** when booking (included lunch is operator-set).
 - 🎢 **Same-venue option — Datanla Alpine Coaster** (Thác Datanla, ~5–6 km from center): **Asia's longest alpine coaster (2,400 m)** through the pine forest down to the falls — entry ~₫80k ≈ **$3.20** · 2,400 m ride ~₫250k ≈ **$10** · shorter 1,200 m ~₫210k ≈ **$8.50** · zipline (1,500 m) ~₫1M ≈ **$40**. ⚠️ **Coaster stops when it rains** — fit it in before/after canyoning (same site, arrives 7:30 AM) or as the swap if canyoning cancels. Also pairs with the **Greenline Luge** 70 kg-limit fallback (see Risks).
 - 🌙 Night: scooter food tour or bars (see Night Activities).
 - 🛏️ **Dalat Peace Backpackers Hostel** (RESERVED).
 
 ### Day 26 · Tue Nov 24 · Da Lat Oddities Day 🐪
+- 🗺️ **Offline maps:** **High priority — outlying Da Lat roads:** keep Da Lat, Prenn, the Ta Nung loop (Cao Nguyen Hoa/Greenline Luge, GOD Valley, Mongo Land) and connecting roads offline. Extend to Tuyen Lam, Valley of Love, Langbiang Land or ZooDoo only if chosen; passes/forest roads may have gaps. Include tomorrow’s Dalat Peace → DLI route.
+- 💵 **Cash target pp: VND 2,210,000** = 1,700,000 planned + 425,000 emergency (25%) + 85,000 fee allowance (5%). Selected attraction loop, driver share and food; not every listed alternative. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - **Prenn Waterfall** (10 km south) — entry ~₫50k ≈ **$2** · **OSTRICH + elephant rides** ✅. Then a **Tà Nung Pass loop** (the "weird things cluster"):
   - **Greenline Luge (Cao Nguyên Hoa)** ✅ — gravity kart (entry ~₫150k ≈ **$6**; luge combo ~₫250k ≈ **$10**; ⚠️ ~70 kg rider limit) — Locked Dec #11, now on the oddities route.
   - **GOD Valley** (reopened Jan 2026) — tiny-people village + giant mechanical gods (Turtle God / Forest God) · **Mongo Land** — "Mongolia in Da Lat" (yurts, camels/alpacas, rainbow slide).
@@ -273,21 +366,29 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - 🛏️ **Dalat Peace Backpackers Hostel** (RESERVED).
 
 ### Day 27 · Wed Nov 25 · Da Lat → SGN → Phú Quốc
+- 🗺️ **Offline maps:** **Precaution — airport transfer + island:** retain Da Lat → DLI; download all of Phu Quoc before arrival, including PQC, 9Station/Duong Dong, Ganh Dau/northern attractions, An Thoi and Bai Vong port. Save SGN connection and hostel details offline.
+- 💵 **Cash target pp: VND 1,170,000** = 900,000 planned + 225,000 emergency (25%) + 45,000 fee allowance (5%). Bought flights excluded; fallback airport transfers, food/market and optional show. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - ✈️ **BOUGHT — Da Lat → Phú Quốc** (via SGN), dep **07:55** → arr PQC **13:35**. Legs: **DLI 07:55 → SGN 08:50** (VietJet **VJ 361**, 55 min) · **3h45 connection at Tan Son Nhat** · **SGN 12:35 → PQC 13:35** (VietJet **VJ 327**, 1h). ⚠️ **Autotransferência** — protected (*"Transferência coberta pela Proteção de Conexão"*), but you **collect + re-check bags at SGN** and re-clear domestic security; 3h45 is comfortable. Early Grab from Cam Ly to DLI (~35–40 min, ~$8–12) — book it the night before.
 - Arrive early afternoon → settle at **9Station Hostel & Bar** (91/3 Trần Hưng Đạo, Duong To) — **RESERVED** (Nov 25–27, 3 nights) · northern Long Beach strip, walkable into Duong Dong · evening: **Grand World** free entry + night show (~₫300k ≈ **$12**) in Phu Quoc United Center (free shuttle) **or** Duong Dong night market.
 - 🛏️ **9Station Hostel & Bar** (RESERVED).
 
 ### Day 28 · Thu Nov 26 · NORTH island — Vinpearl Safari + Grand World
+- 🗺️ **Offline maps:** **Precaution — north Phu Quoc:** retain the whole-island map, especially 9Station → Ganh Dau/Vinpearl Safari/Grand World and the return route. This is a backup for outlying roads, not a claim that the attractions lack service. Save shuttle stops/times offline.
+- 💵 **Cash target pp: VND 2,080,000** = 1,600,000 planned + 400,000 emergency (25%) + 80,000 fee allowance (5%). Safari/show/food if tickets not bought by card; subtract prepaid tickets. No USD required. Grab card fee: +4% of Vietnam Grab charges, separately.
 - **Vinpearl Safari** ✅ (~₫750–850k ≈ **$30–34**, 9:00–16:00, **north-island United Center, Ganh Dau**) — safari + semi-wild animal park. Keep **Safari + Grand World together on this north day** (~40 min from the hostel; free Vinpearl shuttle).
 - Evening: **Grand World night show** ✅ (~$12) + K-town / Teddy Bear lights — **dinner at Grand World** (northern day, as the food plan assumes).
 - 🛏️ **9Station Hostel & Bar** (RESERVED).
 
 ### Day 29 · Fri Nov 27 · SOUTH island + Phú Quốc buffer
+- 🗺️ **Offline maps:** **Precaution — south Phu Quoc/optional boat:** retain Duong Dong → An Thoi/Sunset Town and the whole-island map. If squid fishing, plan for periods without data at sea. TODAY download/check Bai Vong, Ha Tien, Xa Xia/Prek Chak and the full onward road corridor to Phnom Penh; save ferry/bus and border documents offline.
+- 💵 **Cash target pp: VND 1,430,000** = 1,100,000 planned + 275,000 emergency (25%) + 55,000 fee allowance (5%). South-island excursion/food or optional squid trip. Obtain USD for Cambodia BEFORE tomorrow's land crossing; do not rely on border ATM. Grab card fee: +4% of Vietnam Grab charges, separately.
 - **Sunset Town (An Thoi, south island)** is a **separate excursion** (~30–40 min south of Duong To — do NOT bundle it into a "second United Center loop", which is north) — Kiss Bridge, **free Viet Puppetry show** (6:00–6:30 & 8:15–8:45 PM, except Wed), sunset, Vui Fest night market.
 - Otherwise a buffer day: morning beach ✅ (Long Beach / Dinh Cau) · **hotel-area** food/dinner (Duong Dong) ✅ · optional **night squid fishing** ✅ (~$8–15, 4h, departs ~5 PM from Duong Dong).
 - Absorbs any rain from Day 28. 🛏️ **9Station Hostel & Bar** (RESERVED).
 
 ### Day 30 · Sat Nov 28 · Phú Quốc → Phnom Penh by ferry + bus 🇰🇭
+- 🗺️ **Offline maps:** **High priority — ferry; precaution — border/road:** keep Phu Quoc/Bai Vong → Ha Tien, Xa Xia–Prek Chak and the operator’s actual road route to Phnom Penh/Mettavary offline (include the Kampot corridor if used). Plan for no usable data during parts of the sea crossing and possible interruption while changing country networks; exact road dead zones are unverified. Save tickets, border documents and operator contacts.
+- 💵 **Cash target pp: USD 91** = 70 planned + 17.5 emergency (25%) + 3.5 fee allowance (5%). USD REQUIRED TO CARRY: USD 30 visa contingency line + USD 40 meals/local travel before buffers; visa price/payment at Prek Chak must be reconfirmed with operator. Bought ferry/bus excluded. Keep VND 300,000 (buffered pocket amount) for Vietnam-side food/last-mile. KHR change is useful; do not exchange all USD. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - 🚢🛻 **COMBINED Phú Quốc → Phnom Penh ticket BOUGHT on 12Go** — dep **09:00** → arr **17:00** (~8h): ferry Bai Vong → Hà Tiên + transfer + van/bus through the **Xa Xia (VN)–Prek Chak (KH) border** — one operator handles ferry + border + transfer.
 - Arrive **Phnom Penh ~17:00** — check in **Mettavary Hotel** (No.17, St 312 corner 21, Tonle Bassac) — **RESERVED** (Nov 28–29, 2 nights) · quiet lanes by Bassac Lane nightlife, ~10–15 min to Riverside · riverside sunset · dinner. ⚠️ **S21 closes 17:00 — drop it** (no longer feasible).
 - ⚠️ **Border/visa:** **Prek Chak does NOT accept the Cambodia e-Visa on entry** (official MFAIC border table). The only route here is **visa on arrival (~$30 cash, +1 passport photo)**; the bus staff shepherd you through (15–30 min). ⚠️ Touts may quote $35–38 — insist on the official $30 with exact cash. Expect the unofficial ~$5 "service tip" at Xa Xia (refusing delays the whole bus). Confirm Prek Chak VOA + current border operation before travel (Cambodia-Thailand land crossings are separately closed).
@@ -303,11 +404,15 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 ## Cambodia — rocket launcher only (2 nights) + return to Bali
 
 ### Day 31 · Sun Nov 29 · Kampong Speu shooting range ⚠️ (rain-cancellable, no buffer)
+- 🗺️ **Offline maps:** **Precaution — Kampong Speu:** download Phnom Penh → the operator-confirmed range pin and the complete return route. Exact range coordinates/coverage remain unconfirmed: obtain the pin before departure and expand the map accordingly. Retain Mettavary → Techo airport (KTI) for tomorrow.
+- 💵 **Cash target pp: USD 65** = 50 planned + 12.5 emergency (25%) + 2.5 fee allowance (5%). USD recommended for everyday Cambodia fallback; KHR fine for small purchases. ADD provisional USD 260 pp / USD 780 group CASH activity envelope from existing USD 600 group plan +25% emergency +5% fee allowance; both buffers are already included, so do not add them again. Combined daily target including this provisional activity = **USD 325 pp / USD 975 group**. Confirm cash requirement and exact group quote; larger selections need more. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - Full-day private-car tour to **Kampong Speu military range** (~90–120 min each way). Base ~$15 pp; **weapons + ammo paid separately in cash at the range** — **RPG ≈ $500–550/shot**, AK-47/M16 ≈ **$60/clip**, PKM ≈ **$200**; realistic minimum ~$600 spend (split 3 ways).
 - Outdoor range stops in heavy rain — operator **reschedules/refunds**. 🛏️ **Mettavary Hotel** (RESERVED).
 - **Good news:** unlike v3, the red-eye is not tomorrow morning — a washout now just rearranges the tail, not the trip.
 
 ### Day 32 · Mon Nov 30 · Phnom Penh → Bali (DPS)
+- 🗺️ **Offline maps:** **Precaution — airport/arrival transfers:** retain Mettavary/Phnom Penh → KTI and download DPS → Stark Hotel/Kuta. Save KLIA terminal/connection information separately; no specific urban dead zone identified.
+- 💵 **Cash target pp: IDR 650,000** = 500,000 planned + 125,000 emergency (25%) + 25,000 fee allowance (5%). Bali food/fallback transfer; online card for levy. ALSO keep USD 30 (buffered pocket amount) or KHR equivalent for Phnom Penh taxi fallback and MYR 50 (buffered optional pocket amount) for KLIA; cards expected for airport purchases, so MYR withdrawal is not essential. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - ✈️ **BOUGHT — Phnom Penh → DPS via KUALA LUMPUR**, dep **07:20** (ICT, UTC+7) → arr **16:40** (WITA, UTC+8) same-day. Legs: **KTI 07:20 → KUL 10:20** (AirAsia Cambodia **KT163**, 2h00) · **3h05 connection at KLIA** · **KUL 13:25 → DPS 16:40** (AirAsia **AK368**, 3h15). **Elapsed = 8h20** (9h20 on the clock — the +1h TZ change shortens real duration). *(Times re-issued by the airline: was 07:35/10:25.)*
   - ⚠️ **Autotransferência at KLIA** — protected by *"Garantia de Autotransferência"*, but **collect + re-check bags at KUL** and re-clear security. Both legs are AirAsia (same LCC group) → likely the same terminal (**KLIA2/T2**); 3h05 is adequate.
   - 🛂 **Malaysia transit:** Brazilians are **visa-free** (90 days) — no transit visa needed even if you must clear immigration to re-check bags. Carry the DPS/onward ticket.
@@ -317,6 +422,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - ⚠️ The **dawn-raid vs SGN-sleep** fork is now **moot** — this same-day ticket needs no extra SGN night. Delay chain: landing 16:40 (Nov 30) leaves all of Dec 1 free until the **DPS 20:15 departure** (be at DPS by ~18:15) — still a full buffer day.
 
 ### Day 33 · Tue Dec 1 · Bali buffer day → DPS 20:15 departure
+- 🗺️ **Offline maps:** **General backup — South Bali:** retain Kuta, Seminyak/Canggu if selected, and the full return route to DPS. Keep the Jakarta/CGK map and save terminal-transfer instructions for tonight’s connection.
+- 💵 **Cash target pp: IDR 780,000** = 600,000 planned + 150,000 emergency (25%) + 30,000 fee allowance (5%). Food, local transport and airport fallback; shopping beyond small purchases extra. No USD required; spend down excess IDR after keeping transfer buffer. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - Relaxed day near DPS: beach/Seminyak/Canggu walk · last shopping · earlier sunset (before leaving for the airport).
 - ✈️ **Return leg starts TONIGHT — DPS dep 20:15** (ticketed) → **CGK arr 21:15** · be at DPS by ~**18:15** (pre-book the Grab).
   - ⚠️ **Two sectors, two formalities:** **DPS→CGK is DOMESTIC** (Jakarta arrival at a domestic terminal). Then the **CGK international departure** (Dec 2, 00:15) may be from a **different terminal** — CGK has a free inter-terminal Skytrain (~15–20 min + walk); re-clear international security/immigration. **Jakarta connection = 3h (21:15 → 00:15)**, which is adequate but not generous if the domestic leg is late.
@@ -325,6 +432,8 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 - ⚠️ **Indonesia exit #2 happens at CGK, not at DPS** — the DPS boarding tonight is **domestic**; passport control/immigration out of Indonesia is only at **CGK before the 00:15 flight**. (Visa-free 30d — Brazil is on the list, no visa needed; entry was completed Nov 30 — nothing else to redo.)
 
 ### Day 34 · Wed Dec 2 · CGK → DXB → GRU → Home
+- 🗺️ **Offline maps:** **General backup — transit/home:** retain CGK access/terminal details and Brasília/BSB → home if needed; no remote-area download identified. Save DXB/GRU connection details separately; ordinary street-map downloads may not include indoor airport layouts.
+- 💵 **Cash target pp: BRL 195** = 150 planned + 37.5 emergency (25%) + 7.5 fee allowance (5%). Cards for DXB/GRU food and BSB transfer; optional AED 50 (buffered pocket amount) only if desired, no need to withdraw for normal airside purchases. No USD required. Card/ATM funding costs: see Payment Setup fee table; no universal local card surcharge assumed.
 - **CGK 00:15 (Dec 2) → DXB 05:30** · **DXB 09:05 → GRU 17:35** (ticketed). ⚠️ CGK: confirm the **international-departure terminal** and the Skytrain transfer if it differs from the domestic arrival terminal.
 - **GRU → BSB feeder** (BOUGHT, per-person flights) → home late Dec 2.
 
@@ -355,6 +464,84 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | **DPS→GRU** | Long haul | **BOUGHT** — DPS 20:15 Dec 1 → CGK 21:15 · CGK 00:15 Dec 2 → DXB 05:30 · DXB 09:05 → GRU 17:35 Dec 2 | **paid** | 3 legs via CGK + DXB; **DPS→CGK = domestic**, then **CGK intl departure** (likely different terminal — Skytrain transfer; **Jakarta connection 21:15→00:15 = 3h**); **Indonesia exit at CGK (DPS leg is domestic)**; → BSB feeder, home late Dec 2 |
 
 **Routing flags:** (1) MNL→PPS same-day connect on Nov 11 — **BOUGHT on a single booking** (5J280 dep DPS 08:35 · arr MNL 12:45 · **2h10 connection, same T3** · 5J641 arr PPS 16:25). (2) El Nido→HCMC **BOUGHT via CEBU** (Nov 16, ENI 10:45 → CEB 12:30 · **6h05 Cebu connection** · CEB 18:35 → SGN 20:45) — **autotransferência but PROTECTED**; collect/recheck bags + T1→T2; not via Manila. (3) PQC→Phnom Penh by **ferry + bus (Nov 28) — BOUGHT as one 12Go combined ticket** (dep 09:00 → arr 17:00) through Xa Xia–Prek Chak, runs **daily**; storm fallback = PQC→SGN→KTI flight. (4) Return hop **PP→DPS BOUGHT via KUL** (Nov 30, dep **07:20** → arr 16:40, **3h05 KLIA connection, protected**) — one same-day itinerary; the dawn-raid vs SGN-sleep fork is dead (no extra SGN night). (5) **Indonesia double-entry**: entry #1 at CGK (Nov 1), re-entry #2 at DPS (**Nov 30**) — both **visa-free for Brazilians** (30-day tourism entry, no visa/e-VOA needed; worst case at DPS = VoA on arrival ~$35); Bali Levy + arrival card ×2. (6) **All three long connections are autotransferências** (Cebu 6h05 · SGN 3h45 · KLIA 3h05) — each has a **connection-protection guarantee**, but bags are **not** through-checked: collect + re-check at every hub.
+
+---
+
+# Shopping — Model References & Watch Gotchas
+
+**Recorded Oct 27, 2026. Confirmed scheduling only:** Grand Indonesia in Jakarta on **Nov 1**; clothes shopping in HCMC on **Nov 17**. The products below are **research references, not confirmed purchase decisions, reservations or verified branch stock**. Prices are reference/launch/listing figures from the Oct 27 research, not November quotes. Shopping costs are additional to the existing travel budget and daily cash targets.
+
+## Suggested Models — References Only
+
+| Category | Reference model | Why consider it / alternatives |
+|---|---|---|
+| Outdoor smartwatch | **Garmin fēnix 9 Pro AMOLED** | Current flagship-family reference for hiking/travel. Try **47 mm** for everyday comfort versus **51 mm** for a larger screen/battery; size is not chosen. Compare Solar if battery endurance matters more than AMOLED. Exact regional SKU and inReach capability must be checked. |
+| Bluetooth in-ear earbuds | **Sony WF-1000XM6** | Premium all-round reference for sound, noise cancellation and calls. Try fit before buying. **AirPods Pro 3** is an alternative to compare if using an iPhone; phone ecosystem/earbud choice is not confirmed. |
+| Actual Polaroid, holiday use | **Polaroid Flip** | First reference for straightforward holiday photos, autofocus and flash. Jakarta pickup has NOT been confirmed. |
+| Actual Polaroid, advanced controls | **Polaroid I-2** | Premium/manual-control alternative. Vietnam retailer listing: **VND 21.99 million**; HCMC collection needs confirmation. Takashimaya listing showed out of stock during research. |
+| Instant camera if brand is flexible | **Fujifilm Instax Wide Evo** | Hybrid alternative with image selection before printing; not a Polaroid camera. Indonesian retailer benchmark **IDR 4.499 million**; Grand Indonesia stock/price unverified. |
+
+**Purchase locations / fallbacks:**
+- **Jakarta:** Garmin Grand Indonesia, East Mall 3A, **+62 21 2992 9543**; Sony Center, East Mall 3A, **+62 21 2358 0717**. Fujifilm lists **Urbanlife Grand Indonesia** as an authorised dealer for an Instax enquiry. Uniqlo and other clothing brands are available at the mall.
+- **HCMC:** Garmin **121 Lê Lợi** / **10 Nguyễn Văn Tráng**; Sony Store **Vincom Đồng Khởi**. Polaroid I-2 retailer **Anh Đức Digital** lists online availability, but local collection must be confirmed. No guaranteed camera pickup is scheduled.
+- **Bali, only if needed:** Garmin **Jl. Teuku Umar 73, Denpasar**; Beachwalk Kuta for clothes. No extra shopping session has been committed here.
+
+## Premium T-Shirt Fabric References
+
+**Preference recorded Oct 27, 2026:** look for very soft, light, breathable T-shirts similar to good Peruvian Pima cotton. Store visits/enquiries are planned above; no specific garment, size, colour or purchase is confirmed. Local catalogues establish product ranges, not live branch stock for November.
+
+- **First comparison: Uniqlo 100% Supima Cotton.** Reference price **IDR 199,000** in Indonesia / **VND 391,000** in Vietnam at research time. Try one in Jakarta, wear/wash it during Bali, then decide whether to buy more in HCMC. Supima is American-grown extra-long-staple cotton; a close premium-cotton alternative, not a guarantee of identical fabric to a Peruvian shirt.
+- **Second comparison: Lacoste Pima Cotton jersey.** Indonesian **TH5966** is one model reference; exact stock/cut varies. Buy based on feel and fit, not price/brand alone. For women's cuts, Vietnam lists **TF7215**, a relaxed-fit 100% Pima cotton tee, at **VND 2.29 million** (reference only).
+- **Third Jakarta enquiry: M&S Pure Supima Cotton.** The Indonesian catalogue establishes a Supima line, but short-sleeve stock at Grand Indonesia is unverified.
+- **Alternative fabrics:** light cotton–lyocell or modal blends may suit the desired smooth, soft feel; light cotton–linen jersey is a more textured option. These are fabric references, not guaranteed equivalent quality or confirmed branch inventory. Mango Vietnam **87087907** is a lyocell T-shirt lead.
+- **Check the exact garment:** fibre alone does not determine airflow, weight or comfort. Ask for lightweight single jersey, try the fit, and check transparency, cling, collar and care label. **Uniqlo AIRism Cotton Oversized is not the same as Supima**: Uniqlo's published comparison calls that AIRism version middleweight and Supima lightweight; composition varies by model, so check the current label. Do not substitute automatically merely because “AIRism” sounds cooler.
+
+Sources: [Uniqlo Supima Indonesia](https://www.uniqlo.com/id/id/products/E455365-000/00?colorDisplayCode=56) · [Uniqlo Indonesia price](https://www.uniqlo.com/id/id/men/tops/t-shirts?colorCodes=COL62%2CCOL63%2CCOL64%2CCOL65%2CCOL66%2CCOL67%2CCOL68%2CCOL69&tagFabric=cotton-100) · [Uniqlo Vietnam catalogue](https://www.uniqlo.com/vn/vi/men/t-shirts-sweat-and-fleece?tagTopsSilhouette=regular-fit) · [Uniqlo fabric/weight comparison](https://www.uniqlo.com/id/en/contents/lifewear-magazine/so-many-tshirts-so-many-styles/) · [Supima FAQ](https://supima.com/faq/) · [Lacoste Grand Indonesia location](https://www.lacoste.com/id/en/Lacoste-reopens-at-GrandIndonesia-Jakarta.html) · [Lacoste Vietnam stores](https://www.lacoste.com.vn/pages/he-thong-cua-hang) · [Lacoste women's Pima reference](https://www.lacoste.com.vn/products/ao-thun-lacoste-nu-dang-rong-mai-chat-lieu-cotton-mem-tf7215-10-001?view=en) · [M&S Grand Indonesia](https://www.grand-indonesia.com/marks-spencer) · [M&S Supima line](https://www.marksandspencer.com/id/pure-supima%C2%AE-cotton-performance-t-shirt/p/P60590918.html) · [H&M renovation notice](https://id.hm.com/id_id/store-locator) · [Mango lyocell reference](https://shop.mango.com/vn/en/p/men/t-shirts/slim-fit/short-sleeved-lyocell-t-shirt/87087907/01/00) · [TENCEL fibre properties](https://www.tencel.com/fibers/benefits/performance).
+
+## Watch Gotchas Before Buying
+
+1. **Exact model / regional version:** do not equate all “fēnix 9 Pro” variants. Garmin separately markets **Pro – inReach** internationally; the Indonesian listing checked did not clearly promise LTE/satellite connectivity. Ask for the **part number**, actual included features and intended sales region. Do not assume an Asian unit matches a US/EU unit.
+2. **Connectivity is not automatic/global:** inReach-equipped watches need an active plan and supported services/coverage. Check **Brazil and the trip countries**, activation/account eligibility and subscription cost before paying for these features; never assume phone-free messaging/SOS will work everywhere.
+3. **Fit versus specification:** try 47 mm and 51 mm on the wrist. The largest model offers screen/battery advantages but is bulkier; AMOLED versus Solar is a preference/travel-use trade-off, not an already-made decision.
+4. **Stock and price:** branch stock is unconfirmed. Request the exact size/colour/SKU and final card price before making a special trip. Indonesian launch reporting listed Pro from **IDR 20.79 million**, with 51 mm AMOLED variants around **IDR 22.79–24.79 million**. Garmin Vietnam official material listed Pro starting figures of **VND 28.99–30.29 million**, depending on page/configuration. These are comparison references, not like-for-like guaranteed quotes; no country is proven universally cheapest.
+5. **Warranty after returning home:** Garmin Brasil directs overseas purchasers to the warranty arrangements in the country of purchase. Do not assume Brazilian distributor coverage. Buy from an authorised store, keep the itemised receipt/serial number and ask where service must be performed.
+6. **Brazil customs:** retain receipts and consider the applicable traveller allowance/declaration rules. Receita explicitly says a newly bought watch is not automatically personal-use exempt if another watch was taken from Brazil, even if the new one was used during the trip. Do not assume wearing it or removing packaging makes it exempt.
+
+**Camera travel gotcha:** budget for compatible film and check local replenishment. Carry unexposed film in hand luggage and request hand inspection at airport security; repeated scans on this itinerary are a consideration. Camera/film choice remains open.
+
+Sources: [Grand Indonesia Garmin](https://www.grand-indonesia.com/garmin) · [Grand Indonesia Sony](https://www.grand-indonesia.com/sony-id) · [Garmin Indonesia stores](https://www.garmin.co.id/buy/brand-store/) · [Garmin fēnix 9 announcement](https://www.garmin.com/en-US/newsroom/press-release/outdoor/garmin-expands-its-flagship-performance-smartwatch-lineup-with-fenix9-and-fenix9-pro/) · [Indonesian Pro listing](https://www.garmin.co.id/products/outdoor/fenix-9-pro-51-orange/) · [inReach requirements](https://www.garmin.com/en-NZ/connectivity/smartwatches/fenix-9-pro/feature-requirements/) · [Indonesian launch price report](https://gadget.jagatreview.com/2026/10/garmin-fenix-9-pro-harga-indonesia/) · [Garmin Vietnam launch](https://www.garmin.com/vi-VN/newsroom/press-release/news-2026-aug-fenix9/) · [Vietnam configuration prices](https://www.garmin.com/vi-VN/newsroom/news/news-2026-aug-fenix9-promotion/) · [Garmin Brasil overseas warranty](https://garminbrasil.zendesk.com/hc/pt-br/articles/5021356421139-Aplica%C3%A7%C3%A3o-de-Garantia-Compras-no-exterior) · [Receita FAQ, watch question 1.12](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/perguntas-e-respostas) · [Sony WF-1000XM6](https://www.sony.co.id/id/headphones/products/wf-1000xm6) · [Polaroid model guide](https://support.polaroid.com/hc/en-us/articles/115012302327-Best-Polaroid-camera-2026-which-instant-camera-is-right-for-you) · [Polaroid I-2 retailer](https://anhducdigital.vn/may-anh-in-lien-polaroid-i-2-chinh-hang-p20897.html) · [Takashimaya I-2](https://online.takashimaya-vn.com/may-chup-anh-in-lien-polaroid-i-2--s240101617) · [Fujifilm dealers](https://www.fujifilm.com/id/en/authorized-dealers) · [Instax price reference](https://www.galaxy.co.id/products/fujifilm-instax-mini-evo?Color=Black&Style=Isi+20+Paper&country=ID&currency=IDR&variant=45967989637366) · [Polaroid film travel](https://support.polaroid.com/hc/en-us/articles/115012362927-How-to-travel-with-Polaroid-film-X-Rays-at-Airport) · [Uniqlo Saigon Centre](https://www.uniqlo.com/vn/en/special-feature/collaboration/uniqlo-c/26ss/store).
+
+---
+
+# Local Transport — Grab + Backup Contacts
+
+**Decision recorded Oct 27, 2026: mainly use Grab throughout the trip wherever available.** For three travelers with luggage, select a car with enough luggage capacity. Arrange early airport pickups in advance and keep a fallback driver available.
+
+**Coverage exceptions:** Nusa Penida needs a prearranged local driver; El Nido uses local tricycles or booked car/van transfers. In Banyuwangi, Grab serves the town, but the Ijen trek needs tour pickup or a booked return transfer. Puerto Princesa announced Grab's arrival in September 2026, so keep a local transport fallback. Around Mui Ne and remote attractions, check availability and arrange the return journey in advance. For Hà Tiên, use the already-booked ferry/bus operator for the connection.
+
+## Backup Taxi / Transfer Numbers
+
+> Researched Oct 27, 2026. Published contacts, not test-called. Private transfer operators and booking-assistance contacts are identified below; they are not all metered taxi dispatch services. Short codes require a compatible voice service; a data-only travel eSIM cannot make ordinary phone calls. Use WhatsApp where explicitly listed, or ask the accommodation to call.
+
+| Location | Backup | Phone / WhatsApp | Source |
+|---|---|---|---|
+| Jakarta | Bluebird taxi dispatch | **+62 21 794 1234** / **+62 21 7917 1234** | [Bluebird booking instructions](https://info.bluebirdgroup.com/blog/cara-mudah-memesan-taksi-bluebird?lang=id) |
+| Jakarta / Bali | Bluebird booking assistance | **+62 811 1794 1234** — WhatsApp | [Bluebird contact](https://www.bluebirdgroup.com/contact-us?lang=en) |
+| Bali / airport transfers | Goldenbird Bali — reserved transfer | **+62 361 701621** | [Goldenbird regional contacts](https://www.bluebirdgroup.com/faq-at?lang=id) |
+| Nusa Penida | Nusa Penida Taxi — private local driver service | **+62 813 2091 0197** — phone / WhatsApp | [Operator contact](https://nusapenidataxi.com/contact-us/) |
+| Banyuwangi / Ijen | Gotransport — private car / transfer operator | **+62 811 3027 744** — calls; **+62 813 5897 4009** — WhatsApp | [Operator contact](https://gotransport.co.id/contact) |
+| Puerto Princesa | Eulen Joy — airport / van-transfer assistance, not city taxi dispatch | **+63 915 829 3735** — WhatsApp / Viber; **+63 999 709 3766** — calls | [Operator pickup instructions](https://www.eulenjoytransportpalawan.com/van/tourist-van-fifth-trip/) |
+| El Nido | El Nido Adventure / Lagum Adventure — private transport arrangement, not metered taxi dispatch | **+63 915 856 3793** / **+63 945 765 0047** | [Operator transport page](https://www.elnidoadventure.com/palawan-transportation) |
+| Ho Chi Minh City | Vinasun taxi dispatch | **+84 28 3827 2727** | [Official dispatch instructions](https://vinasun.vn/tin-chi-tiet/huong-dan-tim-so-tong-dai-vinasun-taxi-va-dat-xe-chinh-hang) |
+| Mui Ne / Phan Thiết | Lado — Bình Thuận branch | **+84 252 3666 777** | [Lado branch directory](https://ladotaxi.com/) |
+| Da Lat | Lado — Da Lat branch | **+84 263 3666 777** | [Lado branch directory](https://ladotaxi.com/) |
+| Phú Quốc | Green SM taxi dispatch | **1555** — domestic Vietnamese hotline; press **\*** for English | [Current official hotline](https://www.greensm.com/vn-vi/news/so-dien-thoai-tong-dai-taxi-xanh-sm-tren-toan-quoc-hotline-24-7) |
+| Hà Tiên | Booked combined-transfer operator / ferry-terminal taxi desk | No sufficiently verified local taxi dispatch number found; keep the operator contact from the booking voucher | Already-booked combined ferry / bus transfer |
+| Phnom Penh / KTI | Phnom Penh Taxi & Car Rental — private transfer operator | **+855 87 808 181** — phone / WhatsApp | [Operator contact](https://phnompenhtaxiservice.com/contact) |
+
+**Green SM correction:** use **1555**; the old **1900 2088** number was discontinued June 1, 2026, according to the operator.
+
+Coverage references: [Grab Vietnam city list](https://transport.grab.com/vn/locations/) · [Banyuwangi government: GrabCar / GrabBike](https://banyuwangikab.go.id/berita/grab-indonesia-apresiasi-gerakan-naik-ojol-dan-angkutan-umum-inisiasi-bupati-ipuk) · [Puerto Princesa: September 2026 Grab announcement](https://puertoprincesa.ph/articles/mayor-bayron-welcomes-grab-to-puerto-princesa-highlights-transport-convenience-business-opportunities/) · [El Nido app coverage](https://shuttlepalawan.com/blog-grab-uber-el-nido-palawan) · [Nusa Penida transport](https://visitpenida.com/transport/getting-around/).
 
 ---
 
@@ -480,7 +667,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 |---|---|---|
 | Day 1 · Oct 30 | — (depart BSB → GRU) | BSB → São Paulo |
 | Day 2 · Oct 31 | — (long-haul GRU → CGK) | In transit |
-| Day 3 · Nov 1 | Kota Tua (Fatahillah Square) · Café Batavia · Glodok Chinatown food crawl · ⚠️ Monas closed at dusk — skip | Jakarta |
+| Day 3 · Nov 1 | **Grand Indonesia shopping — confirmed visit**, aim ~18:30–21:00 · Garmin + Sony first → **optional clothes, time permitting: Uniqlo → Lacoste → M&S** · models/purchases unconfirmed · mall dinner · Kota Tua/Glodok only if shopping dropped | Jakarta |
 | Day 4 · Nov 2 | Arrive Bali → transfer to Ubud (Bali Levy + arrival card) | Bali → Ubud |
 | Day 5 · Nov 3 | **Sangeh Monkey Forest** (quiet) · Ubud Art Market · Campuhan Ridge Walk · Legong/Kecak dance at Ubud Palace | Ubud |
 | Day 6 · Nov 4 | Jatiluwih Rice Terraces (UNESCO) · Tirta Empul water temple · **Bali Pulina** coffee plantation · **Kanto Lampo waterfall** (alt: Tegenungan) · Goa Gajah Elephant Cave | Ubud |
@@ -496,7 +683,7 @@ Legend: ✅ = rain-safe · ⚠️ = rain/sea-risky (needs buffer) · 🛏️ = o
 | Day 16 · Nov 14 | El Nido Tour A — Big Lagoon · Secret Lagoon · Shimizu Beach ⚠️ | El Nido |
 | Day 17 · Nov 15 | El Nido Tour B — Snake Island · Cathedral Cave · Pinagbuyutan ⚠️ | El Nido |
 | Day 18 · Nov 16 | El Nido → HCMC flights — **BOUGHT** | El Nido → Ho Chi Minh City |
-| Day 19 · Nov 17 | Cu Chi Tunnels half-day (+AK-47 firing range) · Ben Thanh Market · Bui Vien street ✅ | Ho Chi Minh City |
+| Day 19 · Nov 17 | Cu Chi Tunnels half-day (+AK-47 firing range) · **clothes shopping ~15:00–19:00: Uniqlo → Lacoste at Saigon Centre**, then Vincom Đồng Khởi if needed · Supima/Pima tees first · Bui Vien evening optional | Ho Chi Minh City |
 | Day 20 · Nov 18 | War Remnants Museum · Reunification Palace · food crawl (banh mi, com tam, egg coffee, rooftop) ✅ | Ho Chi Minh City |
 | Day 21 · Nov 19 | Bitexco Skydeck · Fine Arts Museum · spa (Sense Spa) · AO Show / rooftop ✅ | Ho Chi Minh City |
 | Day 22 · Nov 20 | Bus HCMC→Mui Ne (06:00) — **BOUGHT** · Mui Ne Beach / fishing village · Red Sand Dunes sunset | Mui Ne |
@@ -793,7 +980,9 @@ This route is **chilli-forward, coconut-heavy, fried-heavy and coffee-strong** �
 5. **Pharmacy kit:** antacid/alginate, ORS, loperamide, a PPI **only if your doctor prescribed one**, plus any personal meds in original packaging with the prescription.
 6. **Ask, don't assume:** "no ice", "not spicy", "well done", "no MSG" are all normal requests — say them in the local phrasing above.
 
-## Jakarta (Day 3 · Kota Tua / Glodok stopover focus)
+## Jakarta (Day 3 · Grand Indonesia mall dinner; Kota Tua / Glodok alternatives)
+
+**Nov 1 update:** dinner at Grand Indonesia fits the confirmed shopping visit. The Kota Tua/Glodok venues below are retained as alternatives if shopping is dropped; do not add a second cross-city loop to the evening.
 
 | Type | Name | Price pp | From hotel (ODST) | Notes |
 |---|---|---|---|---|
